@@ -1,0 +1,166 @@
+     <div class="Service_page_main">
+            <div class="Service_page_banner">
+              <img src="/content/services-page-header.jpg" alt="services-header" />
+              <h1 class="page-title">EpiCypher Services</h1>
+            </div>
+            <div class="have_ques">
+              <div class="container">
+                <div class="have_ques_left">
+                  <p class="text-left">
+                    EpiCypher is pushing the boundaries of epigenetics research,
+                    developing innovative tools to advance our understanding of chromatin
+                    biology and improve human health.
+                  </p>
+                  <p class="text-left">
+                    We are leveraging our breakthrough technologies to offer a range of
+                    leading-edge assay services to meet your chromatin research and drug
+                    development needs.
+                  </p>
+                </div>
+                <div class="have_ques_right">
+                  <h3>Have Questions?</h3>
+                  <p>
+                    We're here to help. Click below and a member of our team will get back
+                    to you shortly!
+                  </p>
+                  <a href="/contact-us/request-more-information">Request More info</a>
+                </div>
+              </div>
+            </div>
+            <div class="container">
+              <h2 class="sub_heading">Services We Offer</h2>
+
+              <div class="services-section">
+                <div>
+                  <img class="service-image" src="https://cdn11.bigcommerce.com/s-y9o92/images/stencil/original/image-manager/asp-7125.jpg?t=1701852209" />
+                </div>
+                <div class="services-section-right">
+                  <h3 style="margin-top: 0">
+                    <a
+                      class="services-title"
+                      href="/services/cutana-cut-and-run"
+                      ><strong
+                        > CUTANA<sup>™</sup> CUT&RUN Services
+                        </strong
+                      ></a
+                    >
+                  </h3>
+                  <p class="services-description">
+                    EpiCypher’s CUTANA<sup>™</sup> CUT&RUN  Services provide unique access to our genomic expertise, 
+                    enabling diverse applications across biomedical research and drug development.
+                    Our services offer exclusive access to EpiCypher’s genomics experts, 
+                    guaranteeing strong support from experimental design to data analysis.
+
+                  </p>
+                  <button class="services-page__button">
+                    <a
+                      style="color: white"
+                      href="/services/cutana-cut-and-run"
+                      >Learn More</a
+                    >
+                  </button>
+                </div>
+              </div>
+              <hr />
+              <div class="services-section">
+                <div>
+                  <img class="service-image" src="/content/service_one_new.jpg" alt="" />
+                </div>
+                <div class="services-section-right">
+                  <h3 style="margin-top: 0">
+                    <a
+                      class="services-title"
+                      href="/services/epidyne-chromatin-remodeling-hts-assays"
+                      ><strong
+                        >EpiDyne<sup>®</sup> Chromatin Remodeling HTS Assay
+                        Services</strong
+                      ></a
+                    >
+                  </h3>
+                  <p class="services-description">
+                    EpiDyne<sup>®</sup> nucleosome substrates enable direct quantification
+                    of chromatin remodeling activity, transforming the study of these
+                    important therapeutic targets. EpiDyne services combine these products
+                    with robust HTS assays to accelerate basic research and drug
+                    discovery.
+                  </p>
+                  <button class="services-page__button">
+                    <a
+                      style="color: white"
+                      href="https://www.epicypher.com/services/epidyne-chromatin-remodeling-hts-assays"
+                      >Learn More</a
+                    >
+                  </button>
+                </div>
+              </div>
+              <hr />
+          
+              <div class="services-section">
+                <div>
+                  <img class="service-image" src="/content/S_service2.jpg" alt="" />
+                </div>
+                <div class="services-section-right">
+                  <h3 style="margin-top: 0">
+                    <a
+                      href="/services/custom-nucleosome-development"
+                      class="services-title"
+                      ><strong>Custom Nucleosome Development Services</strong></a
+                    >
+                  </h3>
+                  <p class="services-description">
+                    Nucleosomes are the biological target of chromatin associated proteins
+                    and modifying enzymes, making them preferred substrates in epigenetics
+                    studies. EpiCypher provides customized nucleosome development services
+                    for a range of downstream applications.
+                  </p>
+                  <button class="services-page__button">
+                    <a
+                      style="color: white"
+                      href="https://www.epicypher.com/services/custom-nucleosome-development"
+                      >Learn More</a
+                    >
+                  </button>
+                </div>
+              </div>
+              <hr />
+          
+              <div class="services-section">
+                <div>
+                  <img class="service-image" src="/content/service3_new.jpg" alt="" />
+                </div>
+                <div class="services-section-right">
+                  <h3 style="margin-top: 0">
+                    <a
+                      class="services-title"
+                      href="/services/dcypher-assay-services-for-novel-chromatin-interactions"
+                      ><strong
+                        >dCypher™ Assay Services for Novel Chromatin Interactions</strong
+                      ></a
+                    >
+                  </h3>
+                  <p class="services-description">
+                    The binding specificity of chromatin bound proteins is crucial to
+                    understanding their function. dCypher™ services leverage our library
+                    of modified nucleosomes or histone peptides together with
+                    high-throughput platforms to interrogate novel chromatin interactions.
+                  </p>
+                  <button class="services-page__button">
+                    <a
+                      style="color: white"
+                      href="https://www.epicypher.com/services/dcypher-assay-services-for-novel-chromatin-interactions"
+                      >Learn More</a
+                    >
+                  </button>
+                </div>
+              </div>
+              <hr />
+            </div>
+          </div>
+<style>
+.service-image {
+    float: left;
+    object-fit: fill;
+    margin-right: 3rem;
+    max-width: 520px;
+}
+</style>
