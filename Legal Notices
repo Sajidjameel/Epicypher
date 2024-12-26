@@ -1,0 +1,170 @@
+<div class="legal-notices__card-wrapper">
+  <a
+    href="https://www.epicypher.com/terms-and-conditions/"
+    style="text-decoration: none">
+    <div class="card" id="card-1">
+      <div class="content">
+        <div class="title">
+          <h3
+            class="legal-notices-title"
+            style="color: #4698cb; margin: 0; text-decoration: none">
+            Terms & Conditions
+          </h3>
+        </div>
+      </div>
+    </div>
+  </a>
+
+  <a
+    href="https://www.epicypher.com/terms-of-use/"
+    style="text-decoration: none">
+    <div class="card" id="card-2">
+      <div class="content">
+        <div class="title">
+          <h3 class="legal-notices-title" style="color: #4698cb; margin: 0">
+            Terms of Use
+          </h3>
+        </div>
+      </div>
+    </div>
+  </a>
+
+  <a href="https://www.epicypher.com/privacy/" style="text-decoration: none">
+    <div class="card" id="card-3">
+      <div class="content">
+        <div class="title">
+          <h3 class="legal-notices-title" style="color: #4698cb; margin: 0">
+            Privacy Policy
+          </h3>
+        </div>
+      </div>
+    </div>
+  </a>
+
+  <a
+    href="https://www.epicypher.com/intellectual-property/"
+    style="text-decoration: none"
+    ><div class="card" id="card-4">
+      <div class="content">
+        <div class="title">
+          <h3 class="legal-notices-title" style="color: #4698cb; margin: 0">
+            Intellectual Property
+          </h3>
+        </div>
+      </div>
+    </div>
+  </a>
+
+  <a href="https://www.epicypher.com/end-user-agreement/" style="text-decoration: none">
+    <div class="card" id="card-5">
+      <div class="content">
+        <div class="title">
+          <h3 class="legal-notices-title" style="color: #4698cb; margin: 0">
+            End User Agreement
+          </h3>
+        </div>
+      </div>
+    </div>
+  </a>
+
+  <a
+    href="https://www.epicypher.com/acceptable-use-policy/"
+    style="text-decoration: none"
+    ><div class="card" id="card-6">
+      <div class="content">
+        <div class="title">
+          <h3 class="legal-notices-title" style="color: #4698cb; margin: 0">
+            Acceptable Use Policy
+          </h3>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<style>
+  /* CARD */
+  .legal-notices__card-wrapper {
+    display: grid;
+    gap: 2rem;
+    width: 78%;
+    margin: auto;
+    grid-template-columns: repeat(2, 1fr);
+    padding-top: 3rem;
+  }
+  a .card {
+    border: 2.5px solid #4698cb;
+    border-radius: 7px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 100%;
+    padding: 2.5rem 2rem;
+  }
+  a #card-1,
+  a #card-2,
+  a #card-3,
+  a #card-4,
+  a #card-5,
+  a #card-6 {
+    background: url('/content/images/paper-icon.svg');
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position: 90% 50%;
+    cursor: pointer;
+  }
+
+  /* Card Hover  */
+
+  a #card-1:hover,
+  a #card-2:hover,
+  a #card-3:hover,
+  a #card-4:hover,
+  a #card-5:hover,
+  a #card-6:hover {
+    transform: translate3D(0, -1px, 0) scale(1.03);
+  }
+
+  @media screen and (max-width: 900px) {
+    .legal-notices__card-wrapper {
+      width: 90%;
+    }
+  }
+  @media screen and (max-width: 800px) {
+    .legal-notices__card-wrapper {
+      display: flex;
+      flex-direction: column;
+      width: 65%;
+    }
+    /* .legal-notices-title {
+      text-align: center;
+    } */
+    a #card-1,
+    a #card-2,
+    a #card-3,
+    a #card-4,
+    a #card-5,
+    a #card-6 {
+      background-size: 15%;
+      background-position: 90% 50%;
+    }
+    /* a .card {
+      padding: 1.5rem 1rem;
+    } */
+  }
+  @media screen and (max-width: 522px) {
+    .legal-notices__card-wrapper {
+      width: 90%;
+    }
+    /* a #card-1,
+    a #card-2,
+    a #card-3,
+    a #card-4 {
+      background-size: 10%;
+      background-position: 95% 50%;
+    } */
+    a .card {
+      padding: 1.5rem 1rem;
+    }
+  }
+</style>
