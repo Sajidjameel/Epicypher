@@ -1,0 +1,463 @@
+<div class="contact-page">
+  <p
+    style="
+      color: #000 !important;
+      font-size: 2rem !important;
+      text-align: center;
+    ">
+    How can we help?
+  </p>
+  <div class="card-wrapper">
+    <div class="card" id="card-1">
+      <div class="card-content">
+        <div class="content">
+          <div class="title">
+            <h3>Product Information</h3>
+          </div>
+          <div class="list-content">
+            <ul>
+              <li>Questions about our products and services</li>
+              <li>Which product is right for me?</li>
+              <li>Product specifications</li>
+            </ul>
+          </div>
+        </div>
+        <div class="contact-button">
+          <a href="/contact-us/request-info/">Request Info</a>
+        </div>
+      </div>
+    </div>
+    <div class="card" id="card-2">
+      <div class="card-content">
+        <div class="content">
+          <div class="title">
+            <h3>Request A Quote</h3>
+            <h5>
+              For US Customers –
+              <a id="underline" href="/contact-us/international-orders/ "
+                >Outside the US?*</a
+              >
+            </h5>
+          </div>
+
+          <div class="list-content">
+            <ul>
+              <li>Catalog products</li>
+              <li>Custom and bulk orders</li>
+              <li>Services</li>
+            </ul>
+          </div>
+        </div>
+        <div class="contact-button">
+          <a href="/contact-us/request-a-quote/">Request Quote</a>
+        </div>
+      </div>
+    </div>
+    <div class="card" id="card-3">
+      <div class="card-content">
+        <div class="content">
+          <div class="title">
+            <h3>Order Placement & Support</h3>
+          </div>
+          <div class="list-content">
+            <ul>
+              <li>Place an order</li>
+              <li>
+                International Orders –
+                <a id="underline" href="/contact-us/international-orders/"
+                  >Distributor List*</a
+                >
+              </li>
+              <li>Order status & shipping</li>
+              <li>Billing questions</li>
+              <li>Problem with an order</li>
+            </ul>
+          </div>
+        </div>
+        <div class="contact-button">
+          <a href="/contact-us/orders-customer-service/">Contact Us</a>
+        </div>
+      </div>
+    </div>
+    <div class="card" id="card-4">
+      <div class="card-content">
+        <div class="content">
+          <div class="title">
+            <h3>Technical Support</h3>
+          </div>
+          <div class="list-content">
+            <ul>
+              <li>Protocol questions</li>
+              <li>Experimental troubleshooting</li>
+              <li>Technical applications</li>
+            </ul>
+          </div>
+        </div>
+        <div class="contact-button">
+          <a href="/contact-us/request-tech-support/">Request Support</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="bottom-content">
+    <p
+      style="
+        text-align: center;
+        color: #000 !important;
+        width: 80%;
+        margin: auto;
+        font-size: 18px !important;
+        padding: 1rem 0 0;
+      ">
+      *For international customers, please see our
+      <a id="underline" href="/contact-us/international-orders/"
+        >Distributor List</a
+      >
+      for quotes and order placement in your country.
+    </p>
+
+    <p
+      style="
+        color: #000 !important;
+        font-size: 18px !important;
+        text-align: center;
+        width: 80%;
+        margin: auto;
+      ">
+      EpiCypher operates in the Eastern time zone. Other time zones may
+      experience a slight delay in responses.
+    </p>
+  </div>
+
+  <div id="prodAccordion">
+    <h1>Frequently Asked Questions</h1>
+    <div id="ProductDescription" class="Block Panel">
+      <h3
+        style="
+          padding-bottom: 7px;
+          margin-top: 2rem;
+          border-bottom: 2px solid #525051;
+          font-size: 1.1rem;
+          color: #000;
+        "
+        class="sub-title1">
+        Where is EpiCypher located?
+      </h3>
+      <div
+        class="ProductDescriptionContainer product-droppdown__section-description">
+        <div style="padding-top: 10px" class="product-documents">
+          <p style="font-size: 18px !important; color: #000 !important">
+            We operate out of the Research Triangle Park in Durham, North
+            Carolina. As this is based in the eastern time zone of the US, our
+            responses to inquires from other time zones may be delayed.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div id="ProductDescription" class="Block Panel">
+      <h3
+        style="
+          padding-bottom: 7px;
+          margin-top: 2rem;
+          border-bottom: 2px solid #525051;
+          font-size: 1.1rem;
+          color: #000;
+        "
+        class="sub-title1">
+        How do I purchase products if I live outside the US?
+      </h3>
+      <div
+        class="ProductDescriptionContainer product-droppdown__section-description">
+        <div style="padding-top: 10px" class="product-documents">
+          <p style="font-size: 18px !important; color: #000 !important">
+            To purchase our products outside of the US, please visit:
+
+            <a href="/contact-us/international-orders/"
+              >https://www.epicypher.com/contact-us/international-orders/</a
+            >
+          </p>
+        </div>
+      </div>
+    </div>
+    <div id="ProductDescription" class="Block Panel">
+      <h3
+        style="
+          padding-bottom: 7px;
+          margin-top: 2rem;
+          border-bottom: 2px solid #525051;
+          font-size: 1.1rem;
+          color: #000;
+        "
+        class="sub-title1">
+        Is this product available and what is the lead time on this product?
+      </h3>
+      <div
+        class="ProductDescriptionContainer product-droppdown__section-description">
+        <div style="padding-top: 10px" class="product-documents">
+          <p style="font-size: 18px !important; color: #000 !important">
+            Inventory levels: Inventory can be checked by using our online
+            website “Add to Cart” feature. You can enter the catalog number into
+            the search bar to find the product and navigate to the product page,
+            select the quantity of the products you would like then click the
+            green ‘Add to Cart’ button, and if a lime green banner shows up at
+            the top, it indicates the item is in stock and added to your cart.
+            If a red banner shows up, then the product is out-of-stock. For lead
+            times on out-of-stock products please email our customer service
+            team at
+            <a href="mailto:sales@epicypher.com">sales@epicypher.com</a>.
+          </p>
+
+          <p style="font-size: 18px !important; color: #000 !important">
+            Lead Time: If a product is in stock it will ship overnight if the
+            order is received by noon eastern time Monday-Thursday. Orders
+            placed after noon on Thursdays will ship the following Monday, we do
+            not ship domestically on Fridays.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div id="ProductDescription" class="Block Panel">
+      <h3
+        style="
+          padding-bottom: 7px;
+          margin-top: 2rem;
+          border-bottom: 2px solid #525051;
+          font-size: 1.1rem;
+          color: #000;
+        "
+        class="sub-title1">
+        Who do I contact about a problem with my order or to get an invoice?
+      </h3>
+      <div
+        class="ProductDescriptionContainer product-droppdown__section-description">
+        <div style="padding-top: 10px" class="product-documents">
+          <p style="font-size: 18px !important; color: #000 !important">
+            For shipping, and tracking issues email
+            <a href="mailto:sales@epicypher.com">sales@epicypher.com</a>, for
+            accounting, invoice and billing issues email
+            <a href="mailto:accounting@epicypher.com"
+              >accounting@epicypher.com</a
+            >
+          </p>
+        </div>
+      </div>
+    </div>
+    <div id="ProductDescription" class="Block Panel">
+      <h3
+        style="
+          padding-bottom: 7px;
+          margin-top: 2rem;
+          border-bottom: 2px solid #525051;
+          font-size: 1.1rem;
+          color: #000;
+        "
+        class="sub-title1">
+        My product arrived late or was stored incorrectly. What do I do?
+      </h3>
+      <div
+        class="ProductDescriptionContainer product-droppdown__section-description">
+        <div style="padding-top: 10px" class="product-documents">
+          <p style="font-size: 18px !important; color: #000 !important">
+            Please email
+            <a href="mailto:techsupport@epicypher.com"
+              >techsupport@epicypher.com</a
+            >
+            for guidance
+          </p>
+        </div>
+      </div>
+    </div>
+    <div id="ProductDescription" class="Block Panel">
+      <h3
+        style="
+          padding-bottom: 7px;
+          margin-top: 2rem;
+          border-bottom: 2px solid #525051;
+          font-size: 1.1rem;
+          color: #000;
+        "
+        class="sub-title1">
+        EpiCypher is not set up as a supplier at my institution, who do I
+        contact?
+      </h3>
+      <div
+        class="ProductDescriptionContainer product-droppdown__section-description">
+        <div style="padding-top: 10px" class="product-documents">
+          <p style="font-size: 18px !important; color: #000 !important">
+            Please email
+            <a href="mailto:accounting@epicypher.com"
+              >accounting@epicypher.com</a
+            >
+            with the information needed
+          </p>
+        </div>
+      </div>
+    </div>
+    <div id="ProductDescription" class="Block Panel">
+      <h3
+        style="
+          padding-bottom: 7px;
+          margin-top: 2rem;
+          border-bottom: 2px solid #525051;
+          font-size: 1.1rem;
+          color: #000;
+        "
+        class="sub-title1">
+        I’m interested in a research collaboration or business partnership, who
+        do I contact?
+      </h3>
+      <div
+        class="ProductDescriptionContainer product-droppdown__section-description">
+        <div style="padding-top: 10px" class="product-documents">
+          <p style="font-size: 18px !important; color: #000 !important">
+            Please email us at
+            <a href="mailto:info@epicypher.com">info@epicypher.com</a>
+          </p>
+        </div>
+      </div>
+    </div>
+    <div id="ProductDescription" class="Block Panel">
+      <h3
+        style="
+          padding-bottom: 7px;
+          margin-top: 2rem;
+          border-bottom: 2px solid #525051;
+          font-size: 1.1rem;
+          color: #000;
+        "
+        class="sub-title1">
+        I’m starting a new lab, do you offer special discounts?
+      </h3>
+      <div
+        class="ProductDescriptionContainer product-droppdown__section-description">
+        <div style="padding-top: 10px" class="product-documents">
+          <p style="font-size: 18px !important; color: #000 !important">
+            Yes - email us at
+            <a href="mailto:quotes@epicypher.com">quotes@epicypher.com</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+  /* Underline */
+  #underline:hover {
+    text-decoration: underline !important;
+  }
+
+  .title-paragraph p {
+    text-align: center;
+    color: #000 !important;
+  }
+  .card-wrapper {
+    display: grid;
+    gap: 2rem;
+    width: 78%;
+    margin: auto;
+    /* grid-template-columns: repeat(auto-fill, minmax(330px, 1fr)); */
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .card {
+    border: 2.5px solid #4698cb;
+    border-radius: 7px;
+    /* background: url('/content/images/epicypher-logo.png');
+      background-repeat: no-repeat;
+      background-size: 30%;
+      background-position: 106% 108%; */
+  }
+  #card-1 {
+    background: url('/content/images/headphones.svg');
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position: 95% 95%;
+  }
+  #card-2 {
+    background: url('/content/images/quote.svg');
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position: 95% 95%;
+  }
+  #card-3 {
+    background: url('/content/images/package.svg');
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position: 95% 95%;
+  }
+  #card-4 {
+    background: url('/content/images/dna-wrench.svg');
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position: 95% 95%;
+  }
+  .card-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    padding: 2rem;
+  }
+  .card-wrapper .card .container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    height: 100%;
+  }
+  .container h3,
+  h5 {
+    text-align: left;
+    /* font-weight: 600; */
+    color: #4698cb;
+    margin: 0 0 0.5rem;
+  }
+  /* .container > p {
+        text-align: left;
+        color: #000 !important;
+      } */
+  .list-content ul li {
+    margin-bottom: 0;
+  }
+  .contact-button {
+    color: #fff;
+    background-color: #4698cb;
+    padding: 6px 30px;
+    border-radius: 30px;
+    /* margin: 2rem auto; */
+    display: flex;
+    /* margin: auto; */
+    width: fit-content;
+  }
+  .contact-button a {
+    color: #fff;
+  }
+  .page-content ol {
+    margin-bottom: 0;
+  }
+  .page-content a:hover {
+    text-decoration: none;
+  }
+
+  /* Accordion  */
+
+  #prodAccordion {
+    padding: 3rem 0 0;
+  }
+  @media screen and (max-width: 900px) {
+    .card-wrapper {
+      flex-direction: column;
+    }
+  }
+  @media screen and (max-width: 800px) {
+    .card-wrapper {
+      display: flex;
+    }
+    #card-1,
+    #card-2,
+    #card-3,
+    #card-4 {
+      background: none;
+    }
+  }
+</style>
