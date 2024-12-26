@@ -1,0 +1,468 @@
+<div class="nucleosomes-content-top" style="margin-top: 4rem">
+  <div class="nucleosomes-img">
+    <img src="/content/protocols/dna-purification-kit.png" alt="dna-purification-kit-box"
+      style="max-width: 285px; padding-right: 1.5rem" />
+  </div>
+
+  <div class="nucleosomes-text-area">
+    <div style="display: block" class="nucleosomes-text-top">
+      CUTANA™ Quick Cleanup DNA Purification Kit Manual & Other Resources
+    </div>
+  </div>
+</div>
+
+<div id="prodAccordion">
+  <div id="ProductDescription" class="Block Panel">
+    <h3 class="lot-titles">Current Version</h3>
+    <h3 style="
+        padding-bottom: 5px;
+        margin-top: 2rem;
+        border-bottom: 2px solid #525051;
+        font-size: 1.3rem;
+      " class="sub-title1">
+      Kit Version 1
+    </h3>
+    <div class="ProductDescriptionContainer product-droppdown__section-description">
+      <!-- <div style="padding-top: 10px" class="product-documents">
+        <a
+          href="/content/documents/tds/14-0050.pdf"
+          target="_new"
+          class="product-documents__link">
+          <span class="product-documents__info">Technical Datasheet</span>
+          <svg
+            version="1.1"
+            id="Layer_1"
+            xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink"
+            x="0px"
+            y="0px"
+            viewBox="0 0 228 240"
+            style="enable-background: new 0 0 228 240"
+            xml:space="preserve"
+            class="product-documents__icon"
+            alt="16-0002 Datasheet">
+            <g>
+              <path
+                class="product-documents__svg-pdf"
+                d="M191.92,68.77l-47.69-47.69c-1.33-1.33-3.12-2.08-5.01-2.08H45.09C41.17,19,38,22.17,38,26.09v184.36
+              c0,3.92,3.17,7.09,7.09,7.09h141.82c3.92,0,7.09-3.17,7.09-7.09V73.8C194,71.92,193.25,70.1,191.92,68.77z M177.65,77.06h-41.7
+              v-41.7L177.65,77.06z M178.05,201.59H53.95V34.95h66.92v47.86c0,5.14,4.17,9.31,9.31,9.31h47.86V201.59z" />
+            </g>
+            <rect
+              x="20"
+              y="112"
+              class="product-documents__svg-background"
+              width="146"
+              height="76" />
+            <g>
+              <path
+                class="product-documents__svg-pdf"
+                d="M23.83,125.68h22.36c5.29,0,9.41,1.33,12.35,4c2.94,2.67,4.42,6.39,4.42,11.18c0,4.78-1.47,8.51-4.42,11.18
+              c-2.94,2.67-7.06,4-12.35,4H34.59v18.29H23.83V125.68z M44.81,147.9c5.38,0,8.07-2.32,8.07-6.97c0-2.39-0.67-4.16-2-5.31
+              c-1.33-1.15-3.36-1.73-6.07-1.73H34.59v14.01H44.81z" />
+              <path
+                class="product-documents__svg-pdf"
+                d="M69.92,125.68h18.91c5.29,0,9.84,0.97,13.66,2.9c3.82,1.93,6.74,4.72,8.76,8.35
+              c2.02,3.63,3.04,7.98,3.04,13.04c0,5.06-1,9.42-3,13.08c-2,3.66-4.91,6.45-8.73,8.38c-3.82,1.93-8.4,2.9-13.73,2.9H69.92V125.68z
+               M88.07,165.63c10.35,0,15.52-5.22,15.52-15.66c0-10.4-5.17-15.59-15.52-15.59h-7.38v31.26H88.07z" />
+              <path
+                class="product-documents__svg-pdf"
+                d="M122.57,125.68h32.84v8.49h-22.22v11.18h20.84v8.49h-20.84v20.49h-10.63V125.68z" />
+            </g>
+          </svg>
+        </a>
+      </div> -->
+      <div class="product-documents">
+        <a href="/content/documents/manuals/14-0052-quick-dna-cleanup-kit-manual.pdf" target="_new" class="product-documents__link">
+          <span class="product-documents__info" style="margin-top: 20px;">CUTANA™ Quick Cleanup DNA Purification Kit Manual</span>
+          <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+            x="0px" y="0px" viewBox="0 0 228 240" style="enable-background: new 0 0 228 240" xml:space="preserve"
+            class="product-documents__icon" alt="16-0002 Datasheet">
+            <g>
+              <path class="product-documents__svg-pdf" d="M191.92,68.77l-47.69-47.69c-1.33-1.33-3.12-2.08-5.01-2.08H45.09C41.17,19,38,22.17,38,26.09v184.36
+              c0,3.92,3.17,7.09,7.09,7.09h141.82c3.92,0,7.09-3.17,7.09-7.09V73.8C194,71.92,193.25,70.1,191.92,68.77z M177.65,77.06h-41.7
+              v-41.7L177.65,77.06z M178.05,201.59H53.95V34.95h66.92v47.86c0,5.14,4.17,9.31,9.31,9.31h47.86V201.59z" />
+            </g>
+            <rect x="20" y="112" class="product-documents__svg-background" width="146" height="76" />
+            <g>
+              <path class="product-documents__svg-pdf" d="M23.83,125.68h22.36c5.29,0,9.41,1.33,12.35,4c2.94,2.67,4.42,6.39,4.42,11.18c0,4.78-1.47,8.51-4.42,11.18
+              c-2.94,2.67-7.06,4-12.35,4H34.59v18.29H23.83V125.68z M44.81,147.9c5.38,0,8.07-2.32,8.07-6.97c0-2.39-0.67-4.16-2-5.31
+              c-1.33-1.15-3.36-1.73-6.07-1.73H34.59v14.01H44.81z" />
+              <path class="product-documents__svg-pdf" d="M69.92,125.68h18.91c5.29,0,9.84,0.97,13.66,2.9c3.82,1.93,6.74,4.72,8.76,8.35
+              c2.02,3.63,3.04,7.98,3.04,13.04c0,5.06-1,9.42-3,13.08c-2,3.66-4.91,6.45-8.73,8.38c-3.82,1.93-8.4,2.9-13.73,2.9H69.92V125.68z
+               M88.07,165.63c10.35,0,15.52-5.22,15.52-15.66c0-10.4-5.17-15.59-15.52-15.59h-7.38v31.26H88.07z" />
+              <path class="product-documents__svg-pdf"
+                d="M122.57,125.68h32.84v8.49h-22.22v11.18h20.84v8.49h-20.84v20.49h-10.63V125.68z" />
+            </g>
+          </svg>
+        </a>
+      </div>
+      <div class="product-documents">
+        <a href="/content/documents/manuals/14-0052-dna-purification-quick-card.pdf" target="_new" class="product-documents__link">
+          <span class="product-documents__info">CUTANA™ Quick Cleanup DNA Purification Kit Quick Card</span>
+          <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+            x="0px" y="0px" viewBox="0 0 228 240" style="enable-background: new 0 0 228 240" xml:space="preserve"
+            class="product-documents__icon" alt="16-0002 Datasheet">
+            <g>
+              <path class="product-documents__svg-pdf" d="M191.92,68.77l-47.69-47.69c-1.33-1.33-3.12-2.08-5.01-2.08H45.09C41.17,19,38,22.17,38,26.09v184.36
+              c0,3.92,3.17,7.09,7.09,7.09h141.82c3.92,0,7.09-3.17,7.09-7.09V73.8C194,71.92,193.25,70.1,191.92,68.77z M177.65,77.06h-41.7
+              v-41.7L177.65,77.06z M178.05,201.59H53.95V34.95h66.92v47.86c0,5.14,4.17,9.31,9.31,9.31h47.86V201.59z" />
+            </g>
+            <rect x="20" y="112" class="product-documents__svg-background" width="146" height="76" />
+            <g>
+              <path class="product-documents__svg-pdf" d="M23.83,125.68h22.36c5.29,0,9.41,1.33,12.35,4c2.94,2.67,4.42,6.39,4.42,11.18c0,4.78-1.47,8.51-4.42,11.18
+              c-2.94,2.67-7.06,4-12.35,4H34.59v18.29H23.83V125.68z M44.81,147.9c5.38,0,8.07-2.32,8.07-6.97c0-2.39-0.67-4.16-2-5.31
+              c-1.33-1.15-3.36-1.73-6.07-1.73H34.59v14.01H44.81z" />
+              <path class="product-documents__svg-pdf" d="M69.92,125.68h18.91c5.29,0,9.84,0.97,13.66,2.9c3.82,1.93,6.74,4.72,8.76,8.35
+              c2.02,3.63,3.04,7.98,3.04,13.04c0,5.06-1,9.42-3,13.08c-2,3.66-4.91,6.45-8.73,8.38c-3.82,1.93-8.4,2.9-13.73,2.9H69.92V125.68z
+               M88.07,165.63c10.35,0,15.52-5.22,15.52-15.66c0-10.4-5.17-15.59-15.52-15.59h-7.38v31.26H88.07z" />
+              <path class="product-documents__svg-pdf"
+                d="M122.57,125.68h32.84v8.49h-22.22v11.18h20.84v8.49h-20.84v20.49h-10.63V125.68z" />
+            </g>
+          </svg>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="ProductDescription">
+  <h3 class="lot-titles">Previous Versions</h3>
+  <h3 style="
+      padding-bottom: 5px;
+      margin-top: 2rem;
+      font-size: 1.3rem;
+    ">
+    For the column-based CUTANA™ DNA Purification Kit (14-0050) manual go <a href="/resources/protocols/cutana-dna-purification-kit-manual" target="_blank">here</a>
+  </h3>
+</div>
+<!-- <div id="prodAccordion">
+  <div id="ProductDescription" class="Block Panel">
+    <h3 class="lot-titles">Previous Versions</h3>
+    <h3 style="
+        padding-bottom: 5px;
+        margin-top: 2rem;
+        border-bottom: 2px solid #525051;
+        font-size: 1.3rem;
+      " class="sub-title1">
+      For the column-based CUTANA™ DNA Purification Kit (14-0050) manual go <a href="/resources/protocols/cutana-dna-purification-kit-manual" target="_blank">here</a>
+    </h3>
+    <div class="ProductDescriptionContainer product-droppdown__section-description">
+      <p style="color: #666 !important; padding-top: 1rem; margin-bottom: 0">
+        Lots 20226001-53, 20335002, and 21130003-02
+      </p>
+      <div style="padding-top: 10px" class="product-documents">
+        <a
+          href="/content/documents/tds/14-0050-01.pdf"
+          target="_new"
+          class="product-documents__link">
+          <span class="product-documents__info">Technical Datasheet</span>
+          <svg
+            version="1.1"
+            id="Layer_1"
+            xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink"
+            x="0px"
+            y="0px"
+            viewBox="0 0 228 240"
+            style="enable-background: new 0 0 228 240"
+            xml:space="preserve"
+            class="product-documents__icon"
+            alt="16-0002 Datasheet">
+            <g>
+              <path
+                class="product-documents__svg-pdf"
+                d="M191.92,68.77l-47.69-47.69c-1.33-1.33-3.12-2.08-5.01-2.08H45.09C41.17,19,38,22.17,38,26.09v184.36
+          c0,3.92,3.17,7.09,7.09,7.09h141.82c3.92,0,7.09-3.17,7.09-7.09V73.8C194,71.92,193.25,70.1,191.92,68.77z M177.65,77.06h-41.7
+          v-41.7L177.65,77.06z M178.05,201.59H53.95V34.95h66.92v47.86c0,5.14,4.17,9.31,9.31,9.31h47.86V201.59z" />
+            </g>
+            <rect
+              x="20"
+              y="112"
+              class="product-documents__svg-background"
+              width="146"
+              height="76" />
+            <g>
+              <path
+                class="product-documents__svg-pdf"
+                d="M23.83,125.68h22.36c5.29,0,9.41,1.33,12.35,4c2.94,2.67,4.42,6.39,4.42,11.18c0,4.78-1.47,8.51-4.42,11.18
+          c-2.94,2.67-7.06,4-12.35,4H34.59v18.29H23.83V125.68z M44.81,147.9c5.38,0,8.07-2.32,8.07-6.97c0-2.39-0.67-4.16-2-5.31
+          c-1.33-1.15-3.36-1.73-6.07-1.73H34.59v14.01H44.81z" />
+              <path
+                class="product-documents__svg-pdf"
+                d="M69.92,125.68h18.91c5.29,0,9.84,0.97,13.66,2.9c3.82,1.93,6.74,4.72,8.76,8.35
+          c2.02,3.63,3.04,7.98,3.04,13.04c0,5.06-1,9.42-3,13.08c-2,3.66-4.91,6.45-8.73,8.38c-3.82,1.93-8.4,2.9-13.73,2.9H69.92V125.68z
+           M88.07,165.63c10.35,0,15.52-5.22,15.52-15.66c0-10.4-5.17-15.59-15.52-15.59h-7.38v31.26H88.07z" />
+              <path
+                class="product-documents__svg-pdf"
+                d="M122.57,125.68h32.84v8.49h-22.22v11.18h20.84v8.49h-20.84v20.49h-10.63V125.68z" />
+            </g>
+          </svg>
+        </a>
+      </div>
+      <div class="product-documents">
+        <a href="/content/documents/manuals/dna-purification-kit_1.0.pdf" target="_new" class="product-documents__link">
+          <span class="product-documents__info">DNA Purification Kit Manual</span>
+          <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+            x="0px" y="0px" viewBox="0 0 228 240" style="enable-background: new 0 0 228 240" xml:space="preserve"
+            class="product-documents__icon" alt="16-0002 Datasheet">
+            <g>
+              <path class="product-documents__svg-pdf" d="M191.92,68.77l-47.69-47.69c-1.33-1.33-3.12-2.08-5.01-2.08H45.09C41.17,19,38,22.17,38,26.09v184.36
+          c0,3.92,3.17,7.09,7.09,7.09h141.82c3.92,0,7.09-3.17,7.09-7.09V73.8C194,71.92,193.25,70.1,191.92,68.77z M177.65,77.06h-41.7
+          v-41.7L177.65,77.06z M178.05,201.59H53.95V34.95h66.92v47.86c0,5.14,4.17,9.31,9.31,9.31h47.86V201.59z" />
+            </g>
+            <rect x="20" y="112" class="product-documents__svg-background" width="146" height="76" />
+            <g>
+              <path class="product-documents__svg-pdf" d="M23.83,125.68h22.36c5.29,0,9.41,1.33,12.35,4c2.94,2.67,4.42,6.39,4.42,11.18c0,4.78-1.47,8.51-4.42,11.18
+          c-2.94,2.67-7.06,4-12.35,4H34.59v18.29H23.83V125.68z M44.81,147.9c5.38,0,8.07-2.32,8.07-6.97c0-2.39-0.67-4.16-2-5.31
+          c-1.33-1.15-3.36-1.73-6.07-1.73H34.59v14.01H44.81z" />
+              <path class="product-documents__svg-pdf" d="M69.92,125.68h18.91c5.29,0,9.84,0.97,13.66,2.9c3.82,1.93,6.74,4.72,8.76,8.35
+          c2.02,3.63,3.04,7.98,3.04,13.04c0,5.06-1,9.42-3,13.08c-2,3.66-4.91,6.45-8.73,8.38c-3.82,1.93-8.4,2.9-13.73,2.9H69.92V125.68z
+           M88.07,165.63c10.35,0,15.52-5.22,15.52-15.66c0-10.4-5.17-15.59-15.52-15.59h-7.38v31.26H88.07z" />
+              <path class="product-documents__svg-pdf"
+                d="M122.57,125.68h32.84v8.49h-22.22v11.18h20.84v8.49h-20.84v20.49h-10.63V125.68z" />
+            </g>
+          </svg>
+        </a>
+      </div>
+    </div>
+  </div>
+</div> -->
+
+<div class="nucleosomes-content" style="margin-top: 4rem; justify-content: center; padding-top: 4rem">
+  <div class="nucleosomes-text" style="width: auto">
+    <h3 style="text-align: center"><span>Related Products</span></h3>
+    <div class="related-products-card-group">
+      <div class="related-products-card">
+        <a style="text-decoration: none" href="/products/epigenetics-reagents-and-assays/cutana-chic-cut-and-run-kit">
+          <div class="related-products-card-img">
+            <img
+              src="https://cdn11.bigcommerce.com/s-y9o92/images/stencil/1024x1024/products/772/998/Epicypher_CUTANA_CUTRUN_Box__31908.1646406725.png?c=2"
+              alt="" />
+          </div>
+          <div class="related-products-card-content">
+            <p class="title">CUT&RUN Kit</p>
+            <p>
+              The CUTANA™ CUT&RUN Kit enables robust, streamlined chromatin
+              profiling of histone PTMs and chromatin proteins.
+            </p>
+          </div>
+        </a>
+      </div>
+
+      <div class="related-products-card">
+        <a style="text-decoration: none" href="/products/epigenetics-kits-and-reagents/cutana-cut-and-tag-kit">
+          <div class="related-products-card-img">
+            <img
+            src="https://cdn11.bigcommerce.com/s-y9o92/images/stencil/1024x1024/products/986/1116/Epicypher_CUTANA_CUTTag_Box__75004.1704895527.png?c=2" alt="CUTANA™ CUT&Tag Kit" />
+          </div>
+          <div class="related-products-card-content">
+            <p class="title">CUT&Tag Kit</p>
+            <p>
+              The CUTAN™ CUT&Tag Kit brings together the reagents you will need to go from cells to sequencing in two days
+            </p>
+          </div>
+        </a>
+      </div>
+
+      <div class="related-products-card">
+        <a href="/products/epigenetics-reagents-and-assays/cutana-cut-and-run-library-prep-kit"
+          style="text-decoration: none">
+          <div class="related-products-card-img">
+            <img
+              src="https://cdn11.bigcommerce.com/s-y9o92/images/stencil/1024x1024/products/889/997/Epicypher_CUTANA_CUTRUN_LibraryPrep_Box__64431.1646406521.png?c=2"
+              alt="" />
+          </div>
+          <div class="related-products-card-content">
+            <p class="title">Library Prep Kit</p>
+            <p>
+              The CUTANA™ Library Prep Kit features a specialized protocol
+              optimized for high-sensitivity CUT&RUN applications.
+            </p>
+          </div>
+        </a>
+      </div>
+
+      <div class="related-products-card">
+        <a href="/antibodies-complete-list/" style="text-decoration: none">
+          <div class="related-products-card-img">
+            <img src="/content/images/antibody-image.png" alt="antibody-image" />
+          </div>
+          <div class="related-products-card-content">
+            <p class="title">Antibodies</p>
+            <p>
+              EpiCypher antibodies are validated with gold standard,
+              application-specific approaches to ensure reliable results.
+            </p>
+          </div>
+        </a>
+      </div>
+
+      <div class="related-products-card">
+        <a href="/products/nucleosomes/snap-cutana-spike-in-controls" style="text-decoration: none">
+          <div class="related-products-card-img">
+            <img
+              src="https://cdn11.bigcommerce.com/s-y9o92/images/stencil/original/j/cutanaspike-in%20thumbnail_rgb_white_w_border__61142.original.png"
+              alt="" />
+          </div>
+          <div class="related-products-card-content">
+            <p class="title">Assay Controls</p>
+            <p>
+              Our rigorous controls enable workflow optimization, continuous
+              assay monitoring, and aid in troubleshooting.
+            </p>
+          </div>
+        </a>
+      </div>
+
+      <div class="related-products-card">
+        <a href="/products/epigenetics-reagents-and-assays/cutana-cut-and-run-assays" style="text-decoration: none">
+          <div class="related-products-card-img">
+            <img src="/content/images/products/genomics/10_0008_front-thumb.jpg" alt="" />
+          </div>
+          <div class="related-products-card-content">
+            <p class="title">Discover More</p>
+            <p>
+              Don’t stop there - explore other CUT&RUN related products,
+              including magnetic racks, ConA beads, and more.
+            </p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+  .page-header {
+    display: none;
+  }
+
+  .vertical-line {
+    display: flex;
+    border-left: 1px solid #dfdfdf;
+    height: 200px;
+    top: 0;
+  }
+
+  .nucleosomes-content-top {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: space-between;
+  }
+
+  .nucleosomes-content .nucleosomes-text {
+    width: 100%;
+  }
+
+  .nucleosomes-content .nucleosomes-text>ul li .text-num {
+    padding: 0;
+  }
+
+  .nucleosomes-text-area {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .nucleosomes-text-top {
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    justify-content: space-evenly;
+    font-size: 2rem;
+    margin-left: 5rem;
+    align-items: flex-start;
+  }
+
+  .lot-titles {
+    color: #4698cb;
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 0;
+    margin-top: 5rem;
+  }
+
+  .product-documents__info {
+    font-size: 16px;
+    color: #666666;
+  }
+
+  .product-documents__link {
+    display: flex;
+    align-content: flex-end;
+    justify-content: space-between;
+    text-decoration: none !important;
+  }
+
+  .product-documents__link:hover {
+    background-color: #f5f5f5;
+  }
+
+  .product-documents {
+    margin-left: 1rem;
+  }
+
+  /* Related Products Section  */
+
+  .related-products-card-group {
+    display: grid;
+    /* grid-template-columns: repeat(3, minmax(250px, 1fr)); */
+    grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+    gap: 1.5rem;
+    width: 100%;
+    margin: auto;
+  }
+
+  .related-products-card {
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+    box-shadow: 0 1px 6px -3px #000;
+  }
+
+  .related-products-card-img {
+    text-align: center;
+  }
+
+  .related-products-card-img img {
+    object-fit: cover;
+    height: max(10rem, 20vh);
+  }
+
+  .related-products-card-content {
+    padding: 1rem;
+  }
+
+  .page .page-content p,
+  .related-products-card-content p {
+    color: #666 !important;
+  }
+
+  .page .page-content p.title {
+    color: #4698cb !important;
+    font-size: 26px !important;
+    text-align: center;
+    font-weight: 600 !important;
+  }
+
+  @media screen and (max-width: 768px) {
+    .nucleosomes-text-area {
+      display: flex;
+      flex-direction: column;
+      text-align: center !important;
+    }
+
+    .nucleosomes-content-top {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .nucleosomes-text-top {
+      margin-top: 1rem;
+      margin-left: 0;
+      text-align: center;
+    }
+
+    .vertical-line {
+      display: none;
+    }
+  }
+</style>
