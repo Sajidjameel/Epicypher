@@ -1,0 +1,587 @@
+<div class="privacy_policy">
+  <header class="privacy_policy__header">
+    <h2><strong>EPICYPHER, INC.</strong></h2>
+    <h2><strong>END USER AGREEMENT</strong></h2>
+  </header>
+
+  <main class="privacy_policy_content">
+    <p>This End User Agreement (“Agreement”) sets forth the terms and conditions by which EpiCypher, Inc., a Delaware
+      corporation (“EpiCypher”) offers Client (as defined below) access to and use of the EpiCypher Service (as defined
+      below). This Agreement includes the Terms and Conditions below and constitutes a binding legal agreement between
+      Client and EpiCypher.</p>
+
+    <p>THIS AGREEMENT SETS FORTH THE LEGALLY BINDING TERMS AND CONDITIONS THAT GOVERN CLIENT’S USE OF THE EPICYPHER
+      SERVICE. BY REGISTERING FOR, ACCESSING OR USING THE EPICYPHER SERVICE, CLIENT ACCEPTS THESE TERMS (AS WELL AS THE
+      EPICYPHER PRIVACY POLICY AT <a href="https://www.epicypher.com/privacy">WWW.EPICYPHER.COM/PRIVACY</a>).</p>
+
+    <section>
+      <p><strong>Summary of EpiCypher Service Commercial Terms</strong> (Capitalized Terms defined below)</p>
+
+      <p class="privacy_policy_content__inner_paragraph"><strong>Analysis Credits:</strong> In connection with this Agreement,
+        Client is purchasing that number of Analysis Credits as indicated by Client in the registration or otherwise
+        through the EpiCypher Service. The price of the Analysis Credits is as set forth on the EpiCypher Services at
+        the time of purchase. Client may purchase additional Analysis Credits during the Term through the EpiCypher
+        Service. Client and its Authorized Users shall have the right to use the Analysis Credits through the EpiCypher
+        Service for processing of the Client Data for Client Projects. The applicable limits of the Analysis Credits and
+        exchange rate of such Analysis Credits are as set forth in the EpiCypher Service. Client understands and agrees
+        that if Client has depleted all of its Analysis Credits, it will not be entitled to use the EpiCypher Service
+        for projects unless and until it has purchased additional Analysis Credits. Analysis Credits do not expire
+        unless and until this Agreement is terminated or expired in accordance with its terms. Payment for Analysis
+        Credits will be due and payable upon purchase. Except as otherwise set forth herein, Analysis Credits are
+        nonrefundable.</p>
+
+      <p class="privacy_policy_content__inner_paragraph"><strong>Data Storage/Consumption Fees:</strong> All Data
+        Storage/Consumption Fees are invoiced quarterly in arrears based on the fees paid by EpiCypher for Client’s
+        actual data storage and consumption during a month <u>plus</u> an administration fee as set forth on the EpiCypher
+        Service; provided however, that the minimum Data Storage/Consumption Fee as posted on the EpiCypher Service is
+        met. EpiCypher reserves the right to modify the Data Storage/Consumption Fees by posting such modified fees on
+        the EpiCypher Service or otherwise notifying Client. All Data Storage/Consumption Fees shall be due and payable
+        within thirty (30) days of invoice date.</p>
+    </section>
+
+    <section>
+      <p style="text-align:center"><strong>EPICYPHER TECHNOLOGIES</strong></p>
+      <p style="text-align:center"><strong>EPICYPHER SERVICE TERMS AND CONDITIONS</strong></p>
+
+      <ol class="outer-ol">
+        <li class="privacy_policy_content__item">
+          <u><strong>Definitions:</strong></u>
+          <ol class="inner-ol">
+            <li class="privacy_policy_content__item"><u>“Affiliate”</u> of any specified person or
+              entity
+              means any other person or entity directly or indirectly Controlling, Controlled by, or under direct or
+              indirect common Control with, such specified person or entity. “<u>Control</u>” means, when used with respect to
+              any
+              specified person or entity, the power to direct the management and policies of such person or entity,
+              whether
+              through the ownership of voting securities, contract, or otherwise.</li>
+            <li class="privacy_policy_content__item"><u>“AUP”</u> means the Acceptable Use Policy of
+              EpiCypher
+              or its third-party service providers which shall be made available to Client at <a
+                href="https://www.epicypher.com/acceptable-use-policy">www.epicypher.com/acceptable-use-policy</a>.</li>
+            <li class="privacy_policy_content__item"><u>“Authorized Person(s)”</u> means those
+              individuals
+              authorized by Client to use the EpiCypher Service.</li>
+            <li class="privacy_policy_content__item"><u>“Client”</u> means the entity or organization
+              registering for use of the EpiCypher Services, whether such registration is administered through EpiCypher
+              or
+              through an online registration.</li>
+            <li class="privacy_policy_content__item"><u>“Client Data”</u> means all information and
+              data that
+              Client provides to the EpiCypher Service or that is collected, exchanged through, uploaded to, or
+              transmitted
+              to the EpiCypher Service for conversion, processing, analysis and transmission to or on behalf of Client
+              and
+              all Client Service Results.</li>
+            <li class="privacy_policy_content__item"><u>“Confidential Information”</u> means all
+              information
+              of either EpiCypher (and its third party licensors and service providers) or Client that is not generally
+              known to the public, whether of a technical, business or other nature, that is disclosed by either
+              EpiCypher
+              or Client (in such context, the “<u>Disclosing Party</u>”) to the other party (in such context, the “<u>Receiving Party</u>”), in writing or orally, or that is otherwise learned by the Receiving Party in the course of its
+              discussions or business dealings with, or its physical or electronic access to the premises or systems of,
+              the
+              Disclosing Party, and that has been identified as being proprietary and/or confidential or that by the
+              nature
+              of the circumstances surrounding the disclosure or receipt ought to be treated as proprietary and
+              confidential, whether or not any such information is marked or otherwise identified as being confidential
+              or
+              proprietary. Confidential Information of EpiCypher includes the EpiCypher Service and Software and any
+              pricing, sales, implementation, training and support processes and materials. Confidential Information
+              shall
+              not include any information that: (i) is or becomes generally available to the public other than as a
+              result
+              of a breach of this Agreement by Receiving Party; (ii) was within the possession of the Receiving Party
+              prior
+              to it being furnished to the Receiving Party by or on behalf of the Disclosing Party; (iii) becomes
+              available
+              to the Receiving Party on a non-confidential basis from a source other than the Disclosing Party or its
+              Personnel, provided that such source is not bound by an obligation of confidentiality to the Disclosing
+              Party
+              or any other party with respect to such information; or (iv) was independently developed by the Receiving
+              Party without use of or reference to the Disclosing Party’s Confidential Information, provided such
+              development can reasonably be proven by the Receiving Party by competent evidence.</li>
+            <li class="privacy_policy_content__item"><u>“Data Storage/Consumption Subscription”</u>
+              means the
+              subscription for data storage, egress, and un-archival (exclusive of fees associated with computation,
+              jobs,
+              or apps, which are subject to Analysis Credits) and for which Client agrees to pay the Data
+              Storage/Consumption Fees.</li>
+            <li class="privacy_policy_content__item"><u>“Documentation”</u> means the printed or
+              electronic
+              technical and user’s documentation for the EpiCypher Service or Software that EpiCypher makes available to
+              Client in connection with this Agreement.</li>
+            <li class="privacy_policy_content__item"><u>“EpiCypher Intellectual Property”</u> means all
+              Intellectual Property owned by, licensed to or controlled by EpiCypher and/or its Affiliates, including
+              without limitation, all such rights in and to the EpiCypher Service, Software, Documentation and EpiCypher
+              API(s).</li>
+            <li class="privacy_policy_content__item"><u>“EpiCypher Service”</u> means the “EpiCypher”
+              service
+              provided to Client by EpiCypher on demand via the Internet and wireless networks. The EpiCypher Service
+              includes the provision on a hosted basis of non-exclusive use of and access to proprietary EpiCypher
+              software
+              and associated hosting and support services described herein.</li>
+            <li class="privacy_policy_content__item"><u>“Intellectual Property”</u> means inventions,
+              discoveries, patents, copyrights, service marks, trademarks, trade names, trade secrets, know-how, utility
+              models, computer software, source code, data and database rights, and all registrations and applications
+              for
+              registration therefor, and all divisions, continuations, continuations in part, renewals, and reissuances
+              thereof, and all rights pertaining thereto throughout the world.</li>
+            <li class="privacy_policy_content__item"><u>“Project”</u> means experiments, research
+              and/or
+              associated data to be processed with the EpiCypher Service as created by Client.</li>
+            <li class="privacy_policy_content__item"><u>“Service Results”</u> means the reports,
+              analyses,
+              information, data or output processed and generated by use of the EpiCypher Service by Client and based on
+              Client Data.</li>
+            <li class="privacy_policy_content__item"><u>“Software and Tools”</u> means EpiCypher’s
+              proprietary software, workflows, algorithms and processes including in the EpiCypher Service or used by
+              EpiCypher to deliver the EpiCypher Service, including collection, processing and transmittal of Client
+              Data,
+              use of which is made available to Client on a “Software as a Service” basis and all updates.</li>
+            <li class="privacy_policy_content__item"><u>“Support and Maintenance Services”</u> means
+              those
+              support and maintenance services to be provided by EpiCypher in accordance with <u>Exhibit A</u>.</li>
+          </ol>
+        </li>
+        <li class="privacy_policy_content__item">
+          <strong><u>EpiCypher Service.</u></strong>
+          <ol class="inner-ol">
+            <li class="privacy_policy_content__item"><strong><u>Right to Use the EpiCypher Service.</u></strong> Subject
+              to
+              Client’s compliance with and under the terms and conditions of this Agreement, including payment of all
+              applicable fees, EpiCypher will provide access to and use of the EpiCypher Service on a
+              software-as-a-service basis to Client during the Term. Client’s rights to use the EpiCypher Service are
+              limited, non-exclusive, non-transferable, and non-sublicensable.</li>
+            <li class="privacy_policy_content__item">
+              <strong><u>Use of EpiCypher Service.</u></strong>
+              <ol class="inner-inner-ol">
+                <li class="privacy_policy_content__item">
+                  <strong><u>Use by Authorized Persons.</u></strong> Access to the
+                  EpiCypher Service is being provided to Client solely for the use of Client and its Authorized Persons
+                  for Client’s internal research or laboratory use. Client assumes full responsibility for any and all
+                  use of the EpiCypher Service by all Authorized Persons and under Client’s account. A breach by any
+                  Authorized Person of any provision of this Agreement will constitute a breach hereof by Client.
+                  EpiCypher reserves the right to prohibit, block or suspend any Authorized Person’s access to or use of
+                  the EpiCypher Service if EpiCypher reasonably believes that such Authorized Person is using EpiCypher
+                  Service in a manner that violates this Agreement. Client will notify EpiCypher promptly if any of the
+                  Authorized Users lose their authorization status. Client shall ensure that all Authorized Persons use
+                  the EpiCypher Service within such user’s access permissions.
+                </li>
+                <li class="privacy_policy_content__item">
+                  <strong><u>Usage Restrictions.</u></strong> Notwithstanding any provision in this Agreement, Client
+                  will not, and will not permit any Authorized Person or other individual or entity under Client’s
+                  direct or indirect control to: (1) recirculate, republish, distribute, compile or otherwise provide
+                  EpiCypher Intellectual Property or access to the EpiCypher Service or any portion thereof to any third
+                  party, other than Authorized Users, (2) use or provide the EpiCypher Service on a service bureau, time
+                  sharing or any similar basis, or for the processing of third party data, providing services to third
+                  parties or otherwise for the benefit of any non-licensed individual or entity; (3) publicly
+                  disseminate information regarding the performance of the EpiCypher Service; (4) use the EpiCypher
+                  Services in any manner that adversely impacts the speed, security or integrity of the EpiCypher
+                  Service (or any data contained within the EpiCypher Service); (5) introduce into or through the
+                  EpiCypher Service any virus or other code or routine intended to disrupt or damage the EpiCypher
+                  Service or any third party’s computers, networks, data or computer programs or systems, alter, damage
+                  or delete any EpiCypher Intellectual Property or retrieve or record information about the EpiCypher
+                  Service or its other users or any other third party; or (6) conduct any penetration testing or exploit
+                  or attempt to exploit any vulnerabilities in the EpiCypher Service. Client agrees not to (1) use, or
+                  allow the use of, the EpiCypher Service in contravention of any federal, state, local, foreign or
+                  other applicable laws, rules or regulations or in a manner that violates or misappropriates the
+                  Intellectual Property rights of any third party; (2) submit any Client Data that infringes or
+                  misappropriates the Intellectual Property of any third party or contains personal information,
+                  including private health information or other sensitive information about any individual without the
+                  authorization of EpiCypher; or (3) remove any copyright, trademark, patent or other proprietary
+                  notices from the EpiCypher Service or any portion thereof. Client represents and warrants that it is
+                  engaged in a lawful business and agrees that it shall fully comply with all applicable laws and
+                  regulations in connection with its use of the EpiCypher Service and the Service Results.
+                </li>
+                <li class="privacy_policy_content__item">
+                  <strong><u>Account Information.</u></strong> Prior to using the EpiCypher Service, Client and each
+                  Authorized User will be required to register or log into its account. Client agrees, on behalf of
+                  itself and each Authorized User: (a) when registering for the EpiCypher Service, to provide EpiCypher
+                  with true, accurate, current and complete information; and (b) to inform EpiCypher promptly of any
+                  changes to such information to keep it true, accurate, current and complete. Client will be
+                  responsible for securing all user IDs and passwords provided to or generated by Client or EpiCypher
+                  for use of the EpiCypher Service. Client will promptly notify EpiCypher in the event of any
+                  unauthorized use or disclosure of such user IDs or passwords. Client’s use of the EpiCypher Service
+                  may be subject to usage limits, which limits will be as set forth on the EpiCypher Service. Client
+                  agrees to abide by all such limits and agrees to pay all overage fees associated with any use in
+                  excess of such limits.
+                </li>
+                <li class="privacy_policy_content__item">
+                  <strong><u>Projects.</u></strong> Client will be solely responsible for setting up each Project,
+                  including determining appropriate functionality or workflows from the EpiCypher Service and assigning
+                  access and use roles for Authorized Users. Client may create one or more Projects under this
+                  Agreement.
+                </li>
+              </ol>
+            </li>
+            <li class="privacy_policy_content__item"><strong><u>Equipment; Client Obligations.</u></strong> Client will,
+              at
+              its own cost and expense, provide all of the equipment (including mobile devices if required), operating
+              platforms, software, and connectivity needed to perform its own research and experiments and use the
+              EpiCypher
+              Service. Client agrees to comply with EpiCypher’s procedures and security measures associated with access
+              to
+              and use of the EpiCypher Service, as such procedures and measures may be modified from time to time by
+              EpiCypher.
+            </li>
+            <li class="privacy_policy_content__item">
+              <strong><u>Support and other Services.</u></strong>
+              <ol class="inner-inner-ol">
+                <li class="privacy_policy_content__item"><strong><u>Support and Maintenance.</u></strong> Subject to
+                  payment
+                  of the fees hereunder, EpiCypher will provide Client with reasonable Support and Maintenance Services
+                  as
+                  set forth on <u>Exhibit A</u>. EpiCypher reserves the right to update and modify the EpiCypher Service and
+                  Software and Tools from time to time in its sole discretion. Client understands that the EpiCypher
+                  Service
+                  may be unavailable from time to time for scheduled support and maintenance, including the
+                  implementation
+                  of updates, provided that EpiCypher will use its reasonable efforts to give Client advance notice of
+                  any
+                  scheduled downtime and to schedule downtime during hours of non-peak usage</li>
+                <li class="privacy_policy_content__item"><strong><u>Additional Services.</u></strong> EpiCypher will not
+                  be
+                  obligated to provide any software, technology or services not set forth herein (“Additional
+                  Services”).
+                  Client shall pay EpiCypher for Additional Services requested by Client and as agreed by the parties in
+                  a
+                  separate written agreement or addendum to this Agreement. Unless otherwise expressly set forth in a
+                  separate agreement or addendum relating to the Additional Services and excluding any Client Data or
+                  other
+                  Client-provided materials, EpiCypher shall be the sole owner of any and all intellectual property
+                  rights
+                  in any software, documentation, inventions and work product developed, created or delivered by or on
+                  behalf of EpiCypher in connection with such Additional Services, including without limitation all
+                  intellectual property rights in and to any modifications to and/or customizations of the Software and
+                  Tools.</li>
+              </ol>
+            </li>
+          </ol>
+        </li>
+        <li class="privacy_policy_content__item">
+          <strong><u>Term and Termination.</u></strong>
+          <ol class="inner-ol">
+            <li class="privacy_policy_content__item"><strong><u>Term.</u></strong> The term of this Agreement will
+              commence upon Client’s registration and continue until terminated as provided herein (the “Term”).</li>
+            <li class="privacy_policy_content__item"><strong><u>Material Breach.</u></strong> In the event of a material
+              breach by either party, the non-breaching party shall have a right to terminate this Agreement if the
+              breaching party does not cure such material breach within thirty (30) days of receipt of written notice of
+              such breach from the non-breaching party; provided, however, that EpiCypher may terminate this Agreement
+              if Client breaches the AUP or Client’s obligations under Section 2.2.2 or Section 5.</li>
+            <li class="privacy_policy_content__item"><strong><u>By EpiCypher.</u></strong> EpiCypher may terminate this
+              Agreement: (i) without cause upon at least sixty (60) days prior notice (in writing, through the EpiCypher
+              Service or by email); or (ii) upon notice if EpiCypher discontinues the EpiCypher Service. In such event,
+              EpiCypher will refund to Client any prepaid amounts for the EpiCypher Service and/or Support and
+              Maintenance Services.</li>
+            <li class="privacy_policy_content__item"><strong><u>By Client.</u></strong> Client may terminate this
+              Agreement without cause upon at least thirty (30) days prior written notice; provided that Client shall
+              remain responsible for payment of all Data Storage/Consumption Fees through the date of termination and
+              any unused Analysis Credits shall not be refunded. For clarity, Client’s cancellation of its Data
+              Storage/Consumption Subscription will be deemed a termination of this Agreement.</li>
+            <li class="privacy_policy_content__item"><strong><u>Post-Termination Obligations.</u></strong> Upon
+              termination for any reason, (A) EpiCypher may immediately: (i) cease provision of and access to the
+              EpiCypher Service, and (ii) delete any Client Data and Service Output; and (B) Client will immediately
+              cease all use of the EpiCypher Service and pay all fees owed to EpiCypher for use of the EpiCypher Service
+              prior to termination. Termination will be in addition to, and will not prejudice, any other remedies at
+              law or in equity available to EpiCypher. Upon termination, Client agrees to return (or delete) to
+              EpiCypher any materials that Client received from EpiCypher during the Term, including but not limited to
+              any Documentation and other materials containing EpiCypher Intellectual Property.</li>
+            <li class="privacy_policy_content__item"><strong><u>Survival.</u></strong> Sections 3.5, 4, 5, 6.2, 6.3,
+              6.4, 7 and 8 shall survive the termination of this Agreement.</li>
+          </ol>
+        </li>
+        <li class="privacy_policy_content__item">
+          <strong><u>Charges.</u></strong>
+          <ol class="inner-ol">
+            <li class="privacy_policy_content__item"><strong><u>Fees; Expenses.</u></strong> The fees and other charges
+              for the use of the EpiCypher Service are set forth above and on the EpiCypher Service or as otherwise
+              agreed in writing by the parties. By agreeing to the terms of this Agreement, Client agrees to pay all
+              such fees. Unless otherwise expressly set forth herein, all payment obligations are non-cancellable and
+              nonrefundable.</li>
+            <li class="privacy_policy_content__item"><strong><u>Payment Terms.</u></strong> EpiCypher shall invoice
+              Client in accordance with the terms on the cover page. Unless otherwise stated herein, all invoiced fees
+              shall be due and payable on a Net 30 basis. If Client fails to pay any Data Storage/Consumption Fees
+              within sixty (60) days of when due, EpiCypher reserves the right to archive all stored Client Data and
+              Client will be obligated to pay a reactivation fee (in addition to the applicable Data Storage/Consumption
+              Fees) to reactivate its Data Storage/Consumption Subscription and enable access to such Client Data. The
+              reactivation fee shall be in accordance with EpiCypher’s then-current policies based on the volume of
+              Client Data maintained by EpiCypher under the Data Storage/Consumption Subscription. EpiCypher reserves
+              the right to permanently delete Client Data for accounts past due by more than 6 months with or without
+              prior notice to Client: EpiCypher will have the right to charge interest at the rate of 1.5% per month, or
+              the highest rate allowed by law, whichever is lower, on any overdue amounts.</li>
+            <li class="privacy_policy_content__item"><strong><u>Taxes and Other Charges.</u></strong> EpiCypher fees are
+              net of all taxes and duties.  In addition to fees, Client will pay any sales, use, value added, or other
+              taxes, any tax in the nature of withholding tax, any network access tolls, fees or charges, and any duty
+              or duties payable in respect of fees or part thereof and/or the provision of EpiCypher Service or
+              otherwise but excluding any taxes on EpiCypher’s net income or property.</li>
+          </ol>
+        </li>
+        <li class="privacy_policy_content__item">
+          <strong><u>License and Intellectual Property Rights; Confidentiality.</u></strong>
+          <ol class="inner-ol">
+            <li class="privacy_policy_content__item"><strong><u> Intellectual Property.</u></strong> Client agrees that
+              the EpiCypher Intellectual Property is owned by EpiCypher or its suppliers, and that, other than the
+              rights and license granted hereunder, Client has and will obtain no rights in or to the EpiCypher
+              Intellectual Property. In no event shall Client be entitled to receive or download the Software or Tools,
+              either in object code or source code format. Client shall not reverse engineer, decompile, modify or
+              create derivative works of any portion of the EpiCypher Service or Software or Tools, or attempt to do any
+              of the foregoing. Client may not use or access or use the EpiCypher Service for the purpose of
+              benchmarking or building a competitive product or service or copying any feature of the EpiCypher Service.
+              All rights in and to the EpiCypher Intellectual Property not expressly granted herein are reserved by
+              EpiCypher.</li>
+            <li class="privacy_policy_content__item">
+              <strong><u>Client Data.</u></strong>
+              <ol class="inner-inner-ol">
+                <li class="privacy_policy_content__item">
+                  Client shall retain ownership of all Client Data. Client acknowledges and agrees that EpiCypher may
+                  share the Client Data with its suppliers and service providers; provided that such third party
+                  suppliers and service providers will have the rights to store and use such Client Data only as
+                  required for provision of the EpiCypher Service and as otherwise permitted herein. Client represents
+                  and warrants that all Client Data: (i) is owned by Client, or Client has the full right to provide the
+                  Client Data as contemplated herein; and (ii) does not infringe or misappropriate any copyright,
+                  trademark, trade secret or other intellectual property right. Client hereby grants to EpiCypher (and
+                  its third party service providers) the right to use, reproduce, edit, modify, store, process,
+                  distribute and display the Client Data as necessary for the provision of the EpiCypher Service to
+                  Client. Client is wholly responsible for the Client Data.  EpiCypher does not verify, monitor, or
+                  control, and assumes no liability whatsoever, for any Client Data. Client is responsible for
+                  conducting any and all verification or investigation of the accuracy of all Client Data, including
+                  after processing. Client further acknowledges that Client shall be solely responsible for maintaining
+                  backup copies of all Client Data. Under no circumstances will EpiCypher be held liable for any loss,
+                  corruption, deletion of or failure to store any Client Data.
+                </li>
+                <li class="privacy_policy_content__item">
+                  EpiCypher (and its service providers) shall also have the right to collect, analyze and use usage data
+                  collected by EpiCypher regarding Client’s and the Authorized Users’ use of the EpiCypher Service;
+                  provided, that this will in no event include any Client Data or personal information of Client or any
+                  Authorized User. Such usage data may be used to identify issues with or troubleshoot the EpiCypher
+                  Service or to develop, enhance and maintain the EpiCypher Service.
+                </li>
+              </ol>
+              <li class="privacy_policy_content__item">
+                <strong><u>Confidentiality.</u></strong> Except as expressly provided in this Agreement, each party
+                (the “Receiving Party”) agrees not to disclose Confidential Information of the other party (the
+                “Disclosing Party”) to anyone without the Disclosing Party’s prior written consent. The Receiving
+                Party will restrict the possession, knowledge, and use of Confidential Information of the Disclosing
+                Party to Receiving Party’s directors, employees, agents, advisers and subcontractors and service
+                providers who have a need to know Confidential Information in connection with the purpose contemplated
+                by this Agreement. In addition, the Receiving Party agrees not to use, or permit others to use, the
+                Confidential Information of the Disclosing Party, except in connection with the purposes contemplated
+                by this Agreement. The Receiving Party agrees to hold the Disclosing Party’s Confidential Information
+                in strict confidence and to protect such Confidential Information from disclosure to others, using the
+                same degree of care used to protect its own Confidential Information, but in any case using no less
+                than a reasonable degree of care. If the Receiving Party is legally obligated to disclose Confidential
+                Information of the Disclosing Party by any court, governmental entity or self-regulatory organization
+                or otherwise under applicable law, rule or regulation, the Receiving Party may make such required
+                disclosures; provided that it will give the Disclosing Party prompt written notice, where legally
+                permissible, to allow the Disclosing Party to seek a protective order or other appropriate remedy for
+                such disclosure.
+              </li>
+              <li class="privacy_policy_content__item">
+                <strong><u>Data Portection.</u></strong> Client understands and agrees that EpiCypher may use third
+                party data centers and other service providers in connection with the provision of the EpiCypher
+                Service. Unless otherwise agreed by EpiCypher, Client shall not provide any personal health
+                information (as defined by the Health Insurance Portability and Accountability Act of 1996 “HIPAA”) or
+                any personal data of any EU data subjects within the meaning of the EU’s General Data Protection
+                Regulation (collectively, “Protected Data’). In the event that Client wishes to process any such
+                Protected Data through use of the EpiCypher Service, the parties will negotiate in good faith the
+                appropriate data protection agreement(s) including as applicable, a Business Associate Agreement or a
+                Data Protection Addendum (under which EpiCypher shall be the processor). Client will be solely
+                responsible for providing any necessary notices or obtaining any necessary consents or permissions for
+                the processing of any Protected Data through use of the EpiCypher Service.
+              </li>
+            </li>
+          </ol>
+        </li>
+        <li class="privacy_policy_content__item">
+          <strong><u>Warranties; Limitations of Liability.</u></strong>
+          <ol class="inner-ol">
+            <li class="privacy_policy_content__item"><strong><u>Limited Warranty; Disclaimers of Warranties.</u></strong> EpiCypher represents and warrants that the EpiCypher Service will be provided in a manner substantially consistent with its Documentation.  Client acknowledges and agrees that Client is responsible for verifying that the EpiCypher Service is appropriate for the purposes for which Client intends to use it, and Client assumes the entire risk related to the use of the EpiCypher Service. CLIENT HEREBY ACKNOWLEDGES AND AGREES THAT OTHER THAN AS EXPRESSLY SET FORTH HEREIN, THE EPICYPHER SERVICE, API(S) AND SOFTWARE ARE PROVIDED “AS IS” AND EPICYPHER HEREBY DISCLAIMS ALL WARRANTIES, CONDITIONS, GUARANTIES AND REPRESENTATIONS RELATING TO EPICYPHER SERVICE, EPICYPHER SOFTWARE OR ANY SERVICES PROVIDED BY EPICYPHER, EXPRESS OR IMPLIED, ORAL OR IN WRITING, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT AND FITNESS FOR A PARTICULAR PURPOSE, OR TITLE.  EPICYPHER DOES NOT WARRANT THAT THE EPICYPHER SERVICE WILL OPERATE WITHOUT INTERRUPTION OR ERROR-FREE OR THAT THE EPICYPHER SERVICE WILL BE TOTALLY SECURE. TO THE EXTENT THAT MATERIAL IS BEING TRANSMITTED OVER THE INTERNET OR WIRELESS NETWORK HEREUNDER, CLIENT ACKNOWLEDGES THAT EPICYPHER HAS NO CONTROL OVER THE FUNCTIONING OF THE INTERNET OR NETWORK, AND EPICYPHER MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND REGARDING THE PERFORMANCE OF THE INTERNET OR NETWORK.  Client agrees that the EpiCypher Service is only a tool or vehicle for data processing and Client is solely responsible for determining whether the EpiCypher Service and/or any features or tools of the EpiCypher Service are suitable for the applicable Project and for the accuracy and adequacy of the information and data furnished for processing with the EpiCypher Service. Client shall be solely responsible for each Project, use of all Service Results and decisions made using the EpiCypher Service.</li>
+            <li class="privacy_policy_content__item"><strong><u>Limitation of Damages.</u></strong> In the event of any breach of the limited warranty set forth above, EpiCypher’s sole obligation and Client’s sole remedy shall be for EpiCypher to use reasonable commercial efforts to correct any nonconformity of the EpiCypher Service or if EpiCypher determines such correction is not practicable EpiCypher may terminate this Agreement and refund any advance fees paid by Client for the EpiCypher Service.  In the event that EpiCypher is held to be liable to Client for any cause, whether for negligence, tort, intentional misconduct or for any other cause of action, EpiCypher’s aggregate liability, for all causes of action, will not exceed the fees Client has paid to EpiCypher for the EpiCypher Service during the preceding 12-month period.</li>
+            <li class="privacy_policy_content__item"><strong><u>EXCLUSION OF CERTAIN DAMAGES.</u></strong> UNLESS AND TO THE EXTENT THE FOLLOWING EXCLUSION IS NOT PERMITTED BY APPLICABLE LAW, UNDER NO CIRCUMSTANCES WILL EPICYPHER OR ITS AFFILIATES OR THEIR RESPECTIVE SERVICE PROVIDERS, OFFICERS, EMPLOYEES OR AGENTS BE LIABLE TO CLIENT FOR ANY CONSEQUENTIAL, INCIDENTAL, INDIRECT, PUNITIVE, EXEMPLARY OR SPECIAL DAMAGES OR ANY LOST PROFITS, ANTICIPATED PROFITS, LOSS BY REASON OF SHUTDOWN OR DELAY IN OPERATION OR INCREASED EXPENSES OF OPERATION, OR LOSS OF GOODWILL, REGARDLESS OF WHETHER SUCH DAMAGES COULD HAVE BEEN FORESEEN OR PREVENTED AND REGARDLESS OF WHETHER EPICYPHER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</li>
+            <li class="privacy_policy_content__item"><strong><u>Force Majeure.</u></strong> Neither EpiCypher nor Client will be liable for any failure to perform any obligation (other than payment obligations) due to causes beyond such party’s reasonable control, including, without limitation, acts of God, labor disputes, acts of terrorism, acts of civil or military authority, fires, floods, epidemics, quarantine restrictions, failure or erratic behavior of telecommunications or power systems, sabotage, armed hostilities and riots.</li>
+          </ol>
+        </li>
+        <li class="privacy_policy_content__item">
+          <strong><u>Indemnification.</u></strong>
+          <ol class="inner-ol">
+            <li class="privacy_policy_content__item">Client agrees to indemnify EpiCypher and its Affiliates and service providers and their respective directors, officers, employees and agents against any and all losses, damages, penalties, settlements, costs and expenses (including reasonable attorneys’ fees), and to defend EpiCypher in any suit, claim, or proceeding, brought by any third party or governmental agency, arising from (a) Client’s breach, or alleged breach, of any of its representations, warranties or obligations contained in this Agreement, or (b) any third party claim against EpiCypher or its Affiliates arising out of or related to Client’s use of EpiCypher Service or any Service Results or Client’s conduct of any Client Project, other than such claims, suits or proceedings for which EpiCypher is required to indemnify Client under Section 7.2. EpiCypher will notify Client promptly if EpiCypher becomes subject to such a claim, and will give Client reasonable information, assistance and cooperation required to defend such suit, claim, or proceeding.  EpiCypher will allow Client to control the defense of any such action and all negotiations for its settlement or compromise provided that any settlement or compromise does not involve an admission of wrongdoing on behalf of EpiCypher or impose any obligations on EpiCypher other than payments to be made by Client on behalf of EpiCypher.  EpiCypher may participate in the defense of any such claim, at EpiCypher’s expense, by counsel of EpiCypher’s selection.</li>
+            <li class="privacy_policy_content__item">EpiCypher agrees to indemnify Client and its Affiliates and their respective directors, officers, employees and agents against any and all losses, damages, penalties, settlements, costs and expenses (including reasonable attorneys’ fees), and to defend Client in any suit, claim or proceeding, brought by any third party or governmental agency arising from: (a) EpiCypher’s breach, or alleged breach, of any of its representations, warranties or obligations contained in this Agreement or (b) any claim that the EpiCypher Service, as delivered by EpiCypher and used as authorized herein (and not including any Client Data or Service Results), infringes the Intellectual Property rights of any third party.  Client will notify EpiCypher promptly if Client becomes subject to such a claim and will give EpiCypher reasonable information, assistance and cooperation required to defend such suit, claim or proceeding.  Client will allow EpiCypher to control the defense of any such action and all negotiations for settlement or compromise provided that any settlement or compromise does not involve an admission of wrongdoing on behalf of Client. Client may participate in the defense of any such claim, at Client’s expense and by counsel of Client’s selection.</li>
+          </ol>
+        </li>
+        <li class="privacy_policy_content__item">
+          <strong><u>General.</u></strong>
+          <ol class="inner-ol">
+            <li class="privacy_policy_content__item"><strong><u>Entire Agreement; Amendment.</u></strong> This Agreement, together with any exhibits, work order or other written amendment or supplement to this Agreement executed by both parties, contains the entire and only agreement between the parties relating to the subject hereof, and supersede all other oral or written agreements regarding these subjects.  This Agreement may not be amended or superseded unless agreed in writing by both parties.</li>
+            <li class="privacy_policy_content__item"><strong><u>Assignments.</u></strong> Client may not assign this Agreement, nor any rights, obligations or licenses granted hereunder without EpiCypher’s prior written consent, which shall not be unreasonably withheld. Any attempted assignment of this Agreement in violation of the foregoing provisions will result in its automatic termination, without notice.  This Agreement will inure to the benefit of the parties and their permitted successors and assigns.</li>
+            <li class="privacy_policy_content__item">
+              <strong><u>Notices.</u></strong> Any notice by a party under this Agreement will be in writing and either personally delivered, delivered by email with receipt confirmation, or sent via reputable overnight courier (such as Federal Express) or certified mail, postage prepaid and return receipt requested. Notices to EpiCypher should be addressed to:<br><br>
+              <div class="address">
+                EpiCypher, Inc.<br><br>
+                PO Box 14453<br>
+                Durham, NC 27709<br>
+                Attn: James Bone<br>
+                Email: jbone@epicypher.com
+              </div><br>
+              <p>Notices to Client should be sent to the address specified during the registration process.  Either party may from time to time notify the other in accordance with this Section 8.3 of a change of address.  All notices will be in English and will be deemed effective on the date of personal delivery, upon confirmation of a facsimile or email transmission, or upon receipt if delivered by overnight courier or certified mail.</p>
+            </li>
+            <li class="privacy_policy_content__item"><strong><u>No Waiver.</u></strong> The waiver by either party of a breach of a default of any provision of this Agreement by the other party will not be construed as a waiver of any succeeding breach of the same or any other provision, nor will any delay or omission on the part of either party to exercise or avail itself of any right, power or privilege that it has, or may have there under, operate as a waiver of any right, power or privilege by such party.</li>
+            <li class="privacy_policy_content__item"><strong><u>Governing Law.</u></strong> The validity, construction and interpretation of this Agreement, and the rights and duties of the parties, will be governed by and construed in accordance with the laws of the State of North Carolina, U.S.A., without giving effect to the conflict of law provisions thereof, and excluding any application of the United Nations Convention on Contracts for the International Sale of Goods.  Each party hereby expressly consents, and waives any and all rights to object, to jurisdiction and venue in the state and federal courts located in Raleigh, North Carolina with respect to any disputes arising from or related to this Agreement.</li>
+            <li class="privacy_policy_content__item"><strong><u>Equitable Relief.</u></strong> Each party agrees that breach of the confidentiality or intellectual property provisions of this Agreement may substantially and irreparably harm the other party, and because such harm will not be susceptible of cure solely by the payment of monetary damages, if a party breaches, or threatens to breach, its confidentiality obligations or violates, or threatens to violate, the Intellectual Property rights of the other party, such other party will be entitled to obtain injunctive and/or other equitable relief, in addition to other remedies afforded by law, to prevent or restrain a breach of these provisions.</li>
+            <li class="privacy_policy_content__item"><strong><u>Export Control.</u></strong> No software provided by EpiCypher (including the EpiCypher Service) may be exported or re-exported by Client in violation of U.S. export laws.  In downloading software from EpiCypher, Client hereby agrees that Client will comply with all legal requirements of these export controls and cooperate reasonably with EpiCypher in any official or unofficial audit or inspection that relates to these controls.</li>
+          </ol>
+        </li>
+
+        <li class="privacy_policy_content__item"><strong><u>Trial Use.</u></strong> EpiCypher may provide Client with a limited trial or evaluation period for no or nominal consideration (a “Trial”).   The following terms apply for any Trial use: (i) Notwithstanding any other provisions set forth herein, all Trial use is provided “AS-IS” without warranty of any kind, express or implied; (ii) unless Client has otherwise notified EpiCypher and agreed upon subscription use terms, the Trial will automatically terminate at the end of the Trial use period; and (iii) any Client Data entered into the EpiCypher Service during such Trial will be permanently deleted and lost upon expiration of the Trial. Further, EpiCypher’s warranties, obligations and support requirements shall not apply to Client’s use during such Trial.  For clarification, EpiCypher shall not be responsible for any direct, indirect, consequential or other damages for such Trial use and Client’s sole remedy for any failure of the EpiCypher Service shall be to terminate the Trial.</li>
+      </ol>
+    </section>
+
+
+    
+
+    <section>
+      <p style="text-align:center"><strong>EXHIBIT A</strong></p>
+      <p style="text-align:center"><strong>Support and Maintenance Serices</strong></p>
+
+      <p>Subject to Client’s payment of the applicable fees, EpiCypher offers support services for the Service (“<strong>Support</strong>”) in accordance with the following terms:
+      </p>
+
+      <ol class="outer-ol">
+        <li class="privacy_policy_content__item"><strong>Support Hours.</strong> Support is provided during EpiCypher’s standard business hours 9:00AM-5:00PM (eastern) Monday-Friday, excluding holidays.</li>
+        <li class="privacy_policy_content__item">
+          <strong>Definitions.</strong>
+          <ol class="inner-ol-extra-indent">
+            <li class="privacy_policy_content__item"><strong>"Incident"</strong> means an error or abnormal behavior of the EpiCypher Service.</li>
+            <li class="privacy_policy_content__item"><strong>"Production Support Incident"</strong> means an Incident where the EpiCypher Service is responding and functional but performance is degraded, and/or the Incident has potentially severe impact on operation of the Service for multiple Users (e.g., administrative account issues and bugs in the EpiCypher Service).</li>
+            <li class="privacy_policy_content__item"><strong>"Platform Support Incident"</strong> means an Incident where operation of the EpiCypher Service is critically affected (e.g., Authorized Users cannot login to the EpiCypher Service, access the EpiCypher Service, or submit or export Client Data or Service Results) for a large number of Authorized Users and no workaround is available.</li>
+          </ol>
+        </li>
+        <li class="privacy_policy_content__item"><strong>Customer Support (<u>Operational</u>).</strong> EpiCypher will make reasonable efforts to provide operational assistance for Client’s use of the EpiCypher Service, including questions about the features and functionality of the EpiCypher Service, workflows, and other general guidance on the basic operations of the EpiCypher Service.</li>
+        <li class="privacy_policy_content__item">
+          <strong>Incident Submission and Client Cooperation.</strong> Client may report Incidents by emailing <a href="mailto:techsupport@epicypher.com">techsupport@epicypher.com</a>, directly via the EpiCypher Service, or, if applicable, an alternate email address specifically provided to Client by EpiCypher. Client will provide information and cooperation to EpiCypher as reasonably required for EpiCypher to provide Support. This includes, without limitation, providing the following information to EpiCypher regarding the Incident (an <strong>“Incident Report”</strong>):
+          <ol class="inner-ol-extra-indent">
+            <li class="privacy_policy_content__item">Aspects of the EpiCypher Service that are unavailable or not functioning correctly</li>
+            <li class="privacy_policy_content__item">Incident’s impact on Authorized Users</li>
+            <li class="privacy_policy_content__item">Start time of Incident</li>
+            <li class="privacy_policy_content__item">List of steps to reproduce Incident</li>
+            <li class="privacy_policy_content__item">Relevant log files or data</li>
+            <li class="privacy_policy_content__item">Wording of any error message</li>
+            <li class="privacy_policy_content__item">Incident ID# (when specified by EpiCypher)</li>
+          </ol>
+        </li>
+        <li class="privacy_policy_content__item"><strong>Target Response Times.</strong> Upon receipt of an Incident Report, EpiCypher Support personnel will assign an incident type (“<strong>Incident Type</strong>”) to each Incident and seek to provide responses during EpiCypher’s <strong>Support Hours</strong>, in accordance with the table below.</li>
+        <div class="table-section">
+          <table>
+            <thead>
+              <tr>
+                <td><u><strong>Incident Type</strong></u></td>
+                <td><u><strong>Target Response Times</strong></u></td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Production Support Incident</td>
+                <td>24 Hours</td>
+              </tr>
+              <tr>
+                <td>Platform Support Incident</td>
+                <td>24 Hours</td>
+              </tr>
+              <tr>
+                <td>Non-Critical Support Incident</td>
+                <td>36 Hours</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <li class="privacy_policy_content__item"><strong>Exclusions.</strong> EpiCypher will have no obligation to provide Support to the extent an Incident arises from: (a) use of the EpiCypher Service in a manner not authorized in the Agreement or the applicable Documentation; (b) general Internet problems, force majeure events or other factors outside of EpiCypher reasonable control; (c) Client’s equipment, software, network connections, other infrastructure or Client Data; or (d) third party systems, acts or omissions.</li>
+        <li class="privacy_policy_content__item"><strong>Resolution.</strong> After EpiCypher first response to an Incident Report, EpiCypher shall work with Client and Authorized Users to identify and use commercially reasonable efforts to resolve the issues leading to the Incident. An Incident Report will be considered resolved if (a) the identified EpiCypher Service issues are actually resolved; or (b) the person who submitted the Incident Report does not respond within seven (7) days to EpiCypher’s requests for information or otherwise does not reasonably assist EpiCypher in resolving the issue.</li>
+      </ol>
+
+
+
+      <p><u><strong>Service Level Targets</strong></u></p>
+
+
+
+      <ol class="outer-ol">
+        <li class="privacy_policy_content__item"><strong>Target Availability.</strong>  EpiCypher will use commercially reasonable efforts to make the EpiCypher Service available with an uptime of at least 99.6% of all Scheduled Availability Time (<strong>“Target Availability”</strong>), calculated on a monthly, per-hour basis.</li>
+        <li class="privacy_policy_content__item">
+          <strong>Scheduled Availability Time. “Scheduled Availability Time”.</strong> means twenty-four (24) hours a day, seven (7) days a week, excluding:
+          <ol class="inner-ol-extra-indent">
+            <li class="privacy_policy_content__item">a maintenance window of thirty (30) minutes scheduled on Tuesdays between 1:00 pm and 8:00 pm Pacific Time;</li>
+            <li class="privacy_policy_content__item">any maintenance window for which notification is provided at least seventy-two (72) hours in advance;</li>
+            <li class="privacy_policy_content__item">any time during which login is disabled due to lack of Client login activity during a prescribed period or due to excessive failed login attempts;</li>
+            <li class="privacy_policy_content__item">any time during which a login attempt fails because of a forgotten password; or</li>
+            <li class="privacy_policy_content__item">any time during which the EpiCypher Service is unavailable due to (a) use of the EpiCypher Service by Client in a manner not authorized in this Agreement or the applicable Documentation; (b) Client’s equipment, software, Tools, network connections or other infrastructure; (c) general Internet problems, force majeure events or other factors outside of EpiCypher’s reasonable control (including denial of service attacks and failures of third party equipment, software or other technology not in EpiCypher’s direct control); or (d) third party systems, acts or omissions.</li>
+          </ol>
+        </li>
+      </ol>  
+    </section>
+
+
+  </main>
+</div>
+
+
+
+<style>
+  ol {
+    counter-reset: item
+  }
+
+  .outer-ol {
+    padding-left: 0px;
+  }
+  .inner-ol {
+    padding-left: 0px !important;
+    margin-bottom: 20px;
+  }
+
+  .inner-ol-extra-indent {
+    margin-bottom: 20px;
+  }
+
+  li {
+    display: block
+  }
+
+  ol li:before {
+    content: counters(item, ".") ".";
+    counter-increment: item;
+    margin-right: 10px;
+  }
+
+  .privacy_policy_content__item {
+    padding: 0px;
+    margin-left: 0px !important;
+    margin-top: 10px !important;
+  }
+
+  .address {
+    text-align: center;
+  }
+
+  table {
+    margin:auto;
+    color: black;
+    font-size: 16px;
+  }
+
+  table > thead {
+    background-color: lightgray;
+  }
+
+  table, th, td {
+    border: 1px solid;
+  }
+
+  th, td {
+    text-align: center;
+  }
+
+  .table-section {
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+</style>
