@@ -1,0 +1,150 @@
+<div class="nucleosomes-heading-text">
+        <p
+          style="
+            color: #222720 !important;
+            max-width: 985px;
+            text-align: left;
+            padding-bottom: 1rem;
+          "
+        >
+          Histone post-translational modifications (PTMs) play crucial roles in
+          chromatin regulation, interacting with a wide array of enzymes, reader
+          proteins, and multi-subunit complexes to coordinate downstream
+          processes. Historically, modified histone peptides have been the
+          favored substrate for
+          <em>in vitro</em> chromatin studies, under the assumption that PTMs
+          are unaffected by higher order nucleosome structure.
+          <strong
+            >However, recent work from EpiCypher points to an integral role for
+            nucleosome conformation in dictating histone PTM interactions and
+            chromatin function (<a
+              href="https://www.biorxiv.org/content/10.1101/2022.02.21.481373v1"
+              target="_blank"
+              >Marunde et al. 2022</a
+            >;
+            <a href="https://pubmed.ncbi.nlm.nih.gov/34819353/" target="_blank"
+              >Morgan et al. 2021</a
+            >)</strong
+          >.
+        </p>
+
+        <p
+          style="
+            color: #222720 !important;
+            max-width: 985px;
+            text-align: left;
+            padding-bottom: 1rem;
+          "
+        >
+          EpiCypher offers a diverse array of
+          <a href="/recombinant-nucleosomes-complete-list/"
+            >recombinant nucleosomes
+          </a>
+          carrying various histone PTMs, histone variants, oncogenic mutations,
+          and more. We also offer
+          <a href="/services/custom-nucleosome-development"
+            >custom nucleosome development services</a
+          >
+          and
+          <a
+            href="/services/dcypher-assay-services-for-novel-chromatin-interactions"
+            >dCypher screening services</a
+          >
+          for specialized research projects and studying chromatin interactions.
+          The use of nucleosome substrates is essential to generate accurate,
+          physiological data, and are highly recommended compared to histone
+          peptides (see <strong>Figure</strong> below). However, if you would
+          like to still obtain histone peptides, or are interested in the
+          peptides we used to sell, you can contact the 
+          <a
+            href="https://www.med.unc.edu/csb/unc-peptides/histone-peptides/"
+            target="_blank"
+            >UNC Peptide Core Facility</a
+          > that specializes in custom histone peptide synthesis.
+        </p>
+
+        <p style="text-align: center; padding-bottom: 1rem">
+          <a href="/recombinant-nucleosomes-complete-list"
+            ><button
+              style="
+                color: #fff;
+                background: #4698cb;
+                border-radius: 53px;
+                padding: 13px 18px;
+              "
+            >
+              Check out our complete list of nucleosomes
+            </button></a
+          >
+        </p>
+        <figure style="max-width: 900px; margin: auto">
+          <img
+            src="/content/images/histone-peptides-graphic.png"
+            alt="histone-peptides-graphic"
+          />
+        </figure>
+
+        <p
+          style="
+            color: #000 !important;
+            max-width: 985px;
+            text-align: left;
+            font-size: 24px !important;
+            font-weight: 600;
+            padding-bottom: 1rem;
+          "
+        >
+          Learn more:
+        </p>
+        <p></p>
+        <ul style="max-width: 985px; margin: 0 auto">
+          <li style="margin-bottom: 0; font-size: 1rem">
+            <a
+              href="/resources/blog/finding-the-best-substrate-for-studying-histone-modifications/"
+              >Finding the Best Substrate for Studying Histone Modifications</a
+            >
+          </li>
+          <li style="margin-bottom: 0; font-size: 1rem">
+            <a href="/resources/blog/dCypher-interactions-blog"
+              >Deciphering the Histone Code with the dCypher™ Platform</a
+            >
+          </li>
+          <li style="margin-bottom: 0; font-size: 1rem">
+            <a
+              href="/resources/blog/the-nucleosome-acidic-patch-a-master-landing-dock-for-chromatin-regulators-/"
+            >
+              The Nucleosome Acidic Patch: A Master Landing Dock for Chromatin
+              Regulators</a
+            >
+          </li>
+          <li style="margin-bottom: 0; font-size: 1rem">
+            <a
+              href="/resources/blog/learn-more-about-epicyphers-custom-nucleosome-assembly-services/"
+              >Learn More About EpiCypher’s Custom Nucleosome Assembly
+              Services!</a
+            >
+          </li>
+          <li style="margin-bottom: 0; font-size: 1rem">
+            <a
+              href="/resources/blog/choosing-the-right-chip-antibody-for-your-experiment/"
+              >Choosing the Right ChIP Antibody for Your Experiment</a
+            >
+          </li>
+          <li style="margin-bottom: 0; font-size: 1rem">
+            <a
+              href="/resources/blog/histone-peptides-vs-nucleosomes-which-is-better-for-chip-antibody-validation/"
+              >Histone Peptides vs. Nucleosomes : Which is better for ChIP
+              antibody validation?</a
+            >
+          </li>
+        </ul>
+      </div>
+
+      <style>
+        article {
+          padding-top: 2rem;
+        }
+        figcaption {
+          font-size: 16px;
+        }
+      </style>
