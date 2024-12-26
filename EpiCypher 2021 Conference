@@ -1,0 +1,899 @@
+<div class="epi2020">
+  <header class="page-header-conference">
+    <h1 class="page-title" style="margin: 0">
+      EpiCypher 2021: Biological and Clinical Frontiers in Epigenetics
+    </h1>
+  </header>
+  <p class="epi_title">
+    November 7 - 12, 2021 • Opal Sands Resort • Clearwater Beach, FL
+  </p>
+  <p class="epi_2020_banner">
+    <img src="/content/images/EpiCypher2020/epi2021_banner2.jpeg" alt="" />
+  </p>
+
+  <p
+    style="
+      background-color: #4698cb;
+      color: #fff;
+      padding: 1.3rem;
+      text-align: center;
+      border-radius: 12px;
+    ">
+    <a
+      target="_blank"
+      style="color: #fff !important"
+      href="/resources/epicypher-conference/"
+      >This conference has passed. See our upcoming conference here >>
+    </a>
+  </p>
+
+  <div class="tabs">
+    <input id="tab1" class="tabs" type="radio" name="tabs" checked="checked" />
+    <label class="tabs" for="tab1">Overview</label>
+    <input id="tab2" class="tabs" type="radio" name="tabs" />
+    <label class="tabs" for="tab2">Registration</label>
+    <input id="tab3" class="tabs" type="radio" name="tabs" />
+    <label class="tabs" for="tab3">Program</label>
+    <input id="tab4" class="tabs" type="radio" name="tabs" />
+    <label class="tabs" for="tab4">Abstracts & Speakers</label>
+    <input id="tab5" class="tabs" type="radio" name="tabs" />
+    <label class="tabs" for="tab5">Travel & Venue</label>
+    <input id="tab6" class="tabs" type="radio" name="tabs" />
+    <label class="tabs" for="tab6">COVID Info</label>
+    <input id="tab7" class="tabs" type="radio" name="tabs" />
+    <label class="tabs" for="tab7">Things To Do</label>
+
+    <!--MEETING OVERVIEW-->
+
+    <div id="content1" class="tabs_down">
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <h3 style="margin: 0">
+                EpiCypher 2021: Biological and Clinical Frontiers in Epigenetics
+              </h3>
+              <hgroup class="epi_registration_headers">
+                <h4>
+                  November 7 - 12, 2021 • Opal Sands Resort • Clearwater Beach,
+                  FL
+                </h4>
+                <h4>
+                  Registration is now closed and we are operating on a waitlist.
+                </h4>
+              </hgroup>
+
+              <p>
+                During these uncertain times, we understand that you are making
+                travel decisions later than you usually would. Due to popular
+                demand and in order to accommodate these delayed travel
+                decisions, we have decided to waive the late registration fee to
+                allow you to book your trip when you feel comfortable to do so.
+                Please take advantage of this deal and be sure to register by
+                the final registration date: <strong>October 15, 2021</strong>.
+              </p>
+
+              <div style="display: flex; flex-direction: column">
+                <h4 style="margin: 0"><strong>KEYNOTE SPEAKERS</strong></h4>
+
+                <p style="margin-bottom: 0">
+                  <strong>Kristian Helin, PhD </strong> The Institute of Cancer
+                  Research, London
+                </p>
+
+                <p>
+                  <strong>Steven Henikoff, PhD</strong> Fred Hutchinson Cancer
+                  Research Center
+                </p>
+              </div>
+              <div style="display: flex; flex-direction: column">
+                <h4 style="margin: 1rem 0 0 0">
+                  <strong>SCIENTIFIC ORGANIZERS</strong>
+                </h4>
+
+                <p style="margin-bottom: 0">
+                  <strong>Mark Bedford, PhD</strong> University of Texas MD
+                  Anderson Cancer Center
+                </p>
+
+                <p style="margin-bottom: 0">
+                  <strong>Or Gozani, MD PhD</strong> Stanford University
+                </p>
+
+                <p style="margin-bottom: 0">
+                  <strong>Brian Strahl, PhD</strong> University of North
+                  Carolina
+                </p>
+              </div>
+              <p style="display: flex; flex-direction: column"></p>
+              <p>
+                This exciting conference will offer the opportunity to interact
+                with leading experts in the chromatin and epigenetics fields,
+                and will foster the exchange of scientific ideas between meeting
+                participants in a relaxing and casual environment. The meeting
+                will blend talks from invited speakers from academia and
+                industry and many talks from submitted abstracts. Join us at the
+                luxury oceanfront
+                <a
+                  target="_blank"
+                  href="/resources/epicypher-conference/"
+                  target="_blank"
+                  >Opal Sands Resort</a
+                >
+                in beautiful Clearwater Beach, Florida.
+              </p>
+
+              <h4 style="margin-bottom: 1rem">
+                <strong> CORPORATE SPONSORS </strong>
+              </h4>
+
+              <div class="corporate-logos-wrapper">
+                <div class="corporate-logos">
+                  <a href="https://arimagenomics.com/" target="_blank"
+                    ><img
+                      class="corporate-logo"
+                      src="/content/images/EpiCypher-conf-2021/ArimaGenomics_Logo.png"
+                      alt="luminex_logo"
+                  /></a>
+                </div>
+                <div class="corporate-logos">
+                  <a href="https://fortislife.com/" target="_blank"
+                    ><img
+                      id="fortis-logo"
+                      class="corporate-logo"
+                      src="/content/images/EpiCypher-conf-2021/fortis-logo-black.png"
+                      alt="luminex_logo"
+                  /></a>
+                </div>
+                <div class="corporate-logos">
+                  <a href="https://www.luminexcorp.com/" target="_blank"
+                    ><img
+                      class="corporate-logo"
+                      src="/content/images/EpiCypher-conf-2021/luminex_logo.png"
+                      alt="luminex_logo"
+                  /></a>
+                </div>
+              </div>
+
+              <div style="display: flex; flex-direction: column">
+                <h4>
+                  <strong
+                    ><a
+                      href="/resources/epicypher-conference/"
+                      title="EpiCypher 2021 Conference Flyer"
+                      target="_blank"
+                      >Download the conference flyer and share it with your
+                      lab!</a
+                    ></strong
+                  >
+                </h4>
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!--REGISTER-->
+    <div id="content2" class="tabs_down">
+      <hgroup class="epi_registration_headers"></hgroup>
+      <h3>REGISTRATION INFORMATION</h3>
+      <div>
+        <p style="margin-top: 24px">
+          <strong>
+            Registration is now closed and we are operating on a
+            waitlist.</strong
+          >
+        </p>
+        <p style="margin: 0">
+          <strong>Early Registration - Single Occupancy *: $2,600</strong>
+        </p>
+        <p style="margin-top: 0">
+          <strong>Early Registration - Double Occupancy **: $1,650</strong>
+        </p>
+
+        <p>
+          During these uncertain times, we understand that you are making travel
+          decisions later than you usually would. Due to popular demand and in
+          order to accommodate these delayed travel decisions, we have decided
+          to waive the late registration fee to allow you to book your trip when
+          you feel comfortable to do so. Please take advantage of this deal and
+          be sure to register by the final registration date:
+          <strong>October 15, 2021</strong>.
+        </p>
+
+        <p>
+          <em
+            >EpiCypher 2021: Biological and Clinical Frontiers in
+            Epigenetics</em
+          >
+          will be held at the luxury
+          <a href="/resources/epicypher-conference/" target="_blank"
+            >Opal Sands Resort</a
+          >. Registration fee includes five nights of luxury beachfront lodging,
+          breakfast each day, dinners and poster session receptions throughout
+          the conference, opening night and closing night receptions, conference
+          fees and all conference materials.
+        </p>
+
+        <p style="margin-bottom: 0">
+          * <strong>Single Occupancy</strong>: private room for a single
+          conference attendee.
+        </p>
+        <p>
+          ** <strong>Double Occupancy</strong>: room with two beds shared by two
+          attendees. Roommates can be specified upon registration, or assigned
+          by the conference organizers prior to the conference.
+        </p>
+
+        <p>
+          If you plan to extend your stay through the weekend (either before or
+          after the conference), please see the "Extended Stay" section of the
+          Travel & Venue Tab.
+        </p>
+
+        <h4><strong>GUESTS</strong></h4>
+
+        <p>
+          Please inquire at
+          <a href="">epicypher2021@epicypher.com</a>
+          for guest information. Additional charges may apply.
+        </p>
+      </div>
+    </div>
+
+    <!--PROGRAM-->
+    <div id="content3" class="tabs_down">
+      <hgroup class="epi_registration_headers"></hgroup>
+
+      <h3>PROGRAM</h3>
+
+      <p>
+        <em
+          >EpiCypher 2021: Biological and Clinical Frontiers in Epigenetics</em
+        >
+        brings together academic and industry scientists to discuss the latest
+        findings in the field. Talks will cover a broad range of epigenetics and
+        chromatin biology topics, ranging from basic molecular mechanisms to
+        therapeutic efforts. In addition, there will be discussions around the
+        elucidation of novel mechanisms, new tools, and other breaking topics in
+        epigenetics and chromatin research.
+      </p>
+      <p>Many talks will be selected from submitted abstracts.</p>
+      <p>
+        The conference will begin the evening (~5 PM) on Sunday, November 7 with
+        the opening Keynote Address, and conclude late on the evening of
+        Thursday, November 11 with the closing Keynote Address and a reception.
+        Conference attendees should plan to depart on Friday, November 12.
+      </p>
+
+      <p>More details will be posted soon when the program is complete.</p>
+    </div>
+
+    <!--VENUE-->
+    <div id="content4" class="tabs_down">
+      <hgroup class="epi_registration_headers"></hgroup>
+
+      <h3>ABSTRACTS</h3>
+
+      <p>
+        Abstracts can be submitted at the time of registration for the
+        conference. All conference attendees submitting an abstract are
+        encouraged to present a poster. You may also designate if would like to
+        be considered for a short talk. If you have already registered, you may
+        submit an abstract up until the
+        <strong>abstract submission deadline (October 15, 2021)</strong> by
+        emailing it to
+        <a href="/resources/epicypher-conference/"
+          >epicypher2021@epicypher.com</a
+        >.
+      </p>
+
+      <h3>POSTER SESSION INFORMATION</h3>
+
+      <p>
+        The provided boards will be 4 ft by 6 ft. Please print your poster
+        accordingly beforehand. Push pins will be provided.
+      </p>
+      <p>Set up: Monday Nov 8, 12 PM EST - 7:30 PM EST</p>
+      <p>Poster session: Tuesday Nov 9, 8 PM EST - 10 PM EST</p>
+      <p>Tear down deadline: Wednesday Nov 10, 12:30 PM EST</p>
+
+      <h3>SPEAKERS</h3>
+
+      <p>
+        Many talks will be chosen from the submitted abstracts across all career
+        levels (from graduate students and postdocs to new and established
+        investigators).
+      </p>
+
+      <h3>Keynote Speakers</h3>
+
+      <section style="padding-bottom: 2rem" class="epi_section_keynote_speaker">
+        <div>
+          <img
+            alt=""
+            src="https://agilecrm.s3.amazonaws.com/editor/epicypher/krisitan_helin_jpg_1570027433961.jpg"
+            data-selector="img"
+            style="border-color: rgb(52, 73, 94); outline: none" />
+        </div>
+
+        <div>
+          <h4
+            style="
+              color: rgb(70, 152, 203) !important;
+              font-size: 24px !important;
+              margin-top: 0;
+            ">
+            Kristian Helin, Ph.D.
+          </h4>
+          <p style="color: rgb(51, 51, 51) !important">
+            Dr. Helin’s laboratory studies the function of epigenetics and
+            chromatin structure in diverse cellular processes, and how changes
+            to these pathways influence the development of human diseases.
+          </p>
+          <p>
+            The Helin lab has made seminal contributions to our understanding of
+            chromatin associated proteins and modifying complexes in
+            transcription, cellular differentiation, and development. The
+            overarching goal of his work is to leverage chromatin biology to
+            reveal novel targets for therapeutic development.
+          </p>
+        </div>
+      </section>
+
+      <section class="epi_section_keynote_speaker">
+        <div>
+          <img
+            alt=""
+            src="https://agilecrm.s3.amazonaws.com/editor/epicypher/stevenhenikoff_jpg_1570027731296.jpg"
+            data-selector="img"
+            style="border-color: rgb(52, 73, 94); outline: none" />
+        </div>
+
+        <div>
+          <h4
+            style="
+              color: rgb(70, 152, 203) !important;
+              font-size: 24px !important;
+              margin-top: 0;
+            ">
+            Steven Henikoff, Ph.D.
+          </h4>
+          <p style="color: rgb(51, 51, 51) !important">
+            Dr. Henikoff’s laboratory is focused on understanding the role of
+            chromatin architecture in regulating gene expression. His work has
+            provided fundamental insight toward the complex mechanisms
+            underlying epigenetic processes, and how chromatin interacts with
+            various proteins to control transcription.
+          </p>
+          <p>
+            As part of this work, Dr. Henikoff has also developed multiple
+            high-impact chromatin profiling and genomics tools, many of which
+            have become invaluable resources in molecular biology.
+          </p>
+        </div>
+      </section>
+
+      <h3>Confirmed Speaker List</h3>
+
+      <div>
+        <ul style="list-style-type: none">
+          <li><strong>Scott Armstrong </strong>Dana-Farber Cancer Institute</li>
+
+          <li><strong>Sung Hee Baek </strong>Seoul National University</li>
+
+          <li><strong>Brad Bernstein </strong>Harvard Medical School</li>
+
+          <li>
+            <strong>Emily Bernstein </strong>Mount Sinai School of Medicine
+          </li>
+
+          <li><strong>Peter Brown </strong>University of Toronto</li>
+
+          <li><strong>Xiaodong Cheng </strong>MD Anderson Cancer Center</li>
+
+          <li>
+            <strong>Ernesto Guccione </strong>Mount Sinai School of Medicine
+          </li>
+
+          <li><strong>Nada Jabado </strong>McGill University</li>
+
+          <li>
+            <strong>Steve Jacobsen </strong>University of California, Los
+            Angeles (HHMI)
+          </li>
+
+          <li><strong>Jian Jin </strong>Mount Sinai School of Medicine</li>
+
+          <li><strong>Peter Jones </strong>Van Andel Research Institute</li>
+
+          <li>
+            <strong>Steve Josefowicz </strong>Weill Cornell Medical School
+          </li>
+
+          <li><strong>Cigall Kadoch </strong>Dana-Farber Cancer Institute</li>
+
+          <li><strong>Neil Kelleher </strong>Northwestern University</li>
+
+          <li><strong>Bob Kingston </strong>MGH / Harvard Medical School</li>
+
+          <li><strong>Ryan Kruger </strong>Foghorn Therapeutics</li>
+
+          <li>
+            <strong>Tatiana Kutateladze </strong>University of Colorado Anschutz
+            Medical Campus
+          </li>
+
+          <li><strong>Chao Lu </strong>Columbia University</li>
+
+          <li>
+            <strong>Hiten Madhani </strong>University of California, San
+            Francisco
+          </li>
+
+          <li><strong>Karen Maegley </strong>Pfizer</li>
+
+          <li><strong>Michael McCabe </strong>GlaxoSmithKline</li>
+
+          <li><strong>Ari Melnick </strong>Weill Cornell Medical School</li>
+
+          <li><strong>Danesh Moazed </strong>Harvard Medical School (HHMI)</li>
+
+          <li>
+            <strong>Catherine Musselman </strong>University of Colorado Anschutz
+            Medical Campus
+          </li>
+
+          <li>
+            <strong>Bing Ren </strong> University of California, San Diego
+          </li>
+
+          <li>
+            <strong>Roland Schüle </strong>Albert-Ludwigs-Universität Freiburg
+          </li>
+
+          <li><strong>Xiaobing Shi </strong>Van Andel Research Institute</li>
+
+          <li><strong>Yang Shi </strong>Oxford University</li>
+
+          <li>
+            <strong>Jikui Song </strong>University of California, Riverside
+          </li>
+
+          <li>
+            <strong>Marc Timmers </strong>Albert-Ludwigs-Universität Freiburg
+          </li>
+
+          <li><strong>Patrick Trojer </strong>Constellation Pharmaceuticals</li>
+
+          <li><strong>Jessica Tyler </strong>Weill Cornell Medical School</li>
+
+          <li>
+            <strong>Ben Tu </strong>University of Texas Southwestern Medical
+            Center
+          </li>
+          <li>
+            <strong>Greg Wang </strong>University of North Carolina, Chapel Hill
+          </li>
+
+          <li><strong>Hong Wen </strong>Van Andel Research Institute</li>
+
+          <li>
+            <strong>Jerry Workman </strong>Stowers Institute for Medical
+            Research
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <!--TRAVEL and VENUE-->
+    <div id="content5" class="tabs_down">
+      <!--TRAVEL-->
+
+      <hgroup class="epi_registration_headers"></hgroup>
+
+      <div class="epi-conference__card-deck">
+        <div class="epi-conference__card-wrapper">
+          <a
+            class="epi-conference__card"
+            href="/content/images/EpiCypher-conf-2021/opal-sands-building.jpeg"
+            style="width: 400px; margin: 1rem"
+            target="_blank"
+            ><img
+              class="opal-sands-resort"
+              style="width: 400px"
+              src="/content/images/EpiCypher-conf-2021/opal-sands-building.jpeg"
+              alt="opal-sands-building" />
+          </a>
+        </div>
+        <div class="epi-conference__card-wrapper">
+          <a
+            class="epi-conference__card"
+            href="/content/images/EpiCypher-conf-2021/opal-sands-sand-bar.jpeg"
+            style="width: 400px; margin: 1rem"
+            target="_blank"
+            ><img
+              class="opal-sands-resort"
+              style="width: 400px; max-height: 225px"
+              src="/content/images/EpiCypher-conf-2021/opal-sands-sand-bar.jpeg"
+              alt="opal-sands-sand-bar" />
+          </a>
+        </div>
+        <div class="epi-conference__card-wrapper">
+          <a
+            class="epi-conference__card"
+            href="/content/images/EpiCypher-conf-2021/opal-sands-guest-room.jpeg"
+            style="width: 400px; margin: 1rem"
+            target="_blank"
+            ><img
+              class="opal-sands-resort"
+              style="width: 400px; max-height: 239px"
+              src="/content/images/EpiCypher-conf-2021/opal-sands-guest-room.jpeg"
+              alt="opal-sands-guest-room" />
+          </a>
+        </div>
+        <div class="epi-conference__card-wrapper">
+          <a
+            class="epi-conference__card"
+            href="/content/images/EpiCypher-conf-2021/opal-sands-pool.jpeg"
+            style="width: 400px; margin: 1rem"
+            target="_blank"
+            ><img
+              class="opal-sands-resort"
+              style="width: 400px"
+              src="/content/images/EpiCypher-conf-2021/opal-sands-pool.jpeg"
+              alt="" />
+          </a>
+        </div>
+      </div>
+
+      <p style="padding-left: 2rem" class="click-photo">
+        Click photos to enlarge
+      </p>
+
+      <h3>TRAVEL INFORMATION</h3>
+
+      <div class="conference-2021__travel-info">
+        <p class="conference-2021__travel-info-address">
+          <em
+            >EpiCypher 2021: Biological and Clinical Frontiers in
+            Epigenetics</em
+          >
+          will be held at
+          <a
+            href="/resources/epicypher-conference/"
+            title="Opal Sands"
+            target="_blank"
+            >Opal Sands Resort</a
+          >, a luxury oceanfront hotel on beautiful Clearwater Beach, Florida.
+        </p>
+        <p class="conference-2021__travel-info-address">
+          430 South Gulfview Blvd
+        </p>
+        <p class="conference-2021__travel-info-address">Clearwater Beach, FL</p>
+        <p>Phone: <a href="tel:+17274500380">727-450-0380</a></p>
+
+        <p class="conference-2021__travel-info-address">
+          Some attendees will be staying at the nearby
+          <a
+            href="/resources/epicypher-conference/"
+            title="Hyatt Clearwater"
+            target="_blank"
+            >Hyatt Regency Clearwater Beach</a
+          >, also an oceanfront luxury resort, about a four minute walk from the
+          Opal Sands.
+        </p>
+        <p class="conference-2021__travel-info-address">301 S Gulfview Blvd</p>
+        <p class="conference-2021__travel-info-address">
+          Clearwater Beach, FL 33767
+        </p>
+        <p>Phone: <a href="tel:+17273731234">727-373-1234</a></p>
+
+        <p>
+          If you have a preference for the Hyatt Regency, please let us know
+          upon registration by contacting us at
+          <a href="/resources/epicypher-conference/"
+            >epicypher2021@epicypher.com</a
+          >.
+        </p>
+        <p>
+          <strong>Arrival by Air:</strong>
+
+          Clearwater Beach is served by two nearby commercial airports:
+          <strong>Tampa International Airport (TPA)</strong>, which is around 40
+          minutes from Opal Sands, and
+          <strong>St. Pete - Clearwater Interational Airport (PIE)</strong>,
+          which is approximately 30 minutes from Opal Sands. TPA is larger and
+          has more airline and flight options. Uber, Lyft and taxi service are
+          the best options for travel from either airport to Clearwater Beach.
+        </p>
+        <p>
+          <strong>Arrival By Car:</strong>
+
+          If you are driving your personal vehicle to EpiCypher 2021, Parking at
+          Opal Sands has been discounted to
+          <strong>$15 per night (payable directly to the hotel) </strong>for the
+          duration of the conference.
+        </p>
+        <p></p>
+        <h3>GENERAL INFORMATION</h3>
+
+        <p>
+          <strong>Weather:</strong>
+
+          On any given day during November along the West Coast of Florida, you
+          can expect early morning temperatures to be near 60° F (16° C).
+          Temperatures in Clearwater Beach typically rise during the day, to an
+          average of 75° F (24° C) in the early afternoon. The water in the Gulf
+          of Mexico near Clearwater Beach averages 72° F (22° C) in November,
+          and the chance of rain is approximately 15%.
+        </p>
+        <p>
+          <strong>Amenities:</strong>
+
+          Both the Opal Sands and the Hyatt Regency are
+          <strong>full service, 4-star oceanfront luxury resorts</strong>.
+          Service at each hotel is exceptional and the amenities include:
+          multiple restaurants and bars on site, outdoor pool, room service,
+          fitness center, spa, laundry service and Wi-Fi internet. Please refer
+          to the website for each venue for specific details.
+        </p>
+        <p>
+          <strong>Extended Stay:</strong>
+
+          As a conference attendee, you are able to extend your stay up to two
+          nights prior to and/or two nights following the conference at the
+          group rate in either the Opal Sands or Hyatt Resort.
+        </p>
+        <p>
+          Please contact
+          <a href="/resources/epicypher-conference/"
+            >epicypher2021@epicypher.com</a
+          >
+          to extend your existing reservation for the conference.
+          <strong
+            >However, availability for these weekend nights are extremely
+            limited, and available on a "first come, first served" basis so we
+            recommend adjusting your reservation as soon as possible.
+            Additionally, reservations for extending your stay at the group rate
+            are only being taken until September 21st</strong
+          >.
+        </p>
+      </div>
+    </div>
+
+    <!--COVID POLICY-->
+    <div id="content6" class="tabs_down">
+      <hgroup class="epi_registration_headers"></hgroup>
+
+      <h3>COVID INFORMATION</h3>
+
+      <p>
+        EpiCypher is committed to conducting our conference as safely as
+        possible. We understand the concerns regarding COVID and EpiCypher will
+        be following CDC guidelines every step of the way to ensure safe
+        in-person interactions during the on-site conference.
+      </p>
+
+      <p>
+        We strongly encourage all conference participants and their guests to be
+        vaccinated prior to the meeting. If you are not vaccinated, please wear
+        a mask when outside of your hotel room and practice social distancing.
+      </p>
+      <p>
+        <strong> How big is the meeting space? </strong>
+      </p>
+      <p>
+        The platform sessions will be held in a large enough space as to allow
+        people to social distance in the audience.
+      </p>
+      <p>
+        <strong> How is the hotel ensuring safety of their guests? </strong>
+      </p>
+      <p>
+        Opal Sands is mindful of the situation and the concerns patrons might
+        have with regard to the COVID situation. Opal Sands employees will
+        always have a mask and will mask up when encountering or engaging with a
+        guest who is wearing one. All public areas are cleaned several times per
+        day by Opal Sands staff.
+      </p>
+      <p>
+        <strong> What is the Hotel’s cleaning procedure? </strong>
+      </p>
+      <p>
+        Below is the bare minimum SOP being followed at Opal Sands when cleaning
+        guest rooms and the public areas.
+      </p>
+
+      <p><strong>Cleaning SOP</strong></p>
+      <ul>
+        <li>
+          Put on clean gloves, visually inspect room and restock supplies.
+        </li>
+        <li>
+          Spray (and do not wipe) all bathroom hard surfaces with multi-purpose
+          disinfectant cleaner (toilet, urinals, sinks, countertops and
+          fixtures) or bathroom disinfectant (shower/tub).
+        </li>
+        <li>
+          Dust, clean and disinfect all hard surfaces in room with focus on high
+          touchpoints.
+        </li>
+        <li>
+          Return to bathroom after required disinfectant contact time to
+          wipe/scrub and rinse hard surfaces starting with shower and ending
+          with toilet. Refer to product label.
+        </li>
+        <li>Pick up debris and empty trash; replace trash liner if needed.</li>
+        <li>
+          Vacuum soft-surfaced floors (carpet/rug); sweep then mop hard-surfaced
+          floors (tile/LVT).
+        </li>
+        <li>Remove gloves; perform proper hand hygiene.</li>
+      </ul>
+
+      <p><strong>What is the COVID Cancellation Policy?</strong></p>
+      <p>
+        At any time before the meeting registration deadline (October 15, 2021)
+        you can transfer your registration to someone else at your institution.
+        Note: If you have signed up for Double Occupancy, for room sharing
+        purposes, we ask that the replacement attendee be the same gender as the
+        original attendee.
+      </p>
+      <ul>
+        <li>
+          Prior to October 1, 2021 - cancel (for any reason) with a 100% refund.
+        </li>
+        <li>
+          Between October 1, 2021 and October 15, 2021 - cancel (for any reason)
+          with a 75% refund.
+        </li>
+        <li>
+          Anytime after October 15, 2021 - cancel and receive a 100% refund in
+          the form of a credit towards a future purchase of EpiCypher products
+          (must be used within 1 year).
+        </li>
+      </ul>
+
+      <p>
+        If you test positive for COVID-19 within 10 days of the meeting, please
+        contact us at
+        <a href="">epicypher2021@epicypher.com</a>
+        to request a refund.
+      </p>
+
+      <p>
+        For the sake of clarity, the meeting registrant should contact us
+        directly to cancel their registration via email at
+        <a href="/resources/epicypher-conference/"
+          >epicypher2021@epicypher.com</a
+        >; no proxies please. If you have additional questions or concerns,
+        please reach out to
+        <a href="">epicypher2021@epicypher.com</a>
+        or contact Opal Sands directly through the website:
+        <a href="/resources/epicypher-conference/"
+          >https://www.opalsands.com/</a
+        >
+      </p>
+    </div>
+
+    <!--THINGS TO DO-->
+    <div id="content7" class="tabs_down">
+      <hgroup class="epi_registration_headers"></hgroup>
+
+      <h3 style="margin-bottom: 3rem">
+        Click
+        <a target="_blank" href="">here</a>
+        to view a list of nearby restaurants.
+      </h3>
+      <h3>Attractions near Clearwater Beach:</h3>
+
+      <p>
+        <a target="_blank" href="/resources/epicypher-conference/"
+          >Beach Walk - a beachside promenade</a
+        >
+      </p>
+
+      <p>
+        <a target="_blank" href="/resources/epicypher-conference/"
+          >Clearwater Marine Aquarium</a
+        >
+      </p>
+      <p>
+        <a target="_blank" href="/resources/epicypher-conference/"
+          >Parasail City</a
+        >
+      </p>
+      <p>
+        <a target="_blank" href="/resources/epicypher-conference/"
+          >Double Eagle Deep Sea Fishing</a
+        >
+      </p>
+
+      <p>
+        <a target="_blank" href="/resources/epicypher-conference/"
+          >Makin' Waves Jet Ski and Beach Rental</a
+        >
+      </p>
+      <p>
+        <a target="_blank" href="/resources/epicypher-conference/"
+          >Little Toot Dolphin Adventure at Clearwater Beach</a
+        >
+      </p>
+      <p>
+        <a target="_blank" href="/resources/epicypher-conference/"
+          >Honeymoon Island State Park</a
+        >
+      </p>
+      <p>
+        <a target="_blank" href="/resources/epicypher-conference/"
+          >Ron Jon Surf Shop</a
+        >
+      </p>
+    </div>
+  </div>
+  <p style="color: grey; font-size: 10px">Last updated: 10/28/2021</p>
+</div>
+
+<script>
+  var header = document.querySelector('.main-content .page-header');
+
+  header.parentNode.removeChild(header);
+</script>
+
+<style>
+  .conference-2021__travel-info-address {
+    margin-bottom: 0;
+  }
+  .epi-conference__card-deck {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  /* .epi-conference__card {
+        width: 400px;
+        margin: 1rem;
+      } */
+  .epi-conference__card-wrapper {
+    margin-bottom: 1rem;
+  }
+  .opal-sands-resort {
+    opacity: 1;
+    -webkit-transition: 0.3s ease-in-out;
+    transition: 0.3s ease-in-out;
+    margin-bottom: 1rem;
+  }
+  .opal-sands-resort:hover {
+    opacity: 0.7;
+  }
+  li {
+    font-size: 16px;
+  }
+  .corporate-logos-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .corporate-logos {
+    margin-bottom: 4rem;
+  }
+  #fortis-logo {
+    height: 63px;
+  }
+  .corporate-logo {
+    height: 80px;
+  }
+  @media screen and (max-width: 1010px) {
+    .click-photo {
+      text-align: center;
+      padding-left: 0;
+      margin: 1rem;
+    }
+  }
+  @media screen and (max-width: 768px) {
+    .corporate-logos-wrapper {
+      flex-direction: column;
+    }
+  }
+</style>
