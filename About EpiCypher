@@ -1,0 +1,419 @@
+<div class="">
+    <div class="about-us container container-small">
+        <div class="about-us-main">
+            <p class="about-us-paragraph" style="margin-top: 1.7rem;">
+                EpiCypher is an epigenetics company founded in 2012 by Drs. Mark Bedford, Or Gozani, Brian Strahl, and James Bone in response to the growing demand for high-quality reagents and tools to study chromatin regulation and enable
+                epigenetics-focused drug development.
+            </p>
+
+            <p class="about-us-paragraph">
+                EpiCypher is the global leader in recombinant nucleosome manufacturing and development. Using proprietary methods, we are continuously adding to the world’s largest collection of highly pure modified recombinant “designer”
+                nucleosomes (dNucs<sup>™</sup>). EpiCypher’s broad dNuc<sup>™</sup>
+                diversity is providing a powerful tool to decipher the histone code and accelerate drug development.
+                <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6173622/">Shah <em>et al.</em></a>, <a href="https://pubmed.ncbi.nlm.nih.gov/32442403/">Wang <em>et al.</em></a>, and Weinberg <i>et al.</i> (see below) are just a few
+                examples of the many benefits of using nucleosome substrates for epigenetics studies.
+            </p>
+            <a href="#about-us"></a>
+            <a id="about-us"></a>
+            <p class="about-us-paragraph">
+                EpiCypher leverages dNuc<sup>™</sup> technology for a wide range of applications, including: SNAP-ChIP<sup>®</sup> Spike-in Controls (for antibody profiling and quantitative ChIP), EpiDyne<sup>®</sup>
+                substrates (for characterizing chromatin remodeling enzyme complexes and inhibitors), and dCypher™ assays (for interrogation of epigenetic protein-histone PTM binding interactions). We also offer a suite of high-quality
+                recombinant histone binding proteins, enzymes, antibodies, and custom assay development services to complement these platforms.
+            </p>
+
+            <p id="coauth" class="about-us-paragraph">
+                EpiCypher continuously pushes technology boundaries to deliver innovative products, solutions, and services to epigenetics and chromatin biology researchers. Most recently, EpiCypher has been at the leading edge of chromatin
+                mapping technology improvements with the recent launch of the highly sensitive epigenomic mapping CUTANA<sup>™</sup> assays for ChIC, CUT&RUN, and CUT&Tag.
+            </p>
+
+            <p class="about-us-paragraph" style="padding-bottom: 15px;">
+                From our strong scientific expertise and rigor to our focus on customer success, EpiCypher is proud to be an epigenetics company
+                <em>For Scientists, By Scientists</em>.
+            </p>
+        </div>
+        <a name="33534396"></a>
+
+        <div class="" id="co_Authored_publication">
+
+            <h2 style="padding-top: 15px; margin-top: 15px;">
+                Featured Co-Authored Publications
+            </h2>
+    
+            <!-- columns and rows of cards -->
+    
+            <div class="about-us__cards">
+                <div class="about-us__column">
+                    <div class="about-us__card-wrapper" id="card-1">
+                        <div class="about-us__card" id="card-1">
+                            <div>
+                                <p class="about-us__author">Shah <em> et al. </em> (2018)</p>
+                                <p class="about-us__journal">Molecular Cell</p>
+                                <p class="about-us__description">
+                                    Examining the roles of H3K4 methylation states with systematically characterized antibodies
+                                </p>
+                            </div>
+                            <div class="about-us__button" style="display: flex;">
+                                <a class="button blog-content-button" href="" style="color: white;"> Read paper</a>
+                            </div>
+                        </div>
+                        <div class="about-us__overlay" flip()>
+                            <div class="about-us__text">
+                                This study established SNAP-ChIP Recombinant Nucleosome Spike-ins as a robust and essential technology for defining histone PTM antibody binding in ChIP experiments. Direct comparison of SNAP-ChIP (also known as
+                                ICeChIP) Spike-ins and histone peptide arrays revealed that modified histone peptides had no predictive ability for antibody performance in ChIP, and many “ChIP-grade” antibodies to H3K4me1, me2, and me3
+                                exhibited off-target binding and poor pull-down efficiency. Instead, SNAP-ChIP Spike-in Controls were able to accurately characterize antibody performance within the context of a ChIP assay.
+                            </div>
+                            <div class="about-us__button">
+                                <a class="button blog-content-button" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6173622/" style="color: white;"> Read paper</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="about-us__column">
+                    <div class="about-us__card-wrapper" id="card-1">
+                        <div class="about-us__card" id="card-1">
+                            <div>
+                                <p class="about-us__author">Yusufova <em> et al. </em> (2021)</p>
+                                <p class="about-us__journal">Nature</p>
+                                <p class="about-us__description">
+                                    Histone H1 loss drives lymphoma by disrupting 3D chromatin architecture
+                                </p>
+                            </div>
+                            <div class="about-us__button" style="display: flex;">
+                                <a class="button blog-content-button" href="" style="color: white;"> Read paper</a>
+                            </div>
+                        </div>
+                        <div class="about-us__overlay">
+                            <div class="about-us__text">
+                                Although linker H1 histone proteins are often mutated in B-cell lymphoma, the downstream impacts of these mutant alleles are not well known. In this study, Yusufova et al. demonstrate that H1 histones are bona
+                                fide tumor suppressor proteins, which are required to package early developmental genes into transcriptionally inaccessible heterochromatin. EpiCypher CUTANA CUT&RUN assays were key for analyzing changes in
+                                heterochromatin structure in rare germinal center B cells, as standard ChIP-seq assays lack the sensitivity to reliably profile from limited primary cell samples.
+                            </div>
+                            <div class="about-us__button">
+                                <a class="button blog-content-button" href="https://pubmed.ncbi.nlm.nih.gov/33299181/" style="color: white;"> Read paper</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="about-us__column">
+                    <div class="about-us__card-wrapper" id="card-1">
+                        <div class="about-us__card" id="card-1">
+                            <div>
+                                <p class="about-us__author">Weinberg <em> et al. </em> (2021)</p>
+                                <p class="about-us__journal">Nature Genetics</p>
+                                <p class="about-us__description">
+                                    Two competing mechanisms of DNMT3A recruitment regulate the dynamics of de novo DNA methylation at PRC1-targeted CpG islands
+                                </p>
+                            </div>
+                            <div class="about-us__button" style="display: flex;">
+                                <a class="button blog-content-button" href="" style="color: white;"> Read paper</a>
+                            </div>
+                        </div>
+                        <div class="about-us__overlay">
+                            <div class="about-us__text">
+                                Aberrant DNA methylation at CpG islands (CGIs) occurs in many diseases, but the mechanism is still unclear. Here, we used dCypher binding assays to characterize DNMT3A proteins with disease-associated mutations,
+                                revealing novel binding preference for H2AK119ub dNucs. DNMT3A mutant cell lines accumulated DNA methylation at CGIs, which was dependent on H2AK119ub generated by the repressive PRC1 complex. Combined with
+                                Weinberg et al. 2019, our team has convincingly demonstrated the role of epigenetic crosstalk in regulating chromatin structure, gene expression, and disease development.
+                            </div>
+                            <div class="about-us__button">
+                                <a class="button blog-content-button" href="https://pubmed.ncbi.nlm.nih.gov/33986537/" style="color: white;"> Read paper</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+    
+                <div class="about-us__column">
+                    <div class="about-us__card-wrapper" id="card-1">
+                        <div class="about-us__card" id="card-1">
+                            <div>
+                                <p class="about-us__author">Weinberg <em> et al. </em> (2019)</p>
+                                <p class="about-us__journal">Nature</p>
+                                <p class="about-us__description">
+                                    H3K36me2 recruits DNMT3A and shapes the intergenic DNA methylation landscape
+                                </p>
+                            </div>
+                            <div class="about-us__button" style="display: flex;">
+                                <a class="button blog-content-button" href="" style="color: white;"> Read paper</a>
+                            </div>
+                        </div>
+                        <div class="about-us__overlay">
+                            <div class="about-us__text">
+                                Here, dCypher nucleosome panels illuminated the binding preference of chromatin reader DNMT3A towards NSD1-catalyzed H3K36me2, highlighting the importance of the nucleosome context when defining histone PTM
+                                interactions. Notably, alterations in each of these chromatin regulators results in childhood overgrowth syndromes (mutation of DNMT3A is associated with Tatton-Brown-Rahman syndrome, while changes in NSD1 cause
+                                Sotos syndrome). This work established a new regulatory link between the two growth disorders, as loss of NSD1 leads to misregulated localization of DNMT3A and altered DNA methylation in intergenic regions.
+                            </div>
+                            <div class="about-us__button">
+                                <a class="button blog-content-button" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6742567/" style="color: white;"> Read paper</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="about-us__column">
+                    <div class="about-us__card-wrapper" id="card-1">
+                        <div class="about-us__card" id="card-1">
+                            <div>
+                                <p class="about-us__author">Thålin <em> et al. </em> (2020)</p>
+                                <p class="about-us__journal" style="text-align: left;">
+                                    Journal of Thrombosis and Haemostasis
+                                </p>
+                                <p class="about-us__description">
+                                    Quantification of citrullinated histones: Development of an improved assay to reliably quantify nucleosomal H3Cit in human plasma
+                                </p>
+                            </div>
+                            <div class="about-us__button" style="display: flex;">
+                                <a class="button blog-content-button" href="" style="color: white;"> Read paper</a>
+                            </div>
+                        </div>
+                        <div class="about-us__overlay">
+                            <div class="about-us__text">
+                                Neutrophil extracellular traps (NETs) are webs of citrullinated nuclear proteins released during inflammatory processes and can be detected in human plasma by probing for histone H3 citrullination (H3Cit) on
+                                circulating nucleosomes. Although NETs have been linked to numerous human pathologies, their application in diagnostics has been limited due to a lack of reliable assays. Here, EpiCypher collaborated with Dr.
+                                Charlotte Thålin to develop a novel assay to quantify nucleosomal H3Cit from human plasma. EpiCypher dNucs were key to antibody validation and for generating a standard curve for accurate H3Cit quantification.
+                            </div>
+                            <div class="about-us__button">
+                                <a class="button blog-content-button" href="https://pubmed.ncbi.nlm.nih.gov/32654410/" style="color: white;"> Read paper</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="about-us__column">
+                    <div class="about-us__card-wrapper" id="card-1">
+                        <div class="about-us__card" id="card-1">
+                            <div>
+                                <p class="about-us__author">Schachner <em> et al. </em> (2021)</p>
+                                <p class="about-us__journal">Nature Methods</p>
+                                <p class="about-us__description">
+                                    Decoding the Protein Composition of Whole Nucleosomes with Nuc-MS
+                                </p>
+                            </div>
+                            <div class="about-us__button" style="display: flex;">
+                                <a class="button blog-content-button" href="" style="color: white;"> Read paper</a>
+                            </div>
+                        </div>
+                        <div class="about-us__overlay">
+                            <div class="about-us__text">
+                                Mass spectrometry represents a powerful approach for characterization of the histone code. However, existing methods for mass spec of chromatin utilize bulk fragmented histones, greatly complicating the analysis
+                                of co-occurring histone PTMs within nucleosome subunits and obscuring cooperative functions. In this paper, EpiCypher collaborated with the Kelleher lab to develop Nuc-MS, a novel approach that enables detection
+                                of histone PTMs and variants within intact mononucleosomes. Nuc-MS was established using defined dNuc substrates from EpiCypher, providing robust validation for this breakthrough technology.
+                            </div>
+                            <div class="about-us__button">
+                                <a class="button blog-content-button" href="https://pubmed.ncbi.nlm.nih.gov/33589837/" style="color: white;"> Read paper</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <h2 style="padding-top: 15px; margin-top: 15px;">
+            All Co-Authored Publications
+        </h2>
+
+        <div>
+            <iframe
+                class="airtable-embed"
+                src="https://airtable.com/embed/shrKHa2T382saUUFV?backgroundColor=blue&viewControls=on"
+                frameborder="0"
+                onmousewheel=""
+                width="100%"
+                height="533"
+                style="background: transparent; border: 1px solid #ccc;"
+            ></iframe>
+        </div>
+
+        <p style="margin-top: 2rem;" class="bottom-section-url">
+            To view all publications featuring EpiCypher products, click
+            <a href="/resources/product-references">here</a>.
+        </p>
+    </div>
+
+    <style>
+        .about-us__overlay {
+            display: none;
+            height: 100%;
+            width: 100%;
+            transition: 0.1s ease;
+        }
+        .about-us__cards {
+            margin-top: 15px;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+            align-items: stretch;
+        }
+        .about-us__column:hover .about-us__overlay {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            height: 100%;
+        }
+        .about-us__column:hover .about-us__card#card-1 {
+            display: none;
+        }
+
+        .page .page-content .about-us__text {
+            color: black;
+            font-size: 14px;
+            text-align: left;
+        }
+        .about-us__overlay .about-us__button {
+            display: flex;
+            align-items: flex-start;
+        }
+        .button {
+            padding: 6px 14px;
+            border-radius: 16px;
+        }
+        .page .page-content .about-us__author {
+            display: flex;
+            justify-content: flex-start;
+            padding-top: 2.5rem !important;
+            margin-bottom: 0;
+            color: #000000 !important;
+        }
+        .page .page-content .about-us__journal {
+            display: flex;
+            justify-content: flex-start;
+            color: #000000 !important;
+        }
+        .page .page-content .about-us__description {
+            padding-top: 12px;
+            padding-bottom: 3rem;
+            display: flex;
+            text-align: left;
+            color: #4398cb !important;
+        }
+        .page .page-content .about-us__view-more {
+            display: flex;
+            color: #4398cb !important;
+            margin-bottom: 0;
+        }
+        .about-us__column {
+            padding: 1rem 2rem 1rem 0;
+        }
+        .about-us__column:nth-child(3n + 3) {
+            padding-right: 1rem;
+        }
+        .about-us__card-wrapper {
+            height: 440px;
+            border: 2.5px solid #4398cb;
+            text-align: center;
+            border-radius: 7px;
+            padding: 16px;
+            background: url("/content/images/epicypher-logo.png");
+            background-repeat: no-repeat;
+            background-size: 35%;
+            background-position: 105% 105%;
+        }
+        .about-us__card-wrapper:hover {
+            border: 2.5px solid #b3cfe6;
+            text-align: center;
+            border-radius: 7px;
+            padding: 16px;
+            background: url("/content/images/epicypher-logo.png");
+            background-repeat: no-repeat;
+            background-size: 35%;
+            background-position: 105% 105%;
+        }
+        .about-us__card {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            height: 100%;
+        }
+        hr {
+            height: 2px;
+            margin: 3rem 0;
+        }
+        .page .page-content .bottom-section-url {
+            color: black !important;
+        }
+        /* Small Desktop  */
+        @media screen and (max-width: 992px) {
+            .about-us__column {
+                padding: 1rem;
+            }
+            .about-us__card-wrapper {
+                background-position: 104% 104%;
+            }
+            .about-us__card-wrapper:hover {
+                background-position: 104% 104%;
+            }
+        }
+        @media screen and (max-width: 768px) {
+            .about-us__card-wrapper {
+                background-size: 25%;
+                background-position: 104% 104%;
+                height: 370px;
+            }
+            .about-us__card-wrapper:hover {
+                background-size: 25%;
+                background-position: 104% 104%;
+                height: 370px;
+            }
+        }
+        @media screen and (max-width: 644px) {
+            .about-us__card-wrapper {
+                background-size: 25%;
+                background-position: 103% 103%;
+                height: 380px;
+            }
+            .about-us__card-wrapper:hover {
+                background-size: 25%;
+                background-position: 103% 103%;
+                height: 380px;
+            }
+            .about-us__column {
+                padding: 1rem 1rem 1rem !important;
+            }
+        }
+        @media screen and (max-width: 378px) {
+            .about-us__card-wrapper {
+                background-size: 25%;
+                background-position: 102% 102%;
+                height: 440px;
+            }
+            .about-us__card-wrapper:hover {
+                background-size: 25%;
+                background-position: 102% 102%;
+                height: 440px;
+            }
+            .about-us__column {
+                padding: 1rem 1rem 1rem 0 !important;
+            }
+        }
+    </style>
+</div>
+
+<style>
+        #co_Authored_publication {
+            padding-top: 100px; 
+/* Adjust this value to match the height of your fixed header */
+            margin-top: -100px; 
+/* This should be the same number as the padding to negate its effect on the layout */
+        }
+</style>
+
+<script>
+
+document.addEventListener('DOMContentLoaded', (event) => {
+  if (window.location.hash) {
+    setTimeout(() => {
+      const id = window.location.hash.replace('#', '');
+      const element = document.getElementById(id);
+      if (element) {
+        window.scrollTo({
+          top: element.offsetTop - 100, // Adjust this value to the height of your fixed header
+          behavior: 'smooth'
+        });
+      }
+    }, 0);
+  }
+});
+
+window.addEventListener('hashchange', function() {
+    var adjustedHeight = window.scrollY - 70; // Height of the fixed header
+    window.scrollTo(window.scrollX, adjustedHeight);
+});
+
+</script>
