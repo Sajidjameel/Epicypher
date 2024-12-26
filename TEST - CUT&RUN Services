@@ -1,0 +1,1900 @@
+<style>
+  .have_ques_right h3 {
+    white-space: nowrap;
+  }
+
+  .have_ques_right.get-started h3 {
+    @media (max-width: 1250px) {
+      font-size: 24px;
+    }
+
+    @media (max-width: 940px) {
+      font-size: 20px;
+    }
+
+  }
+
+  .cuttag_proto_img {
+    margin-top: 40px;
+    text-align: center;    
+  }
+
+  .cuttag_proto_video {
+    margin-top: 40px;
+    margin: auto;
+    max-width: 700px;
+  }
+
+  iframe .field span {
+    color: #ffffff !important;
+  }
+
+  .page-header {
+    display: none;
+  }
+</style>
+
+<style>
+  .ProductDescriptionContainer.product-droppdown__section-description-specific {
+    padding-top: 15px;
+  }
+
+  /* ================= feature brands css start  =============================  */
+  body {
+    font-family: "Nunito Sans";
+  }
+
+  p {
+    font-family: "Nunito Sans";
+  }
+
+  .feature-brands-segment {
+    padding: 80px 0 60px;
+  }
+
+  .grid-brands {
+    display: grid;
+    grid-auto-columns: repeat(1fr, 3);
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 2rem 4rem;
+    margin-top: auto;
+  }
+
+  h1,
+  .blog-items-list .post-title,
+  h3,
+  .section-title,
+  .listing-title,
+  .login-modal .account-sub-heading,
+  .auth-sub-heading,
+  h5,
+  .bulk-pricing-block .product-details-heading,
+  .review-item-title,
+  .cart-table-header .cell,
+  .cart-item-info .product-name {
+    /* font-family: "Roboto Condensed", sans-serif; */
+    color: #2e3036;
+    font-family: "Nunito Sans", sans-serif;
+  }
+
+  .grid-brands .figure img {
+    width: 200px;
+    object-fit: contain;
+  }
+
+  .grid-brands .figure:nth-child(2) img {
+    width: 280px;
+  }
+
+  .grid-brands .figure:nth-child(3) img {
+    width: 195px;
+  }
+
+  .grid-brands .figure:nth-child(1) {
+    margin-top: 20px;
+  }
+
+  .grid-brands .figure:nth-child(2) {
+    margin-top: 30px;
+  }
+
+  .grid-brands .figure:nth-child(3) {
+    margin-top: 15px;
+    place-self: end;
+  }
+
+  .grid-brands .figure:nth-child(4) {
+    margin-top: 20px;
+  }
+
+  .grid-brands .figure:nth-child(5) {
+    grid-column: 2/-1;
+    place-self: center;
+  }
+
+  @media (max-width: 768px) {
+    .grid-brands {
+      grid-template-columns: repeat(2, 1fr);
+      grid-gap: 1rem;
+    }
+
+    .grid-brands .figure:nth-child(2) {
+      grid-column: 1/-1;
+      grid-row: 2/3;
+      place-self: center;
+    }
+
+    .grid-brands .figure:nth-child(5) {
+      grid-column: 2/-1;
+      place-self: center;
+    }
+  }
+
+  @media (max-width: 576px) {
+    .grid-brands .figure img {
+      width: 80%;
+      object-fit: contain;
+      margin: auto;
+    }
+  }
+
+  /* ================= feature brands css End  =============================  */
+</style>
+
+<style>
+  .padd {
+    padding: 60px 0;
+  }
+
+  .featured-customers-images {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0 80px;
+  }
+
+  .featured-customers-images img {
+    width: 28%;
+  }
+
+  @media (max-width: 768px) {
+    .featured-customers-images {
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      gap: 80px;
+    }
+
+    .featured-customers-images img {
+      width: 100%;
+    }
+  }
+
+  .button.blog-content-button {
+    background: #e87722;
+  }
+
+  .service_accordion .sub_heading {
+    font-family: "Nunito Sans", sans-serif;
+    border-bottom: none;
+  }
+
+  .service_accordion.padd {
+    padding: 80px 0 100px;
+  }
+
+  .Service_page_main.banner-2 {
+    margin: 60px 0;
+  }
+
+  .have_ques_bottom ul li {
+    font-size: 24px !important;
+    font-weight: 600 !important;
+    line-height: 45px;
+    padding-left: 49px;
+  }
+
+  .have_ques_right {
+    font-size: 24px;
+  }
+
+  .have_ques_right a {
+    font-size: 18px;
+  }
+
+  .about-segment {
+    background: #4698cb;
+    padding: 60px 0;
+  }
+
+  .clearfix::after {
+    display: block;
+    clear: both;
+    content: "";
+  }
+
+  .about-us__overlay {
+    display: none;
+    height: 100%;
+    width: 100%;
+    transition: 0.1s ease;
+    padding-top: 50px;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    text-align: left;
+  }
+
+  .about-us__cards {
+    margin-top: 15px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(305px, 1fr));
+    align-items: stretch;
+    grid-gap: 1rem;
+  }
+
+  /* @media (min-width:576px) {
+        .about-us__cards {
+            grid-template-columns: repeat(auto-fill, minmax(330px, 2fr));
+            grid-gap :12rem;
+        } 
+    } */
+
+  @media (min-width: 576px) {
+    .about-us__cards {
+      grid-template-columns: repeat(auto-fit, minmax(250px, 2fr));
+      justify-content: center;
+    }
+  }
+
+  @media (min-width: 992px) {
+    .about-us__cards {
+      grid-template-columns: repeat(auto-fill, minmax(330px, 2fr));
+      grid-gap: 12rem;
+    }
+  }
+
+  .about-us__column:hover .about-us__overlay {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+  }
+
+  .about-us__column:hover .about-us__card#card-1 {
+    display: none;
+  }
+
+  p.about-us__author {
+    font-size: 26px !important;
+    color: black !important;
+    font-weight: 300;
+  }
+
+  .page .page-content .about-us__text,
+  .about-us__overlay .about-us__text {
+    color: #4698cb;
+    font-size: 16px;
+    text-align: left;
+  }
+
+  .about-us__overlay .about-us__button {
+    display: flex;
+    align-items: flex-start;
+  }
+
+  .button {
+    padding: 6px 14px;
+    border-radius: 16px;
+  }
+
+  .page .page-content .about-us__author {
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 2.5rem !important;
+    margin-bottom: 0;
+    color: #000000 !important;
+    font-size: 20px !important;
+  }
+
+  .page .page-content .about-us__journal {
+    display: flex;
+    justify-content: flex-start;
+    color: #000000 !important;
+  }
+
+  .page .page-content .about-us__description {
+    padding-top: 12px;
+    padding-bottom: 3rem;
+    display: flex;
+    text-align: left;
+    color: #4398cb !important;
+  }
+
+  .page .page-content .about-us__view-more {
+    display: flex;
+    color: #4398cb !important;
+    margin-bottom: 0;
+  }
+
+  .about-us__column {
+    padding: 0 !important;
+  }
+
+  .about-us__column:nth-child(3n + 3) {
+    padding-right: 1rem;
+  }
+
+  .about-us__card-wrapper {
+    height: 440px;
+    max-width: 350px;
+    border: 2.5px solid #4398cb;
+    text-align: center;
+    border-radius: 7px;
+    padding: 50px 20px 16px;
+    background: url("/content/images/epicypher-logo.png");
+    background-repeat: no-repeat;
+    background-size: 35%;
+    background-position: 105% 105%;
+    background-color: #fff;
+  }
+
+  .about-us__card-wrapper:hover {
+    height: 440px;
+    border: 2.5px solid #4398cb;
+    text-align: center;
+    border-radius: 7px;
+    padding: 50px 20px 16px;
+    background: url("/content/images/epicypher-logo.png");
+    background-repeat: no-repeat;
+    background-size: 35%;
+    background-position: 105% 105%;
+    background-color: #fff;
+  }
+
+  .about-us__card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 100%;
+    text-align: left;
+  }
+
+  hr {
+    height: 2px;
+    margin: 3rem 0;
+  }
+
+  .page .page-content .bottom-section-url {
+    color: black !important;
+  }
+
+  /* Small Desktop  */
+  @media screen and (max-width: 992px) {
+    .about-us__column {
+      padding: 1rem;
+    }
+
+    .about-us__card-wrapper {
+      background-position: 104% 104%;
+    }
+
+    .about-us__card-wrapper:hover {
+      background-position: 104% 104%;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .about-us__card-wrapper {
+      background-size: 25%;
+      background-position: 104% 104%;
+      height: 370px;
+    }
+
+    .about-us__card-wrapper:hover {
+      background-size: 25%;
+      background-position: 104% 104%;
+      height: 370px;
+    }
+  }
+
+  @media screen and (max-width: 644px) {
+    .about-us__card-wrapper {
+      background-size: 25%;
+      background-position: 103% 103%;
+      height: 380px;
+    }
+
+    .about-us__card-wrapper:hover {
+      background-size: 25%;
+      background-position: 103% 103%;
+      height: 380px;
+    }
+
+    .about-us__column {
+      padding: 1rem 1rem 1rem !important;
+    }
+  }
+
+  @media screen and (max-width: 378px) {
+    .about-us__card-wrapper {
+      background-size: 25%;
+      background-position: 102% 102%;
+      height: 440px;
+    }
+
+    .about-us__card-wrapper:hover {
+      background-size: 25%;
+      background-position: 102% 102%;
+      height: 440px;
+    }
+
+    .about-us__column {
+      padding: 1rem 1rem 1rem 0 !important;
+    }
+  }
+
+  h2.sub_heading {
+    display: block;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 41px;
+    color: #4698cb;
+    text-align: left;
+    margin: 0 0 14px 0;
+    font-family: "Nunito Sans", sans-serif;
+  }
+</style>
+
+<style>
+  .form-segment {
+    background-color: #4698cb;
+    margin-top: 10px;
+  }
+
+  .form-container {
+    max-width: 1000px;
+    padding: 30px 15px;
+  }
+
+  .form-container h2 {
+    display: block;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 41px;
+    color: #fff;
+    text-align: left;
+    margin: 0 0 14px 0;
+  }
+
+  /* .form-segment .row {
+    display: flex;
+    gap: 2rem;
+  } */
+
+  .form-segment label {
+    display: block;
+    margin-bottom: 0px !important;
+    color: #fff;
+    font-size: 18px !important;
+  }
+
+  .form-segment input[type="text"],
+  .form-segment input[type="email"],
+  .form-segment select.select_plan,
+  .form-segment select.select_details,
+  select.select_plan {
+    width: 100%;
+    padding: 10px 0px;
+    border: 1px solid #d0d0d0;
+    border-radius: 8px;
+    background-color: #f7f7f7;
+    margin-bottom: 20px;
+    line-height: 47px;
+    height: 47px;
+  }
+
+  .form-segment textarea {
+    width: 100%;
+    /* padding: 10px 0px; */
+    border: 1px solid #d0d0d0;
+    border-radius: 8px;
+    background-color: #f7f7f7;
+    margin-bottom: 20px;
+    /* height: 47px; */
+  }
+
+  @media (max-width: 800px) {
+    .form-segment label {
+      margin-bottom: 5px;
+      padding-left: 0;
+      padding-right: 0;
+    }
+
+    .form-segment input[type="text"],
+    .form-segment input[type="email"],
+    .form-segment textarea,
+    .form-segment select.select_plan,
+    .form-segment select.select_details,
+    select.select_plan {
+      margin-bottom: 0;
+    }
+  }
+
+  .form-segment select.select_details {
+    padding: 15px 20px;
+    height: auto;
+    line-height: auto;
+  }
+
+  .form-segment select.select_details option {
+    font-size: 15px;
+    margin-bottom: 4px;
+    color: #333;
+  }
+
+  .form-segment button {
+    display: block;
+    width: 149px;
+    padding: 12px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    margin: auto;
+    background: #e87722;
+    border-radius: 55px;
+  }
+
+  .form-segment button:hover {
+    background: #e87722;
+  }
+
+  .form-segment .flex-2 {
+    display: flex;
+    gap: 2rem;
+  }
+
+  .form-segment .flex-2 .large-expand-2 {
+    flex-basis: 58%;
+  }
+
+  .form-segment .flex-2 .large-expand-1 {
+    flex-basis: 40%;
+  }
+
+  .form-segment .input-group {
+    width: 100%;
+  }
+
+  .form-segment .input-group.first-row.half {
+    flex-basis: 35%;
+  }
+
+  .form-segment .input-group.second-row.half {
+    flex-basis: 60%;
+  }
+
+  .form-segment .input-group.half.next-row {
+    flex-basis: 60%;
+  }
+
+  @media (max-width: 768px) {
+
+    /* .form-segment   .form-container {
+        width: 90%;
+    } */
+    .form-segment .flex-2 .large-expand-2,
+    .form-segment .flex-2 .large-expand-1,
+    .form-segment .input-group.second-row.half {
+      width: 100%;
+      flex-basis: 100%;
+    }
+  }
+
+  @media (max-width: 767.98px) {
+
+    .form-segment .row,
+    .form-segment .flex-2,
+    .form-segment .flex-2 {
+      flex-direction: column;
+      gap: 0rem;
+      margin-bottom: 0;
+    }
+  }
+</style>
+
+<style>
+  /* ================= Partner-segment CSS Start  =============================  */
+
+  .blue {
+    color: #4698cb;
+  }
+
+  .scrollTo.blue:hover {
+    text-decoration: underline;
+  }
+
+  .partner-grid {
+    display: grid;
+    grid-template-columns: 250px auto;
+    grid-gap: 2rem;
+    max-width: 850px;
+    margin: 30px auto;
+  }
+
+  .inner-figure {
+    position: relative;
+    margin-bottom: 100px;
+    align-self: center;
+    place-self: center;
+  }
+
+  .partner-grid:nth-child(3) .inner-figure {
+    margin-bottom: 60px;
+  }
+
+  .partner-grid:nth-child(3) .inner-figure:before {
+    bottom: -65px;
+  }
+
+  .partner-grid:nth-child(4) .inner-figure {
+    margin-top: 55px;
+    margin-bottom: 130px;
+  }
+
+  .partner-grid:nth-child(4) .inner-figure:before {
+    bottom: -130px;
+  }
+
+  .partner-grid:nth-child(5) .inner-figure {
+    margin-top: 55px;
+    margin-bottom: 115px;
+  }
+
+  .partner-grid:nth-child(5) .inner-figure:before {
+    bottom: -110px;
+  }
+
+  .partner-grid:nth-child(5) .inner-figure img {
+    width: 150px;
+  }
+
+  .partner-grid:nth-child(6) .inner-figure {
+    margin-top: 55px;
+  }
+
+  @media (max-width: 767.98px) {
+    .inner-figure {
+      margin-bottom: 0px !important;
+    }
+  }
+
+  .inner-figure:before {
+    position: absolute;
+    bottom: -89px;
+    left: 30%;
+    content: url(https://cdn11.bigcommerce.com/s-y9o92/images/stencil/original/image-manager/arrow-down.png);
+    /* width: 60px;
+                 height: 60px; */
+  }
+
+  .partner-grid:last-child .inner-figure:before {
+    display: none;
+  }
+
+  @media (max-width: 767.98px) {
+    .inner-figure:before {
+      display: none;
+    }
+
+    .inner-partner-info {
+      position: relative;
+      align-self: center;
+      place-self: center;
+    }
+
+    .inner-partner-info:before {
+      position: absolute;
+      bottom: -40px;
+      left: 42%;
+      content: url(https://cdn11.bigcommerce.com/s-y9o92/images/stencil/original/image-manager/arrow-down.png);
+    }
+
+    .partner-grid {
+      margin-top: 0px;
+      margin-bottom: 0px;
+    }
+
+    .partner-grid:last-child .inner-partner-info:before {
+      display: none;
+    }
+  }
+
+  .inner-figure img {
+    width: 120px;
+    object-fit: cover;
+  }
+
+  .inner-partner-info h3 {
+    color: #4398cb;
+    margin-bottom: 10px;
+    font-size: 24px;
+  }
+
+  .have_ques_right a {
+    background: #036789;
+  }
+
+  .have_ques_bottom ul li {
+    padding-left: 45px;
+  }
+
+  .main-banner {
+    position: relative;
+    background-image: none;
+    padding: 0;
+  }
+
+  @media (max-width: 990px) {
+    .main-banner {
+      padding-top: 40px;
+    }
+  }
+
+  @media (max-width: 800px) {
+    .main-banner {
+      padding-top: 0px;
+    }
+  }
+
+  .main-banner img {
+    width: 100%;
+    margin: 0;
+  }
+
+  .main-banner-content {
+    position: absolute;
+    left: calc((100% - 1170px) / 2);
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .main-banner .main-banner-title {
+    font-size: 35px;
+    font-weight: 500;
+    margin: 0 0 20px 0;
+    line-height: normal;
+    position: relative;
+    z-index: 10;
+  }
+
+  .main-banner .main-banner-subtitle {
+    font-size: 22px;
+    font-weight: 300;
+    z-index: 10;
+    position: relative;
+    margin-bottom: 0;
+  }
+
+  @media (max-width: 1169px) {
+    .main-banner-content {
+      left: 15px;
+    }
+  }
+
+  @media (max-width: 767.98px) {
+    .main-banner .main-banner-title {
+      font-size: 22px;
+      margin-bottom: 5px;
+    }
+
+    .main-banner .main-banner-subtitle {
+      font-size: 12px;
+    }
+
+    .partner-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .partner-grid:nth-child(3) .inner-figure {
+      margin-top: 55px;
+    }
+  }
+
+  .page .page-content p,
+  .page .page-content p span,
+  .page .page-content p span strong,
+  .page .page-content ul li span {
+    font-size: 16px !important;
+    color: #000000 !important;
+    margin-bottom: 20px;
+    max-width: 100%;
+    /* margin: 0 auto; */
+    text-align: left;
+    line-height: 22px;
+  }
+
+  .have_ques_left p {
+    font-weight: 400;
+    line-height: 33px;
+  }
+
+  .Service_page_main .container,
+  .Service_page_main .product-tabs {
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1000px;
+  }
+
+  /* ================= Partner-segment CSS End  =============================  */
+</style>
+<style>
+  .serv-feature-segment {
+    background-color: #4398cb;
+  }
+
+  .grid-srvFeturs {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(40%, 2fr));
+    grid-gap: 1rem;
+  }
+
+  .grid-srvFeturs .serv-feat-flex {
+    display: flex;
+    grid-gap: 2rem;
+    align-items: flex-start;
+    justify-content: flex-start;
+    min-height: 200px;
+  }
+
+  .grid-srvFeturs .serv-feat-flex:last-child {
+    min-height: auto;
+  }
+
+  .grid-srvFeturs .serv-feat-flex .left-flex {
+    text-align: right;
+    flex: 6;
+  }
+
+  .grid-srvFeturs .serv-feat-flex .right-flex {
+    text-align: left;
+    flex: 10;
+  }
+
+  .grid-srvFeturs .serv-feat-flex .left-flex h3 {
+    font-weight: 600;
+    font-size: 2.5rem;
+    line-height: 1;
+    color: #fff;
+    margin-bottom: 5px;
+    margin-top: 0;
+  }
+
+  .grid-srvFeturs .serv-feat-flex .left-flex p {
+    font-weight: 300;
+    font-size: 28px;
+    line-height: 1.6;
+    letter-spacing: 1px;
+    color: #fff !important;
+    text-align: right;
+  }
+
+  .grid-srvFeturs .serv-feat-flex .right-flex p {
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 1.6;
+    letter-spacing: 1px;
+    color: #fff !important;
+    margin: 0 !important;
+  }
+
+  @media (max-width: 992px) {
+    .grid-srvFeturs .serv-feat-flex .left-flex h3 {
+      font-size: 1.95rem;
+    }
+
+    .grid-srvFeturs .serv-feat-flex .left-flex p {
+      font-size: 22px;
+    }
+
+    .grid-srvFeturs {
+      grid-template-columns: 1fr 1fr;
+      grid-gap: 0rem;
+    }
+  }
+
+  @media (max-width: 767.98px) {
+    .grid-srvFeturs .serv-feat-flex .left-flex {
+      text-align: left;
+    }
+
+    .grid-srvFeturs .serv-feat-flex {
+      grid-gap: 0rem;
+      flex-direction: column;
+      margin-bottom: 20px;
+      padding-left: 10%;
+      min-height: 215px;
+    }
+  }
+
+  @media (max-width: 576px) {
+    .grid-srvFeturs .serv-feat-flex {
+      padding-left: 21%;
+      min-height: auto;
+    }
+
+    .grid-srvFeturs {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .Service_page_main .container,
+  .Service_page_main .product-tabs {
+    padding: 0 15px;
+  }
+</style>
+
+<style>
+  /* .ProductDescriptionContainer {
+display: block;
+} */
+  .prodAccordionContent {
+    padding: 10px 0px;
+  }
+
+  .prodAccordionContent ul {
+    /* margin: 0; */
+    padding: 20px;
+    list-style: disc;
+    margin-left: 20px;
+  }
+
+  .prodAccordionContent ul li {
+    margin-bottom: 5px;
+  }
+
+  .ProductDescriptionContainer.prodAccordionContent a {
+    color: #4698cb;
+  }
+
+  .ProductDescriptionContainer.prodAccordionContent a:hover {
+    text-decoration: underline;
+  }
+
+  b,
+  strong {
+    font-weight: 700;
+    font-family: "Nunito Sans";
+  }
+</style>
+
+<main class="">
+  <div class="main-banner">
+    <img
+      src="https://cdn11.bigcommerce.com/s-y9o92/images/stencil/original/image-manager/cr-services-header.png?t=1711045237"
+      alt="" />
+    <div class="main-banner-content" style="padding: 0 15px; margin: auto; max-width: 1170px">
+      <div class="main-banner-title">
+        CUTANA<sup>™</sup>
+
+        CUT&RUN Services
+      </div>
+      <div class="main-banner-subtitle">
+        Your partner for premium chromatin mapping services
+      </div>
+    </div>
+  </div>
+  <div class="clearfix"></div>
+  <div class="padd">
+    <div class="container">
+      <div class="have_ques_left">
+        <p style="
+            font-size: 18px !important;
+            font-weight: 400 !important;
+            line-height: 33px !important;
+          ">
+          CUT&RUN is the leading technology for mapping genomic enrichment of
+          chromatin targets, such as transcription factors and histone PTMs.
+          EpiCypher’s CUTANA<sup>™</sup> CUT&RUN Services provide unique access
+          to our genomic expertise, enabling diverse applications across
+          biomedical research and drug development. As our partner, you can
+          expect:
+        </p>
+        <div class="have_ques_bottom">
+          <ul>
+            <li>Detailed, end-to-end experimental design</li>
+            <li>
+              Expert optimization for targets, cell types, tissues, and clinical
+              samples
+            </li>
+            <li>
+              Reliable profiling using automated assays and standardized
+              controls
+            </li>
+            <li>
+              A comprehensive data report and presentation by our scientists
+            </li>
+
+            <li>
+              Scalable protocols from pilot tests to high-throughput studies
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="have_ques_right get-started">
+        <h3>Ready to get started?</h3>
+        <a class="scrollTo" href="#tellUsAboutYourProject" data-scroll="#tellUsAboutYourProject">Inquire here</a>
+      </div>
+    </div>
+    <div class="clearfix"></div>
+  </div>
+
+  <!--  Services Feature segment start  -->
+
+  <div class="serv-feature-segment padd">
+    <!-- <h2 class="sub_heading" style="text-align: center; margin-bottom: 20px;">Featured Customers</h2> -->
+    <div class="container container-small">
+      <div class="grid-srvFeturs">
+        <div class="innr-srv-flexitems">
+          <div class="serv-feat-flex">
+            <div class="left-flex">
+              <h3 class=""><span>> </span> 10,000</h3>
+              <p>reactions to date</p>
+            </div>
+            <div class="right-flex">
+              <p>Automated 96-well assay</p>
+              <p>Standardized controls</p>
+              <p>High reproducibility</p>
+            </div>
+          </div>
+          <div class="serv-feat-flex">
+            <div class="left-flex">
+              <h3 class=""><span>> </span> 100</h3>
+              <p>sample types</p>
+            </div>
+            <div class="right-flex">
+              <p>Primary and FACS-isolated</p>
+              <p>Drug-treated and stimulated</p>
+              <p>Tissues, including biopsies</p>
+            </div>
+          </div>
+        </div>
+        <div class="innr-srv-flexitems">
+          <div class="innr-srv-flexitems">
+            <div class="serv-feat-flex">
+              <div class="left-flex">
+                <h3 class=""><span>> </span> 1,000</h3>
+                <p>antibodies tested</p>
+              </div>
+              <div class="right-flex">
+                <p>Transcription factors</p>
+                <p>Chromatin modifiers</p>
+                <p>Histone PTMs</p>
+              </div>
+            </div>
+            <div class="serv-feat-flex">
+              <div class="left-flex">
+                <h3 class="">dozens</h3>
+                <p>of partners</p>
+              </div>
+              <div class="right-flex">
+                <p>Biotechnology</p>
+                <p>Consortia</p>
+                <p>Pharma developers</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="cuttag_proto_img">
+    <div
+      class="cuttag_proto_video"
+      onclick="this.nextElementSibling.style.display='block'; this.style.display='none'"
+    >
+      <img
+        style="cursor: pointer"
+        src="/content/CutAndRun/services_thumbnail_with_youtube_logo.jpg"
+        alt="youtube cut and run services thumbnail"
+      />
+    </div>
+    <div style="display: none">
+      <iframe
+        width="700"
+        height="400"
+        src="https://www.youtube.com/embed/IT_aasdiBzM?si=ZY9bToFcwmtKqkLJ"
+        frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+      ></iframe>
+    </div>
+  </div>
+  <!-- Services segment End -->
+
+  <!-- Services segment End -->
+
+  <div class="clearfix"></div>
+
+  <!-- <style>
+                .feature-brands-segment .container{
+                    max-width: 1300px;
+                }
+        </style> -->
+
+  <!--  Feature Customers segment start  -->
+
+  <!-- Feature Customers segment End -->
+  <div class="clearfix"></div>
+  <!-- Partner Segment Start -->
+  <div class="featured-customers padd">
+    <div class="container container-small">
+      <h2 class="sub_heading" style="text-align: center; margin-bottom: 40px">
+        Featured Customers
+      </h2>
+      <div class="featured-customers-images">
+        <img
+          src="https://cdn11.bigcommerce.com/s-y9o92/images/stencil/original/image-manager/biomea-1-.png?t=1704266672"
+          alt="" />
+        <img src="https://cdn11.bigcommerce.com/s-y9o92/images/stencil/original/image-manager/foghorn.png?t=1704265929"
+          alt="" />
+        <img src="https://cdn11.bigcommerce.com/s-y9o92/images/stencil/original/image-manager/immgen.png?t=1704265929"
+          alt="" />
+      </div>
+    </div>
+  </div>
+  <div class="partner-segment padd">
+    <div class="container container-small">
+      <h2 class="sub_heading" style="text-align: center; margin-bottom: 40px">
+        The perfect partnership: your project & our experts
+      </h2>
+      <div class="partner-grid">
+        <div class="inner-figure">
+          <a href="">
+            <img
+              src="https://cdn11.bigcommerce.com/s-y9o92/images/stencil/original/image-manager/epi-cut-run-svcs-wkflow-icons.png"
+              alt="blueaudit" />
+          </a>
+        </div>
+        <div class="inner-partner-info">
+          <h3>Introduction</h3>
+          <p>
+            Fill out the
+            <a class="scrollTo blue" href="#tellUsAboutYourProject" data-scroll="#tellUsAboutYourProject">form</a>
+            below to connect with our team and determine the best solution for
+            your project. EpiCypher CUT&RUN Services have broad application
+            potential, including experiments with large sample numbers and
+            optimization for new chromatin targets or cell types.
+          </p>
+        </div>
+      </div>
+      <div class="partner-grid">
+        <div class="inner-figure">
+          <a href="">
+            <img
+              src="https://cdn11.bigcommerce.com/s-y9o92/images/stencil/original/image-manager/epi-cut-run-svcs-wkflow-icons-people.png"
+              alt="blue team" />
+          </a>
+        </div>
+        <div class="inner-partner-info">
+          <h3>Experimental Design</h3>
+          <p>
+            The CUT&RUN Services Team describes our automated workflow,
+            optimized assay controls, and estimated timelines. We work with you
+            to design a comprehensive Statement of Work (SoW), in which we
+            assess project risks and define key details to help ensure robust
+            CUT&RUN results.
+          </p>
+        </div>
+      </div>
+      <div class="partner-grid">
+        <div class="inner-figure">
+          <a href="">
+            <img
+              src="https://cdn11.bigcommerce.com/s-y9o92/images/stencil/original/image-manager/2023.10.20-epi-cut-run-svcs-wkflow-icons-qc.png"
+              alt="blue check circle" />
+          </a>
+        </div>
+        <div class="inner-partner-info">
+          <h3>Sample delivery and quality control</h3>
+          <p>
+            Our services team has expertise with a variety of
+            <a data-scroll="#prodAccordionHeader" href="#prodAccordionHeader" class="scrollTo blue"
+              target="_blank">cells, tissues, and clinical samples</a>, allowing us to provide end-to-end support for
+            sample prep. Our
+            rigorous
+            <a data-scroll="#prodAccordion4" href="#prodAccordion4" class="scrollTo blue" target="_blank">quality
+              checks</a>
+            ensure that only the best materials are used in your CUT&RUN
+            experiment.
+          </p>
+        </div>
+      </div>
+
+      <div class="partner-grid">
+        <div class="inner-figure">
+          <a href="">
+            <img
+              src="https://cdn11.bigcommerce.com/s-y9o92/images/stencil/original/image-manager/2023.10.24-sequencer-omh.png"
+              alt="experiment" />
+          </a>
+        </div>
+        <div class="inner-partner-info">
+          <h3>CUT&RUN experiment and sequencing</h3>
+          <p>
+            Our automated, 96-well plate workflow enables high-throughput
+            chromatin mapping, even at
+            <a data-scroll="#prodAccordion3" href="#prodAccordion3" class="scrollTo blue">low cell numbers</a>. At each
+            step,
+            <a href="https://www.epicypher.com/technologies/snap-spike-in-controls" class="blue" target="_blank">defined
+              controls</a>
+            help ensure high reproducibility and flag substandard reactions,
+            allowing you to be confident in robust CUT&RUN results.
+          </p>
+        </div>
+      </div>
+
+      <div class="partner-grid">
+        <div class="inner-figure">
+          <a href="">
+            <img
+              src="https://cdn11.bigcommerce.com/s-y9o92/images/stencil/original/image-manager/2023.10.20-epi-cut-run-svcs-wkflow-icons-data.png"
+              alt="bluebar-chart" />
+          </a>
+        </div>
+        <div class="inner-partner-info">
+          <h3>Bioinformatic processing and data delivery</h3>
+          <p>
+            Our unique, in-house bioinformatic pipeline was built by EpiCypher
+            scientists for CUT&RUN. After processing, we provide a
+            <a data-scroll="#prodAccordion6" href="#prodAccordion6" class="scrollTo blue">detailed report</a>
+            tailored to your projects, review key controls to confirm assay
+            success, and provide the files you need to derive biological
+            insights.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Partner Segment Start -->
+
+  <div class="clearfix"></div>
+  <div class="Service_page_main">
+    <div class="clearfix"></div>
+
+    <div class="clearfix"></div>
+
+    <!-- flipcart segment start  -->
+
+    <div class="about-segment">
+      <div class="about-us container container-small">
+        <div class="about-us__cards">
+          <div class="about-us__column">
+            <div class="about-us__card-wrapper" id="card-1">
+              <div class="about-us__card" id="card-1">
+                <div>
+                  <p class="about-us__author">
+                    Explore innovative applications of CUT&RUN Services
+                  </p>
+                </div>
+                <div class="about-us__button" style="display: flex">
+                  <a class="button blog-content-button"
+                    href="https://www.epicypher.com/content/documents/brochures/cut-and-run-services-brochure.pdf"
+                    style="color: white">
+                    Download Brochure</a>
+                </div>
+              </div>
+              <div class="about-us__overlay">
+                <div class="about-us__text">
+                  <strong>Customized to fit your experimental needs.</strong>
+                  EpiCypher's CUT&RUN Services can be modified for scaled
+                  analyses of clinical samples, cell-type specific profiling,
+                  drug-treatment responses, and much more.
+                </div>
+                <div class="about-us__button">
+                  <a class="button blog-content-button"
+                    href="https://www.epicypher.com/content/documents/brochures/cut-and-run-services-brochure.pdf"
+                    style="color: white">
+                    Download Brochure</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="about-us__column">
+            <div class="about-us__card-wrapper" id="card-1">
+              <div class="about-us__card" id="card-1">
+                <div>
+                  <p class="about-us__author">
+                    Learn about our automated CUT&RUN Services workflow
+                  </p>
+                </div>
+                <div class="about-us__button" style="display: flex">
+                  <a class="button blog-content-button" href="" style="color: white">
+                    Download Poster</a>
+                </div>
+              </div>
+              <div class="about-us__overlay" flip()>
+                <div class="about-us__text">
+                  <strong>Behind the scenes of EpiCypher R&D</strong>. Uncover
+                  how our scientists rigorously optimized sample prep, developed
+                  defined controls, and identified high-quality antibodies to
+                  develop automated CUT&RUN assays in this poster, presented at
+                  the 2023 ASGCT meeting.
+                </div>
+                <div class="about-us__button">
+                  <a class="button blog-content-button"
+                    href="https://www.epicypher.com/content/documents/posters/ASGCT_autocutandrun_poster.pdf"
+                    style="color: white">
+                    Download Poster</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="clearfix"></div>
+    <!-- Flipcard segment End -->
+
+    <!--  KeyPublications segment Start  -->
+
+    <div class="padd" id="KeyPublications" style="padding-bottom: 0 !important">
+      <div class="title-full-width" style="max-width: 1000px; margin: auto; padding: 0 30px">
+        <!-- <h2 style="text-align: left;margin: auto;" class="">
+                        <span class="container container-small">Key Publications and Example Applications</span>
+                    </h2> -->
+        <h2 class="sub_heading" style="text-align: left; margin-bottom: 20px">
+          Selected Publications
+        </h2>
+      </div>
+      <div class="container container-small">
+        <div class="cut_tag_work 6" style="
+            margin-top: 10px;
+            padding-top: 0 !important;
+            padding-bottom: 0 !important;
+            padding: 0 15px;
+          ">
+          <div class="page-content antibodies-pg">
+            <div class="nucleosomes-heading-text" style="border: 0; padding-bottom: 0 !important">
+              <div class="info-padd">
+                <div class="info-padd">
+                  <p class="info-title-view">
+                    Agustinus et al. Epigenetic dysregulation from chromosomal
+                    transit in micronuclei.
+                    <span style="font-style: italic">Nature</span> 619, 176-183
+                    (2023). PMID: 37286593.
+                  </p>
+                  <p class="info-title-view">
+                    Baysoy et al. The interweaved signatures of
+                    common-gamma-chain cytokines across immunologic lineages.
+                    <span style="font-style: italic">Journal of Experimental Medicine</span>
+                    220 (2023). PMID: 36976164.
+                  </p>
+                  <p class="info-title-view">
+                    Asberry et al. Reprogramming landscape highlighted by
+                    dynamic transcriptomes in therapy-induced neuroendocrine
+                    differentiation.
+                    <span style="font-style: italic">Computational and Structural Biotechnology Journal</span>
+                    20, 5873-5885 (2022). PMID: 36382181.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="clearfix"></div>
+        </div>
+      </div>
+    </div>
+
+    <!--  Feature Customers segment End  -->
+
+    <div class="clearfix"></div>
+
+    <iframe src="https://explore.epicypher.com/l/1022653/2024-10-01/mq8hm" width="100%" max-width="1000px" height="500" 
+    type="text/html" frameborder="0" allowTransparency="true" style="border: 0"></iframe>
+
+  <div class="clearfix"></div>
+
+  <div class="service_accordion padd">
+    <div class="container">
+      <h2 class="sub_heading" id="prodAccordionHeader">
+        FAQs about our CUT&RUN Services
+      </h2>
+      <div id="prodAccordion">
+        <div id="ProductDescription" class="Block Panel">
+          <h3 id="prodAccordion1" class="sub-title1" style="outline: none">
+            Are CUTANA CUT&RUN services right for my project?
+          </h3>
+          <div class="ProductDescriptionContainer product-droppdown__section-description-specific">
+            <p>
+              CUTANA CUT&RUN chromatin mapping services use automated,
+              quality-controlled workflows to enable medium to large-scale
+              analysis of transcription factors, histone PTMs, and other
+              chromatin-associated targets. Combined with the improved costs and
+              sensitivity of
+              <a href="https://www.epicypher.com/cutana-cut-run-assays/">CUT&RUN</a>
+              (compared to ChIP-seq), epigenomic mapping can now be applied at a
+              greater scale than ever before. From early-stage pilot studies
+              requiring optimization for new sample types and targets, to
+              large-scale multi-center collaborations, or drug screens profiling
+              thousands of samples,
+              <a href="https://www.epicypher.com/content/documents/brochures/cut-and-run-services-brochure.pdf">our
+                genomics experts can help find solutions</a>.
+            </p>
+
+            <p>
+              If you are interested, fill out the
+              <a href="#tell-us-form">form</a> above. Our experts can help you
+              estimate total project size and determine if CUT&RUN Services is
+              right for you. If you have a smaller project and/or the capability
+              to bring CUT&RUN in-house, we offer user-friendly CUTANA
+              <a
+                href="https://www.epicypher.com/products/epigenetics-reagents-and-assays/cutana-chic-cut-and-run-kit">CUT&RUN</a>
+              and
+              <a
+                href="https://www.epicypher.com/products/epigenetics-reagents-and-assays/cutana-cut-and-run-library-prep-kit">Library
+                Prep</a>
+              Kits, which include all reagents and controls needed for 48
+              CUT&RUN reactions.
+            </p>
+            <p>
+              Please note: CUT&RUN Services are for Research Use Only (RUO) as
+              our laboratory is not CLIA certified.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div id="prodAccordion">
+        <div id="ProductDescription" class="Block Panel">
+          <h3 id="prodAccordion2" class="sub-title1">
+            What tissues or cells types are compatible with CUTANA CUT&RUN
+            Services?
+          </h3>
+          <div class="ProductDescriptionContainer product-droppdown__section-description-specific">
+            <p>
+              Our CUT&RUN Service protocols are optimized for freshly isolated
+              and frozen cells or nuclei from various sources. For certain
+              targets, such as labile histone lysine acetylation PTMs or
+              acetyl-binding proteins, light cross-linking may be recommended.
+              EpiCypher has successfully used our automated CUT&RUN assays for a
+              <a href="https://www.epicypher.com/content/documents/brochures/cut-and-run-services-brochure.pdf">variety
+                of sample types and cell preparations</a>, including:
+            </p>
+            <ul>
+              <li>Suspension and adherent cell lines</li>
+              <li>Drug-treated or stimulated cells</li>
+              <li>Primary cells, including immune cells</li>
+              <li>FACS-isolated cells</li>
+              <li>
+                Samples generated from tissue (including frozen patient
+                biopsies)
+              </li>
+              <li>Clinical samples (PBMCs, BMMCs)</li>
+            </ul>
+            <p>
+              We provide detailed sample prep protocols and shipment
+              instructions. For tissues, we can provide expert guidance on the
+              best strategies for isolating cells.
+            </p>
+            <p>
+              Unfortunately, our CUT&RUN processes are not yet optimized for
+              fixed tissues embedded in paraffin blocks (e.g. FFPE).
+              <a href="https://www.epicypher.com/contact-us/" target="_blank">
+                Contact us</a>
+              to learn more about ongoing research efforts or alternate
+              offerings to support this application.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div id="prodAccordion">
+        <div id="ProductDescription" class="Block Panel">
+          <h3 id="prodAccordion3" class="sub-title1">
+            How many cells do I need for CUTANA CUT&RUN Services?
+          </h3>
+          <div class="ProductDescriptionContainer product-droppdown__section-description-specific">
+            <p>
+              For CUTANA CUT&RUN experiments, we recommend using 500,000 to
+              50,000 cells per reaction.*
+            </p>
+            <p>
+              Note that each <strong>reaction</strong> maps one target in one
+              sample. <strong>Samples</strong> are unique cell populations, such
+              as control vs. mutant or biological replicates.
+            </p>
+            <p>
+              If you have one cell sample, and you want to map three unique
+              chromatin targets, you will be setting up three reactions – and
+              thus require 1.5 million cells. We always suggest collecting
+              10-20% excess cells to account for sample loss.
+            </p>
+            <p>
+              * Our workflow is validated down to 10,000 cells for select
+              targets. Success at low cell numbers depends on antibody
+              performance, target abundance, and sample quality. There are
+              additional risks assumed by going below the recommended cell
+              numbers – such as low yields, increased adapter dimer
+              contamination in libraries, increased background and/or sequencing
+              depth – that may require additional optimization. Our scientists
+              will help you weigh these risks during the experimental design
+              phase of the project.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div id="prodAccordion">
+        <div id="ProductDescription" class="Block Panel">
+          <h3 id="prodAccordion4" class="sub-title1">
+            What controls are included?
+          </h3>
+          <div class="ProductDescriptionContainer product-droppdown__section-description-specific">
+            <p>
+              Controls are essential for overall project success, risk
+              mitigation, and data interpretation. For this reason, EpiCypher’s
+              CUT&RUN Services workflow includes a collection of quality control
+              checks at each step of the process to help ensure you get the
+              highest quality data possible.
+            </p>
+            <p>
+              Note that in our workflow, <strong>samples</strong> are unique
+              cell populations, such as control vs. mutant or biological
+              replicates. The term <strong>reaction</strong> is used to define
+              the mapping of one target in one unique sample. For instance, if
+              you have one cell <strong>sample</strong> and want to map three
+              distinct chromatin targets, you will have a total of 3 CUT&RUN
+              <strong>reactions</strong>.
+            </p>
+            <p><strong>Sample preparation</strong></p>
+            <ul>
+              <li>
+                Detailed methods for cell or nuclei collection and shipping
+                instructions are provided to promote seamless sample handoff to
+                our team.
+              </li>
+              <li>
+                For tissues, our team can help develop a standard procedure for
+                cell harvest.
+              </li>
+              <li>
+                Upon arrival at EpiCypher, our team confirms cell number,
+                viability, and integrity. Our scientists use these data to
+                create a sample report that we review together to assess risk.
+              </li>
+              <li>
+                Only samples that pass quality control metrics are included in
+                experiments.
+              </li>
+            </ul>
+
+            <p>
+              <b>Control reactions including SNAP-CUTANA™ Spike-in Controls</b>
+            </p>
+
+            <ul>
+              <li>
+                We set up three control reactions for
+                <strong>each unique sample</strong>: H3K4me3 and H3K27me3
+                (positive controls) and IgG (negative controls). Example: If
+                your project analyzes 5 unique PBMC samples, we set up three
+                control reactions for each sample, or a total of 15 control
+                reactions.
+              </li>
+              <li>
+                Control reactions are used to validate sample quality, examine
+                assay background, determine significant regions of enrichment
+                above background (e.g. peaks), and confirm workflow success.
+              </li>
+              <li>
+                Additionally, data from positive controls provide valuable
+                biological context for chromatin regions associated with active
+                (H3K4me3) and repressed (H3K27me3) genes.
+              </li>
+              <li>
+                As an additional layer of protection, control reactions include
+                our SNAP-CUTANA Spike-in Controls. SNAP-CUTANA Spike-ins
+                comprise a defined, proprietary control that is spiked into
+                reactions at the beginning of the experiment. The control is
+                processed alongside biological samples through every step of the
+                protocol, enabling direct monitoring and readout of experimental
+                success. Learn more about our SNAP-CUTANA Spike-in Technology
+                <a href="https://www.epicypher.com/technologies/snap-spike-in-controls">here</a>.
+              </li>
+            </ul>
+
+            <p>
+              <b><span style="font-style: italic">E. coli</span> Spike-in DNA
+              </b>
+            </p>
+
+            <ul>
+              <li>
+                All reactions are spiked with
+                <i>E. coli</i> Spike-in DNA after targeted MNase cleavage to
+                monitor library prep success.
+              </li>
+              <li>
+                <span style="font-style: italic">E. coli</span> read counts are
+                provided to customers, which can be used for sequencing
+                normalization.
+              </li>
+            </ul>
+
+            <p>
+              <b>Pre-sequencing metrics </b>
+            </p>
+
+            <ul>
+              <li>
+                EpiCypher scientists examine raw CUT&RUN-enriched DNA yields.
+              </li>
+              <li>
+                Adjustments are made for low yields and/or low-abundant targets
+                when going into library prep.
+              </li>
+              <li>
+                Fragment distribution and concentration of sequencing libraries
+                are determined using the Agilent TapeStation system. This is the
+                best method to confirm CUT&RUN success before sequencing.
+              </li>
+            </ul>
+
+            <p>
+              <b>Post-sequencing metrics</b>
+            </p>
+
+            <ul>
+              <li>
+                Libraries are sequenced to a depth that provides >3 million
+                uniquely mapped reads. EpiCypher scientists use an optimized
+                bioinformatic pipeline to align sequencing reads to the
+                respective species genome and deliver high-quality data.
+              </li>
+              <li>
+                We examine overall sequencing statistics, including unique
+                alignment rates, duplication rates, and percent of reads
+                assigned to
+                <span style="font-style: italic">E. coli</span> and SNAP-CUTANA
+                Spike-in controls, all of which help to determine sequencing
+                success.
+              </li>
+              <li>
+                Genomic and SNAP-CUTANA spike-in sequences are examined for
+                control reactions (IgG, H3K4me3, H3K27me3) to ensure they
+                produce the expected biological distribution with high
+                specificity and signal-to-noise. This analysis lends confidence
+                that the samples were high quality and the overall experiment
+                was successful, enabling confident interpretation of the
+                target(s) of interest.
+              </li>
+              <li>
+                Peak calling pipelines are used to identify areas of significant
+                target enrichment and assess overall signal-to-noise (Fraction
+                of Reads in Peaks, or FRiP score).
+              </li>
+              <li>
+                If multiple CUT&RUN experimental variables (e.g. antibodies,
+                sample prep methods, etc.) are tested, the metrics above will
+                define the optimal conditions for downstream analyses and future
+                projects.
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="prodAccordion">
+        <div id="ProductDescription" class="Block Panel">
+          <h3 id="prodAccordion5" class="sub-title1" style="outline: none">
+            What targets can I map? Can you help me find a good antibody?
+          </h3>
+          <div class="ProductDescriptionContainer product-droppdown__section-description-specific">
+            <p>
+              The EpiCypher Services Team has experience mapping various
+              targets:
+            </p>
+            <ul>
+              <li>Transcription factors (e.g. CTCF, FOXA1, p53, c-Jun)</li>
+              <li>
+                Chromatin remodeling enzymes (e.g. SMARCA2/BRM and SMARCA4/BRG1)
+              </li>
+              <li>
+                Histone modifying enzymes and regulators (e.g. MLL1, EZH2, BRD4,
+                Menin)
+              </li>
+              <li>
+                Histone PTMs (methylation, acetylation, phosphorylation,
+                ubiquitination)
+              </li>
+            </ul>
+            <p>
+              As a result, we have a broad catalog of target-specific antibodies
+              demonstrating exceptional performance in CUT&RUN. We are also
+              highly skilled in sourcing and validating antibodies to new
+              targets. Antibody screening is offered as part of our CUT&RUN
+              Services and can be incorporated into your Statement of Work.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div id="prodAccordion">
+        <div id="ProductDescription" class="Block Panel">
+          <h3 id="prodAccordion6" class="sub-title1" style="outline: none">
+            What data do I receive?
+          </h3>
+          <div class="ProductDescriptionContainer product-droppdown__section-description-specific">
+            <p>
+              We work with every service partner to tailor our analysis to your
+              needs. EpiCypher uses our bioinformatics pipeline – specifically
+              optimized for CUT&RUN – to analyze sequencing data. At our data
+              delivery meeting, we review preliminary data visualization at
+              customer-identified target loci and all quality control checks
+              (outlined above) to illustrate experimental success. We coordinate
+              handoff of raw sequencing data, alignment files, bigWig files, and
+              called peaks by SharePoint or Amazon Web Services. Files can be
+              immediately used to visualize data, perform downstream analyses
+              (e.g. differential enrichment), and derive biological insights in
+              your lab. Specifically, we provide:
+            </p>
+            <ul>
+              <li>
+                Raw sequencing data in FASTQ files. EpiCypher performs
+                paired-end sequencing, meaning each sequencing library has two
+                FASTQ files (e.g. R1 and R2).
+              </li>
+              <li>
+                Aligned, filtered reads in BAM files. The final BAM files
+                contain uniquely aligned reads, with multimapping reads,
+                exclusion list regions, and duplicate reads removed.
+              </li>
+              <li>
+                Visualization-ready data in bigWig files. BigWig files are RPKM
+                (Reads per Kilobase per Million mapped reads) normalized for
+                visualization on genomic browsers (e.g. IGV).
+              </li>
+              <li>
+                Signal enrichment in BED files, generated from peak calling.
+              </li>
+              <li>
+                (As needed) Text file with motif analysis results, showing
+                target-enriched sequences.
+              </li>
+            </ul>
+            <p>
+              To see a sample data report, email
+              <a href="mailto:services@epicypher.com">services@epicypher.com</a>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div id="prodAccordion">
+        <div id="ProductDescription" class="Block Panel">
+          <h3 id="prodAccordion7" class="sub-title1" style="outline: none">
+            How long does the process take?
+          </h3>
+          <div class="ProductDescriptionContainer product-droppdown__section-description-specific">
+            <p>
+              CUTANA CUT&RUN Service timelines vary, depending on sample prep
+              quality, number of samples, and if antibody screening is required.
+              Once samples are delivered to EpiCypher and have passed our
+              quality control checks and risk assessment, it typically takes ~6
+              weeks to deliver data.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div id="prodAccordion">
+        <div id="ProductDescription" class="Block Panel">
+          <h3 id="prodAccordion8" class="sub-title1" style="outline: none">
+            Does EpiCypher offer any genomics services other than CUT&RUN?
+          </h3>
+          <div class="ProductDescriptionContainer product-droppdown__section-description-specific">
+            <p>
+              <a href="https://www.epicypher.com/contact-us/request-info/" target="_blank">Ask our team</a>
+              about ongoing R&D efforts to profile DNA methylation, chromatin
+              accessibility and more, as well as access precious clinical
+              samples including liquid biopsies and formalin-fixed
+              paraffin-embedded (FFPE) tissue.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="clearfix"></div>
+</main>
+<style>
+  .sub-title1 {
+    cursor: pointer;
+  }
+
+  @media (max-width: 992px) {
+    .sub-title1 {
+      padding-right: 28px !important;
+    }
+  }
+
+  .prodAccordionContent {
+    display: none;
+  }
+
+  .active {
+    display: block;
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    // Get the current URL
+    let currenturl = window.location.pathname;
+
+    // Check if the URL matches the desired endpoint
+    if (
+      currenturl === "/test-cut-run-complete-guide/" ||
+      currenturl === "/about/management/"
+    ) {
+      let rmCont = document.querySelector(".remove-container");
+      // If the element is found, remove the specified classes
+      if (rmCont) {
+        rmCont.classList.remove("container");
+        rmCont.classList.remove("container-small");
+      }
+    }
+  });
+
+  $(".scrollTo").on("click", function (e) {
+    e.preventDefault();
+    var target = $(this).attr("href");
+    $("html, body").animate(
+      {
+        scrollTop: $(target).offset().top - 130,
+      },
+      {
+        duration: 2000,
+        complete: function () {
+          // Add a shadow to the targeted div
+          $(target).css("box-shadow", "0 1px 8px 3px rgb(70 152 203 / 30%)");
+
+          // Remove the shadow after a certain time (e.g., 2 seconds)
+          setTimeout(function () {
+            $(target).css("box-shadow", "none");
+          }, 2000);
+        },
+      }
+    );
+  });
+</script>
+
+<script>
+
+  function getUTMParameter(name) {
+
+    let result = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+
+    return result === null ? '' : decodeURIComponent(result[1]) || '';
+
+  }
+
+
+
+  document.addEventListener("DOMContentLoaded", function() {
+
+    document.querySelector("input[name='UTM_Campaign__c']").value = getUTMParameter('utm_campaign');
+
+    document.querySelector("input[name='UTM_Content__c']").value = getUTMParameter('utm_content');
+
+    document.querySelector("input[name='UTM_Medium__c']").value = getUTMParameter('utm_medium');
+
+    document.querySelector("input[name='UTM_Source__c']").value = getUTMParameter('utm_source');
+
+    document.querySelector("input[name='UTM_Term__c']").value = getUTMParameter('utm_term');
+
+  });
+
+</script>
