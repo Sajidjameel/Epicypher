@@ -1,0 +1,495 @@
+---
+carousel: true
+products:
+  new:
+    limit: { { theme_settings.home-new-products } }
+  featured:
+    limit: { { theme_settings.home-featured-products } }
+  top_sellers:
+    limit: { { theme_settings.home-top-selling-products } }
+brands: true
+blog:
+  recent_posts:
+    limit: 3
+    summary: { { theme_settings.home-blog-summary-length } }
+---
+
+{{#partial "page"}} {{#if carousel.slides.length}} {{> components/carousel }}
+{{/if}}
+
+<!--- Start Ticket 1002: HP redesign --->
+<div class="main-banner">
+  <div class="main-banner-content">
+    <div style="font-weight: 300" class="main-banner-title">
+      For Scientists. <br />By Scientists.
+    </div>  
+    <div style="font-style: italic" class="main-banner-subtitle">
+      Bringing Epigenetics To Life.
+    </div>
+    <!--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>-->
+    <div class="main-banner-action">
+      <div>
+        <a href="#our_prod_hp" class="main-button button-products">Products</a>
+        <a href="#service_hp" class="main-button button-services">Services</a>
+      </div>
+      <!-- <a href="/request-quote/" class="main-button-link">Request More Info</a> -->
+    </div>
+  </div>
+</div>
+<div id="banner_1" class="aboutus-banner animation-element in-view first-load">
+  <div class="container">
+    <div class="section-icon overlap">
+      <img
+        class="rotate-animation"
+        src="https://www.epicypher.com/product_images/uploaded_images/rosette-section-icon.png"
+        alt="section-icon" />
+    </div>
+    <!--
+    <div class="video-col">
+    <div class="video-block"><iframe src="https://www.youtube.com/embed/wrqL4ugP8O0?rel=0" width="553" height="385" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+    </div>
+    </div>-->
+    <!--<div class="aboutus-content-col">-->
+    <!--  <h2 class="page-heading">About Us</h2>-->
+    <!--  <p>-->
+    <!--    EpiCypher<sup>®</sup> works with leaders in the field to deliver-->
+    <!--    innovative solutions that meet scientists’ most challenging research-->
+    <!--    needs. We have pioneered the development of modified designer-->
+    <!--    nucleosomes (dNucs) and are applying these physiological substrates to-->
+    <!--    develop next-generation biochemical and epigenomics technologies. As-->
+    <!--    your research partner, we will provide cutting-edge tools and services-->
+    <!--    for epigenetics and chromatin biology research. How can we help you-->
+    <!--    Bring Epigenetics to Life?-->
+    <!--  </p>-->
+    <!--  <a class="button-aboutus" href="/contact-us/">Request Info</a>-->
+    <!--</div>-->
+    <style>
+        .aboutus-banner {
+           background-image:none ;
+           background: white;
+        }
+    </style>
+    <div class="aboutus-content-col">
+          <p>
+            Chromatin structure provides a foundational roadmap for gene
+            expression, cellular identity, and disease development. To fully
+            realize the potential of chromatin research for human health,
+            scientists need dynamic technologies that can adapt to their needs
+            and enable new  paths of discovery.
+          </p>
+          <h2 class="page-heading">About Us</h2>
+          <!-- <p>
+            EpiCypher<sup>®</sup> works with leaders in the field to deliver
+            innovative solutions that meet scientists’ most challenging research
+            needs. We have pioneered the development of modified designer
+            nucleosomes (dNucs) and are applying these physiological substrates
+            to develop next-generation biochemical and epigenomics technologies.
+            As your research partner, we will provide cutting-edge tools and
+            services for epigenetics and chromatin biology research. How can we
+            help you Bring Epigenetics to Life?
+          </p> -->
+          <p>
+            With decades of experience and active collaborations in epigenetics research
+            (<a  rel="noopener" class="hover_underline" target="_blank" href="https://www.epicypher.com/about-epicypher/#co_Authored_publication" style="color:#4698cb;">see co-authored publications</a>), EpiCypher
+            uniquely understands the challenges facing this field – and how to
+            solve them. Our scientists are leading the development of innovative
+            products and high-throughput services that are backed by a rigorous
+            scientific approach, validated protocols, and quantitative assay
+            controls.
+          </p>  
+
+          <p>
+            EpiCypher works with groups spanning academia, industry, and
+            clinical trials. These experiences inspire us to push technological
+            boundaries, making chromatin more accessible to answer nature’s most
+            complex and enduring questions. As your research partner, our team
+            can help  take your science to the next level.
+          </p>
+          <a class="button-aboutus" href="/contact-us/"
+            >Request Info</a
+          >
+        </div>
+  </div>
+</div>
+<div id="banner_2" class="our-technology-banner animation-element">
+  <div class="container">
+    <div class="section-icon">
+      <h2 class="page-heading">Featured Technologies</h2>
+      <p class="subtitle" style="font-size: 18px">
+        EpiCypher is dedicated to creating novel platforms that support
+        innovative chromatin research. We are constantly expanding our product
+        lines to provide the latest in quantitative chromatin technology.
+      </p>
+    </div>
+    <div class="our-technology-wrap">
+      <div class="row">
+        <div class="our-technology-col">
+          <span
+            ><a href="/technologies/cutana/cut-and-run"
+              ><img src="/content/Snap_Chip_1.jpg" alt="our-technology" /></a
+          ></span>
+          <h3>
+            <a href="/technologies/cutana/cut-and-run"
+              >CUTANA™ ChIC / CUT&amp;RUN Assays</a
+            >
+          </h3>
+          <p style="font-size: 16px">
+            Versatile chromatin mapping assays with improved sensitivity,
+            throughput, and costs vs. ChIP-seq.
+          </p>
+          <a class="Learn_more" href="/technologies/cutana/cut-and-run"
+            >Learn More</a
+          >
+        </div>
+        <div class="our-technology-col">
+          <span
+            ><a href="/technologies/cutana/cut-and-tag"
+              ><img src="/content/Snap_Chip_new.jpg" alt="our-technology" /></a
+          ></span>
+          <h3>
+            <a href="/technologies/cutana/cut-and-tag"
+              >CUTANA™ CUT&amp;Tag Assays</a
+            >
+          </h3>
+          <p style="font-size: 16px">
+            Sister technology to CUT&RUN, developed for specialized epigenomic
+            applications.
+          </p>
+          <a class="Learn_more" href="/technologies/cutana/cut-and-tag"
+            >Learn More</a
+          >
+        </div>
+        <div class="our-technology-col">
+          <span
+            ><a href="/technologies/snap-spike-in-controls"
+              ><img
+                style="max-height: 218px"
+                src="https://cdn11.bigcommerce.com/s-y9o92/images/stencil/original/j/cutanaspike-in%20thumbnail_rgb_white_w_border__61142.original.png"
+                alt="our-technology" /></a
+          ></span>
+          <h3>
+            <a href="/technologies/snap-spike-in-controls"
+              >SNAP Spike-in Controls</a
+            >
+          </h3>
+          <p style="font-size: 16px">
+            Control for all aspects of your chromatin mapping experiment using
+            our unique spike-in technology.
+          </p>
+          <a class="Learn_more" href="/technologies/snap-spike-in-controls"
+            >Learn More</a
+          >
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="our_prod_hp" class="common_margin"></div>
+<div class="our-products animation-element">
+  <div class="container">
+    <div class="section-icon overlap">
+      <img
+        src="/product_images/uploaded_images/rosette-section-icon.png"
+        alt="section-icon"
+        class="rotate-animation" />   
+      <h2 class="page-heading">Featured Products</h2>
+    </div>
+    <div class="our-products-tabs">
+      <ul class="tabs product_tabs" data-tab role="tablist">
+        <li class="tab is-active" role="presentational">
+          <a class="tab-title" role="tab" href="#tab-reagents-assays"
+            >Epigenetic Kits and Reagents</a
+          >
+        </li>
+        <li class="tab" role="presentational">
+          <a class="tab-title" role="tab" href="#tab-histone-peptides-arrays"
+            >Antibodies</a
+          >
+        </li>
+        <li class="tab" role="presentational">
+          <a class="tab-title" role="tab" href="#tab-nucleosomes"
+            >Nucleosomes</a
+          >
+        </li>
+
+        <li class="tab" role="presentational">
+          <a class="tab-title" role="tab" href="#tab-recombinant-proteins"
+            >Proteins & More</a
+          >
+        </li>
+      </ul>
+
+      {{> components/products/product-carousel-cards}}
+    </div>
+  </div>
+
+  <div class="our-services animation-element">
+    <!--<img class="our-services-image" src="{{cdn 'assets/img/our-services.jpg'}}" alt="our-services">-->
+    <img
+      class="our-services-image"
+      src="/content/Homepage_service.jpg"
+      alt="our-services" />
+    <div id="service_hp" class="common_margin"></div>
+    <div class="container">
+      <div class="section-icon overlap">
+        <img
+          src="/product_images/uploaded_images/rosette-section-icon.png"
+          alt="section-icon"
+          class="rotate-animation" />
+        <h2 class="page-heading">Services</h2>
+      </div>
+      <div class="row our-services-wrap">
+        <div class="our-services-col">
+          <a
+            style="background: none; padding: 0"
+            href="https://www.epicypher.com/services/cutana-cut-and-run/"
+            ><h3>CUTANA™ CUT&RUN Services</h3></a
+          >
+          <p>
+            EpiCypher’s CUTANA™ CUT&RUN Services provide unique access to our genomic expertise, enabling diverse applications across biomedical research and drug development.
+          </p>
+          <a
+            href="https://www.epicypher.com/services/cutana-cut-and-run/"
+            >Learn More</a
+          >
+        </div>
+        <div class="our-services-col">
+          <a
+            style="background: none; padding: 0"
+            href="https://www.epicypher.com/epidyne-chromatin-remodeling-hts-assays/"
+            ><h3>EpiDyne<sup>®</sup> Chromatin Remodeling HTS Assays</h3></a
+          >
+          <p>
+            EpiDyne<sup>®</sup> enables direct detection of chromatin remodeling
+            activity, and is ideal for HTS and inhibitor profiling. EpiDyne
+            services accelerate assay development and generate robust results.
+          </p>
+          <a
+            href="https://www.epicypher.com/epidyne-chromatin-remodeling-hts-assays/"
+            >Learn More</a
+          >
+        </div>
+        <div class="our-services-col">
+          <a
+            style="background: none; padding: 0"
+            href="https://www.epicypher.com/dcypher-assay-services-for-novel-chromatin-interactions/">
+            <h3>dCypher™ Assay Services for Novel Chromatin Interactions</h3></a
+          >
+          <p>
+            dCypher™ assay services rapidly interrogate chromatin reader binding
+            against a collection of modified histone peptides or nucleosomes,
+            revealing novel mechanisms in chromatin biology.
+          </p>
+          <a
+            href="https://www.epicypher.com/dcypher-assay-services-for-novel-chromatin-interactions/"
+            >Learn More</a
+          >
+        </div>
+        <div class="our-services-col">
+          <a
+            style="background: none; padding: 0"
+            href="/services/custom-nucleosome-development"
+            ><h3>Custom Nucleosome Development</h3></a
+          >
+          <p>
+            Nucleosomes are the preferred target of chromatin interacting
+            proteins, and are optimal substrates for epigenetics research. To
+            address this need, EpiCypher provides custom nucleosome development.
+          </p>
+          <a href="/services/custom-nucleosome-development">Learn More</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {{#if theme_settings.home-show-blog}}
+  <section class="our-thoughts animation-element">
+    <div class="container">
+      <div class="section-icon overlap">
+        <img
+          src="/product_images/uploaded_images/rosette-section-icon.png"
+          alt="section-icon"
+          class="rotate-animation" />
+        <h2 class="page-heading">Our Thoughts</h2>
+        <p class="subtitle">
+          Check in for the latest in EpiCypher technology, chromatin research,
+          and conference news!
+        </p>
+        {{!--<a href="/blog/">View Blog ></a> --}}
+      </div>
+      <div class="row">
+        <div class="latest-posts">
+          {{#each blog.recent_posts}}
+          <article class="post">
+            {{#if thumbnail.data.length}}
+            <a
+              class="post-thumb"
+              href="{{url}}"
+              style="background-image: url({{getImage thumbnail 'blog-thumb'}});">
+              <img
+                src="{{getImage thumbnail 'blog-thumb'}}"
+                alt="{{thumbnail.alt}}" />
+            </a>
+            {{/if}} {{> components/blog/blog-post-meta author=author
+            date_published=date_published}}
+            <h2 class="post-title"><a href="{{url}}">{{title}}</a></h2>
+            <div class="post-summary">{{{ellipsis summary 165}}}...</div>
+
+            <div class="post-summary-actions">
+              <a class="post-read-more" href="{{url}}"
+                >{{ lang 'blog.read_more_text' }}</a
+              >
+            </div>
+          </article>
+
+          {{/each}}
+        </div>
+      </div>
+    </div>
+  </section>
+  {{/if}} {{!--{{#if products.new}}
+  <section class="products-new section">
+    <h3 class="section-title">{{lang 'home.new_products'}}</h3>
+    <div class="container">
+      {{#each products.new}} {{> components/products/product-grid-item this
+      show_rating=../settings.show_product_rating
+      default_image=../theme_settings.default-product-image
+      quick_shop=../theme_settings.quick-shop
+      as_low_as=../theme_settings.price_as_low_as }} {{/each}}
+    </div>
+  </section>
+  {{/if}}--}} {{!--{{! Show tabs if both exist, else show single carousel grid}}
+  {{#if products.featured}} {{#if products.top_sellers}}
+  <section class="products-featured section">
+    <div class="container">
+      <ul class="tabs" data-tabs>
+        <li class="tab-title">
+          <a href="#featured-products">{{lang 'home.featured_products'}}</a>
+        </li>
+        <li class="tab-title">
+          <a href="#best-sellers">{{lang 'home.best_sellers'}}</a>
+        </li>
+      </ul>
+      <div class="tabs-content">
+        <div class="tab-content-panel" id="featured-products">
+          <div class="product-grid product-carousel">
+            {{#each products.featured}} {{>
+            components/products/product-grid-item this
+            show_rating=../settings.show_product_rating
+            default_image=../theme_settings.default-product-image
+            quick_shop=../theme_settings.quick-shop
+            as_low_as=../theme_settings.price_as_low_as }} {{/each}}
+          </div>
+        </div>
+        <div class="tab-content-panel" id="best-sellers">
+          <div class="product-grid product-carousel">
+            {{#each products.top_sellers}} {{>
+            components/products/product-grid-item this
+            show_rating=../settings.show_product_rating
+            default_image=../theme_settings.default-product-image
+            quick_shop=../theme_settings.quick-shop
+            as_low_as=../theme_settings.price_as_low_as }} {{/each}}
+          </div>
+        </div>
+        <svg class="icon icon-spinner"><use xlink:href="#icon-spinner" /></svg>
+      </div>
+    </div>
+  </section>
+  {{/if}} {{/if}}--}} {{!--{{#if products.top_sellers}} {{#unless
+  products.featured}}
+  <section class="products-featured section">
+    <div class="container">
+      <h3 class="section-title">{{lang 'home.best_sellers'}}</h3>
+      <div class="product-grid product-carousel">
+        {{#each products.top_sellers}} {{> components/products/product-grid-item
+        this show_rating=../settings.show_product_rating
+        default_image=../theme_settings.default-product-image
+        quick_shop=../theme_settings.quick-shop
+        as_low_as=../theme_settings.price_as_low_as }} {{/each}}
+      </div>
+    </div>
+  </section>
+  {{/unless}} {{/if}} {{#if products.featured}} {{#unless products.top_sellers}}
+  <section class="products-featured section">
+    <div class="container">
+      <h3 class="section-title">{{lang 'home.featured_products'}}</h3>
+      <div class="product-grid product-carousel">
+        {{#each products.featured}} {{> components/products/product-grid-item
+        this show_rating=../settings.show_product_rating
+        default_image=../theme_settings.default-product-image
+        quick_shop=../theme_settings.quick-shop
+        as_low_as=../theme_settings.price_as_low_as }} {{/each}}
+      </div>
+    </div>
+  </section>
+  {{/unless}} {{/if}} {{#if theme_settings.home-show-brands}}
+  <section class="brand-list section">
+    <div class="container">
+      {{#each (limit brands 8)}} {{#if this.image.data}}
+      <a class="brand-link" href="{{this.url}}">
+        <img
+          class="brand-logo"
+          src="{{getImage image 'thumb'}}"
+          alt="{{this.image.alt}}" />
+      </a>
+      {{/if}} {{/each}}
+    </div>
+  </section>
+  {{/if}}--}} {{!--{{#if theme_settings.home-show-blog}}
+  <section class="blog-latest-posts section">
+    <div class="container">
+      <h3 class="section-title">{{lang 'home.latest_blog_posts_title'}}</h3>
+      <div>
+        {{#each blog.recent_posts}} {{> components/blog/blog-post-summary this
+        summary_length=../theme_settings.home-blog-summary-length }} {{/each}}
+      </div>
+    </div>
+  </section>
+  {{/if}}--}} {{/partial}} {{> layout/base}}
+
+  <script type="text/javascript">
+    // wait for DOM content to load before using jQuery to ensure it is loaded
+    document.addEventListener('DOMContentLoaded', function () {
+      $('#prodAccordion .Block h3').click(function () {
+        $(this).css('outline', 'none');
+        if ($(this).parent().hasClass('current')) {
+          $(this)
+            .siblings('div')
+            .slideUp('slow', function () {
+              $(this).parent().removeClass('current');
+            });
+        } else {
+          $(this)
+            .siblings('div')
+            .slideToggle('slow', function () {
+              $(this).parent().toggleClass('current');
+            });
+        }
+        return false;
+      });
+    });
+  </script>
+
+  <style>
+    .request-more-info .content-col .request-more-call:focus,
+    .request-more-info .content-col .request-more-call:hover {
+      color: #4698cb;
+    }
+    .our-services .our-services-wrap .our-services-col h3:hover {
+      color: #9e9fa4;
+    }
+    .our-technology-banner .our-technology-wrap .our-technology-col h3 a:hover {
+      color: #9e9fa4 !important;
+    }
+    
+    @media screen and (min-width: 768px) {
+      .aboutus-banner .aboutus-content-col {
+        width: 100% !important ;
+      }
+    }
+    
+    .hover_underline:hover{ 
+        text-decoration: underline;
+    }
+  </style>
+</div>
