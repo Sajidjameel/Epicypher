@@ -1,0 +1,1144 @@
+ <meta name="robots" content="noindex,nofollow" />    
+    <div class="container">
+          <div class="section-icon">
+            <p class="main_info_brou">
+              Last updated on April 5, 2024. Looking for a specific poster? Let
+              us know
+
+              <a
+                class="scrollTo"
+                data-scroll="#table-container"
+                href="#table-container"
+                >here</a
+              >
+            </p>
+          </div>
+        </div>
+        <div
+          id="banner_2"
+          class="our-technology-banner animation-element first-load in-view"
+        >
+          <div class="container">
+            <div class="section-icon">
+                <h2 class="page-heading">Featured Posters</h2>
+                <!-- <p class="subtitle" style="font-size: 18px">
+                  EpiCypher is dedicated to sharing scientific knowledge. View the
+                  posters we have recently shared
+                </p> -->
+            </div>
+            <div class="our-technology-wrap">
+              <div class="row">
+                <div class="our-technology-col">
+                  <span
+                    ><a
+                      href="/content/documents/posters/cut-and-run-immune-poster.pdf"
+                      ><img
+                        src="https://www.epicypher.com/content/images/posters/cut-and-run-immune-poster.jpeg"
+                        alt="our-sceintific posters" /></a
+                  ></span>
+                  <h3>
+                    <a
+                      href="/content/documents/posters/cut-and-run-immune-poster.pdf"
+                    >
+                      Development of a high-throughput CUT&RUN platform for
+                      epigenomic mapping of rare primary immune cells</a
+                    >
+                  </h3>
+
+                  <a
+                    class="Learn_more"
+                    href="/content/documents/posters/cut-and-run-immune-poster.pdf"
+                    >View Poster</a
+                  >
+                </div>
+                <div class="our-technology-col">
+                  <span
+                    ><a href="/content/documents/posters/BPTF-PHD-BD-poster.pdf"
+                      ><img
+                        src="https://cdn11.bigcommerce.com/s-y9o92/images/stencil/original/image-manager/222.jpg?t=1699040647"
+                        alt="our-sceintific posters" /></a
+                  ></span>
+                  <h3>
+                    <a href="/content/documents/posters/BPTF-PHD-BD-poster.pdf"
+                      >Combinatorial interactions by the BPTF tandem PHD-BD show
+                      nucleosome conformation dictates the histone code
+                    </a>
+                  </h3>
+                  <a
+                    class="Learn_more"
+                    href="/content/documents/posters/BPTF-PHD-BD-poster.pdf"
+                    >View Poster</a
+                  >
+                </div>
+                <div class="our-technology-col">
+                  <span
+                    ><a href="/content/documents/posters/epidyne-poster.pdf"
+                      ><img
+                        src="https://cdn11.bigcommerce.com/s-y9o92/images/stencil/original/image-manager/23.-10.23-poster-epidyne-tf-ls-final.png"
+                        alt="our-technology" /></a
+                  ></span>
+                  <h3>
+                    <a href="/content/documents/posters/epidyne-poster.pdf"
+                      >Biochemical and genomic approaches for high throughput
+                      drug discovery in chromatin remodeling research
+                    </a>
+                  </h3>
+                  <a
+                    class="Learn_more"
+                    href="/content/documents/posters/epidyne-poster.pdf"
+                    >View Poster</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="table-container main-wrapper" id="table-container">
+          <div class="inner-container responsive-table">
+            <div class="section-icon">
+              <h2 class="page-heading">Recent Posters</h2>
+            </div>
+            <div>
+              <input type="text" id="search-input" placeholder="Search..." />
+              <div id="no-results" style="display: none">No results found.</div>
+            </div>
+
+            <table style="overflow-x: auto">
+
+              <thead>
+                <tr>
+                  <th>Poster Title</th>
+                  <th>Presented At</th>
+                  <th>Keywords</th>
+                </tr>
+              </thead>
+
+              <tbody id="table-body">
+                <!-- Sample Rows -->
+
+                <tr>
+                  <td data-column="Poster Title">
+                    <a
+                      class="Learn_more"
+                      href="/content/documents/posters/histone-monoubiquitin-poster.pdf"
+                    >
+                      Exploring Antibodies and Rationally Designed Readers for
+                      Genomic Mapping of Histone Monoubiquitin
+                    </a>
+                  </td>
+                  <td data-column="Presented At">
+                    Keytone Epigenetic Mechanisms and Cancer Treatment
+                  </td>
+                  <td data-column="Keywords">
+                    CUT&RUN, ubiquitination, antibody specificity
+                  </td>
+                </tr>
+
+                <tr>
+                  <td data-column="Poster Title">
+                    <a
+                      class="Learn_more"
+                      href="/content/documents/posters/cut-and-run-immune-poster.pdf"
+                    >
+                      Development of a high-throughput CUT&RUN platform for
+                      epigenomic mapping of rare primary immune cells
+                    </a>
+                  </td>
+                  <td data-column="Presented At">
+                    Keytone Epigenetic Mechanisms and Cancer Treatment
+                  </td>
+                  <td data-column="Keywords">
+                    Automated CUT&RUN, sorted cells, immune cells
+                  </td>
+                </tr>
+
+                <!-- Add more rows here -->
+
+                <tr>
+                  <td data-column="Poster Title">
+                    <a
+                      class="Learn_more"
+                      href="/content/documents/posters/2024_AGBT_EpiCypher_autoCUT&RUN.pdf"
+                    >
+                      Epigenomic fingerprinting of limited primary cells using
+                      automated CUT&RUN
+                    </a>
+                  </td>
+                  <td data-column="Presented At">
+                    AACR Blood Cancer Discovery
+                  </td>
+                  <td data-column="Keywords">
+                    Automated CUT&RUN, sorted cells, immune cells
+                  </td>
+                </tr>
+
+                <tr>
+                  <td data-column="Poster Title">
+                    <a
+                      class="Learn_more"
+                      href="/content/documents/posters/DNA_methylation_via_TEM_seq.pdf"
+                    >
+                      Direct multi-omics for the masses: Linking DNA methylation
+                      to chromatin targets via TEM-seq
+                    </a>
+                  </td>
+                  <td data-column="Presented At">AGBT 2024</td>
+                  <td data-column="Keywords">
+                    DNA methylation, MeCP2, multiomic analysis
+                  </td>
+                </tr>
+
+                <tr>
+                  <td data-column="Poster Title">
+                    <a
+                      class="Learn_more"
+                      href="/content/documents/posters/Multi_epigenomi_mapping_with_long_read_sequencing.pdf"
+                      >Multi-epigenomic mapping with long read sequencing
+                    </a>
+                  </td>
+                  <td data-column="Presented At">AGBT 2024</td>
+                  <td data-column="Keywords">
+                    Multiomic analysis, long read sequencing, DNA methylation
+                  </td>
+                </tr>
+
+                <tr>
+                  <td data-column="Poster Title">
+                    <a
+                      class="Learn_more"
+                      href="/content/documents/posters/ultra-sensitive-cut-and-tag-poster.pdf"
+                      >CUTANA™ CUT&Tag : Powerful Platform for Streamlined,
+                      Ultra-Sensitive Epigenomics
+                    </a>
+                  </td>
+                  <td data-column="Presented At">
+                    Kestone Single-Cell Biology: Tissue Genomics, Technologies
+                    and Disease
+                  </td>
+                  <td data-column="Keywords">
+                    CUT&Tag, CUTAC, chromatin accessibility
+                  </td>
+                </tr>
+
+                <tr>
+                  <td data-column="Poster Title">
+                    <a
+                      class="Learn_more"
+                      href="/content/documents/posters/BPTF-PHD-BD-poster.pdf"
+                    >
+                      Combinatorial interactions by the BPTF tandem PHD-BD show
+                      nucleosome conformation dictates the histone code
+                    </a>
+                  </td>
+                  <td data-column="Presented At">EpiCypher 2023</td>
+                  <td data-column="Keywords">
+                    Histone code, CUT&RUN, combinatorial histone PTMs
+                  </td>
+                </tr>
+
+                <tr>
+                  <td data-column="Poster Title">
+                    <a
+                      class="Learn_more"
+                      href="/content/documents/posters/reader-proteins-for-profiling.pdf"
+                    >
+                      Development of Recombinant Reader Proteins for Epigenetic
+                      Profiling in Genomic Assays
+                    </a>
+                  </td>
+                  <td data-column="Presented At">EpiCypher 2023</td>
+                  <td data-column="Keywords">
+                    Reader CUT&RUN, antibody specificity, histone variants
+                  </td>
+                </tr>
+
+                <tr>
+                  <td data-column="Poster Title">
+                    <a
+                      class="Learn_more"
+                      href="/content/documents/posters/quantitative-controls-poster.pdf"
+                      >Development of Quantitative Controls for CUT&RUN Assays
+                    </a>
+                  </td>
+                  <td data-column="Presented At">
+                    U.Wisconsin Epigenetics Symposium
+                  </td>
+                  <td data-column="Keywords">
+                    CUT&RUN, spike-in controls, sequencing normalization
+                  </td>
+                </tr>
+
+                <tr>
+                  <td data-column="Poster Title">
+                    <a
+                      class="Learn_more"
+                      href="/content/documents/posters/autocutandrun_poster.pdf"
+                      >Automated CUT&RUN brings scalable epigenomic profiling to
+                      precision medicine
+                    </a>
+                  </td>
+                  <td data-column="Presented At">
+                    AGBT Precision Medicine
+                  </td>
+                  <td data-column="Keywords">
+                    Automated CUT&RUN, DNA methylation, multiomic analysis
+                  </td>
+                </tr>
+
+                <tr>
+                  <td data-column="Poster Title">
+                    <a
+                      class="Learn_more"
+                      href="/content/documents/posters/nucleosomes-spike-in-controls-poster.pdf"
+                    >
+                      Nucleosome spike-in controls enable reliable
+                      next-generation epigenomic mapping
+                    </a>
+                  </td>
+                  <td data-column="Presented At">
+                    AACR Cancer Epigenomics
+                  </td>
+                  <td data-column="Keywords">
+                    CUT&RUN, spike-in controls, sequencing normalization
+                  </td>
+                </tr>
+
+                <tr>
+                  <td data-column="Poster Title">
+                    <a
+                      class="Learn_more"
+                      href="https://www.epicypher.com/content/documents/posters/dcypher-poster.pdf"
+                    >
+                      dCypher™ screening of BPTF reader domains show
+                      nucleosomes, not peptides, dictate the histone code
+                    </a>
+                  </td>
+                  <td data-column="Presented At">
+                    Fusion Epigenetics
+                  </td>
+                  <td data-column="Keywords">
+                    Histone code, CUT&RUN, combinatorial histone PTMs
+                  </td>
+                </tr>
+
+                <tr>
+                  <td data-column="Poster Title">
+                    <a
+                      class="Learn_more"
+                      href="/content/documents/posters/epidyne-poster.pdf"
+                    >
+                      Biochemical and genomic approaches for high throughput
+                      drug discovery in chromatin remodeling research
+                    </a>
+                  </td>
+                  <td data-column="Presented At">AACR 2023</td>
+                  <td data-column="Keywords">
+                    Chromatin remodeling, TR-FRET assays, CUT&RUN
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!--  ----------------------------------------------------------------------  -->
+        <!--  NOTE: Please add the following <META> element to your page <HEAD>.      -->
+        <!--  If necessary, please modify the charset parameter to specify the        -->
+        <!--  character set of your HTML page.                                        -->
+        <!--  ----------------------------------------------------------------------  -->
+
+        <meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+        <!--  NOTE: Please add the following <FORM> element to your page.             -->
+        <!--  ----------------------------------------------------------------------  -->
+
+        <div class="form-views-segment">
+          <div class="container">
+            <form
+              action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8&orgId=00D1N000002dNN1"
+              id="cont-fm"
+              method="POST"
+            >
+              
+              <input type="hidden" name="oid" value="00D1N000002dNN1" />
+              <input
+                type="hidden"
+                name="retURL"
+                value="https://www.epicypher.com/resources/posters/request-thank-you"
+              />
+         <input type=hidden name="pi_score_c" value="50">
+<input type=hidden name="lead_source" value="Poster Inquiry">
+<input type=hidden name="UTM_Campaign__c" value="contact-us">
+<input type=hidden name="UTM_Content__c" value="Request More Information">
+<input type=hidden name="UTM_Medium__c" value="form">
+<input type=hidden name="UTM_Source__c" value="website">
+
+
+
+              <!--  ----------------------------------------------------------------------  -->
+              <!--  NOTE: These fields are optional debugging elements. Please uncomment    -->
+              <!--  these lines if you wish to test in debug mode.                          -->
+              <!--  <input type="hidden" name="debug" value=1>                              -->
+              <!--  <input type="hidden" name="debugEmail"                                  -->
+              <!--  value="marketing@epicypher.com">                                        -->
+              <!--  ----------------------------------------------------------------------  -->
+
+              <div class="section-icon">
+                <p style="text-align: left">
+                  Don't see a poster you are looking for? Fill out the form
+                  below and we will reach out to you.
+                </p>
+              </div>
+
+              <div class="row">
+                <div class="columns-grid">
+                  <div class="column">
+                    <label for="first_name">First Name*</label
+                    ><input
+                      id="first_name"
+                      maxlength="40"
+                      name="first_name"
+                      size="20"
+                      type="text"
+                      required=""
+                    />
+
+                  </div>
+                  <div class="column">
+                    <label for="last_name">Last Name*</label
+                    ><input
+                      id="last_name"
+                      maxlength="80"
+                      name="last_name"
+                      size="20"
+                      type="text"
+                      required=""
+                    />
+
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <label for="email">Email*</label
+                ><input
+                  id="email"
+                  maxlength="80"
+                  name="email"
+                  size="20"
+                  type="email"
+                  required=""
+                />
+              </div>
+              <div class="row">
+                <label for="Message__c">
+                  Description of the poster (title, conference, presenter etc.)
+                </label>
+
+                <textarea
+                  id="Message__c"
+                  name="Message__c"
+                  title="Message"
+                  rows="3"
+                  type="text"
+                  wrap="soft"
+                ></textarea>
+              </div>
+             
+<div
+class="g-recaptcha"
+data-sitekey="6Lf7DFkpAAAAAPOXEvEyOGVBsST826QGRiGS2KB_"
+></div>
+              <p
+                style="
+                  margin-left: auto;
+                  margin-right: auto;
+                  margin-top: 15px;
+                  font-size: 18px !important;
+                "
+              >
+                By clicking "Submit" you are agreeing to EpiCypher's
+                <a class="priva" href="https://www.epicypher.com/privacy/"
+                  >Privacy Policy</a
+                >.
+              </p>
+
+              <input type="submit" name="submit" class="submit" />
+            </form>
+          </div>
+        </div>
+
+        <style>
+          .form-views-segment {
+            background: #f7f7f7 ;
+            padding: 50px 0;
+          }
+          /* Set additional styling options for the columns*/
+          .columns-grid {
+            display: grid;
+            /* width: 50%; */
+            grid-template-columns: repeat(2, 1fr);
+            gap: 4rem;
+          }
+
+          .inner-container {
+            max-width: 1280px;
+            padding: 0 15px;
+            margin: auto;
+          }
+          .max-width_wrap {
+            margin: auto;
+          }
+          .row:after {
+            content: "";
+            display: table;
+            clear: both;
+          }
+          label {
+            clear: left;
+            text-align: left;
+            padding-right: 10px;
+            font-family: "Nunito Sans", "Arial", sans-serif;
+          }
+          input,
+          text,
+          textarea,
+          label {
+            font-family: "Nunito Sans", "Arial", sans-serif;
+          }
+          form {
+            clear: left;
+            text-align: left;
+            font-family: "Nunito Sans", "Arial", sans-serif;
+          }
+
+          input,
+          select,
+          textarea {
+            background-color: #ffffff;
+            border-radius: 10px;
+            padding: 5px 0px 5px 10px;
+            border: solid 1px #919390;
+            width: 100% !important;
+          }
+          input,
+          label,
+          textarea {
+            display: flex;
+          }
+
+          [multiple],
+          [type="date"],
+          [type="datetime-local"],
+          [type="email"],
+          [type="month"],
+          [type="number"],
+          [type="password"],
+          [type="search"],
+          [type="tel"],
+          [type="text"],
+          [type="time"],
+          [type="url"],
+          [type="week"],
+          select,
+          textarea {
+            margin-bottom: 1rem;
+            padding: 5px 10px 10px 10px;
+            margin-left: 0 !important;
+            margin-right: 0 !important;
+            width: 100%;
+          }
+
+          input,
+          select,
+          textarea {
+            width: 100% !important;
+          }
+
+          .row {
+            margin-right: 0;
+            margin-left: 0;
+            clear: both;
+          }
+
+          input.submit {
+            border-radius: 30px;
+            margin: auto !important;
+            border-radius: 30px;
+            font-size: 18px !important;
+            font-weight: bold;
+            color: white;
+            text-align: center;
+            clear: left;
+            display: block;
+            padding: 5px 10px 5px 10px;
+            border-color: #309b42 !important;
+            background-color: #309b42 !important;
+            height: 40px;
+            width: 125px !important;
+          }
+
+          .g-recaptcha {
+            /* margin-left: 55px; */
+            margin-top: 30px;
+            margin-bottom: 15px;
+          }
+
+          .g-recaptcha + p {
+            margin-bottom: 26px;
+          }
+
+          .page .page-content p {
+            color: #000000 !important;
+            margin-bottom: 20px;
+            width: 100%;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 15px;
+            font-size: 18px !important;
+          }
+
+          #Product_Interest__c option {
+            font-size: 16px !important;
+            color: #000000 !important;
+          }
+
+          @media screen and (max-width: 850px) {
+            label {
+              font-size: 18px !important;
+              padding: 0px 0 !important;
+            }
+            .columns-grid {
+              gap: 1rem;
+            }
+          }
+
+          @media screen and (max-width: 576px) {
+            .columns-grid {
+              gap: 1rem;
+              grid-template-columns: repeat(1, 1fr);
+            }
+          }
+        </style>
+
+        <style>
+          .main-wrapper {
+            width: 100%;
+            box-sizing: border-box;
+          }
+          .responsive-table {
+            overflow-x: auto;
+          }
+          .section-icon .subtitle {
+            text-align: center;
+          }
+          .our-technology-banner
+            .our-technology-wrap
+            .our-technology-col
+            span
+            a
+            img {
+            -webkit-transition: all 0.3s ease-in-out;
+            transition: all 0.3s ease-in-out;
+            width: auto !important;
+            height: 230px;
+            object-fit: contain;
+            margin: auto;
+            margin-bottom: 20px;
+            padding: 0px 0 0px 0;
+          }
+          .section-icon .page-heading {
+            margin-top: -3px;
+            margin-bottom: 8px;
+            font-size: 34px;
+            text-align: center;
+            font-size: 34px;
+            color: #000000;
+            font-family: "Nunito Sans";
+            font-weight: 300;
+          }
+.our-technology-banner{
+background: #f7f7f7 !important;
+}
+          .table-container #search-container {
+            margin-bottom: 20px;
+          }
+
+          .table-container #search-input {
+            padding: 10px;
+            width: 100% !important;
+            font-size: 16px;
+            margin: 0 !important;
+            border-radius: 0 !important;
+            padding: 10px 20px !important;
+            font-size: 18px !important;
+            margin-top: 50px !important;
+            display: block;
+          }
+
+          @media screen and (max-width: 600px) {
+            .table-container th,
+            .table-container td {
+              padding: 15px; /* Larger padding for smaller screens */
+            }
+          }
+          .page-content a,
+          .product-description a,
+          .blog-content a {
+            color: #4886ac;
+          }
+          .page-content .table-container th a,
+          .page-content .table-container td a {
+            text-decoration: underline;
+          }
+
+          @media only screen and (max-width: 480px) {
+          }
+
+          /* New Changes */
+
+          .table-container table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 50px auto;
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
+          }
+
+          /* Zebra striping */
+          .table-container tr:nth-of-type(odd) {
+            background: #f6f6f6;
+          }
+
+          .table-container th {
+            color: white;
+            font-weight: bold;
+          }
+
+          .table-container td,
+          .table-container th {
+            padding: 10px;
+            border: 1px solid #ebebeb;
+            text-align: left;
+            font-size: 1.04rem;
+            border-top: 0px;
+            border-bottom: 0px;
+          }
+
+          .table-container tr td:first-child,
+          .table-container tr th {
+            width: 1%;
+            min-width: 629px;
+          }
+          thead,
+          tbody {
+            display: block;
+          }
+
+          tbody {
+            max-height: 600px; /* Just for the demo          */
+            overflow-y: auto; /* Trigger vertical scroll    */
+            overflow-x: hidden; /* Hide the horizontal scroll */
+          }
+          .table-container tr td:nth-last-of-type(2),
+          .table-container tr th:nth-last-of-type(2) {
+            /* width: 20%; */
+            min-width: 300px;
+          }
+
+          .table-container tr td:last-child,
+          .table-container tr th:last-child {
+            width: 20%;
+            min-width: 300px;
+          }
+
+          .table-container th {
+            background-color: #4698cb; /* Color for table header */
+            color: white;
+            padding: 10px;
+            text-align: left;
+          }
+          .table-container table,
+          .table-container th,
+          .table-container td {
+            border: 0px solid #ddd;
+            padding: 8px;
+            text-align: left;
+            color: #000;
+            font-size: 1.04rem;
+          }
+
+          .table-container {
+            width: 100%;
+            overflow-x: auto; /* Enables horizontal scrolling */
+            -webkit-overflow-scrolling: touch;
+            padding: 90px 0;
+          }
+          .table-container table,
+          .table-container th,
+          .table-container td {
+            font-size: 1.04rem;
+            text-transform: capitalize;
+          }
+
+          .table-container table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            border: 1px solid #ddd;
+          }
+          .epicypher-table td,
+          .table-container th {
+            border: 0px solid lightgray;
+            text-align: left;
+            padding: 12px 10px;
+            color: white !important;
+            /* white-space: nowrap; */
+          }
+          .table-container th {
+            background-color: #4698cb; /* Color for table header */
+            color: white;
+          }
+
+          .table-container tr:nth-child(even) {
+            background-color: #b3cfe5;
+          }
+          .table-container tr:nth-child(odd) {
+            background-color: #ffffff; /* White color for odd rows */
+          }
+
+          @media screen and (min-width: 768px) {
+            .table-container td {
+              padding-top: 5px !important;
+              padding-bottom: 5px !important;
+            }
+          }
+
+          /* 
+      Max width before this PARTICULAR table gets nasty
+      This query will take effect for any screen smaller than 760px
+      and also iPads specifically.
+      */
+          @media only screen and (max-width: 577.98px),
+            (min-width: 578px) and (max-width: 768px) {
+            .table-container table {
+              width: 100%;
+            }
+
+            /* Force table to not be like tables anymore */
+            .table-container table,
+            .table-container thead,
+            .table-container tbody,
+            .table-container th,
+            .table-container td,
+            .table-container tr {
+              display: block;
+            }
+
+            /* Hide table headers (but not display: none;, for accessibility) */
+            .table-container thead tr {
+              position: absolute;
+              top: -9999px;
+              left: -9999px;
+            }
+
+            .table-container tr {
+              border: 1px solid #ebebeb;
+            }
+
+            .table-container td {
+              /* Behave  like a "row" */
+              border: none;
+              border-top: 0px;
+              border-bottom: 0px;
+              position: relative;
+              padding-left: 47%;
+              width: 100% !important;
+              min-width: 100% !important;
+              color: #000;
+            }
+
+            .table-container td:before {
+              /* Now like a table header */
+              position: absolute;
+              /* Top/left values mimic padding */
+              top: 6px;
+              left: 6px;
+              width: 45%;
+              padding-right: 10px;
+              white-space: nowrap;
+              /* Label the data */
+              content: attr(data-column);
+
+              color: #000;
+              font-weight: bold;
+            }
+
+            .table-container table,
+            .table-container th,
+            .table-container td {
+              font-size: 16px;
+            }
+          }
+        </style>
+
+        <style>
+          .brochures-cards_segment {
+            background-color: #cbecf0;
+            padding: 50px 0;
+          }
+          .antibody_assays .antibody_assays_inner .antibody_assays_box {
+            position: static;
+          }
+
+          .antibody_assays_box .assays_box_inner {
+            float: none;
+            width: 100%;
+          }
+
+          .antibody_assays,
+          .antibody_assays .antibody_assays_inner {
+            float: none;
+            clear: both;
+          }
+
+          .antibody_assays {
+            padding: 0;
+          }
+          .page .page-content p {
+            color: #3b3a48 !important;
+            text-align: center;
+          }
+
+          .brochures-table {
+            display: flex;
+            flex-direction: column;
+            width: 90%;
+            margin-left: auto;
+            margin-right: auto;
+          }
+
+          .brochures-table h3 {
+            text-align: center;
+            padding-bottom: 1rem;
+          }
+
+          .brochures-content {
+            display: flex;
+            gap: 6rem;
+            padding-bottom: 4rem;
+          }
+
+          .brochures-img a img {
+            border: 1px solid #3b3a48;
+            height: 100%;
+            height: auto;
+            max-width: 250px;
+          }
+
+          .brochures-description a button {
+            color: #fff;
+            background: #4698cb;
+            border-radius: 53px;
+            font-weight: 500;
+            font-size: 1rem;
+            padding: 6px 25px;
+          }
+
+          /* Mobile  */
+
+          @media only screen and (max-width: 600px) {
+            .brochures-content {
+              display: flex;
+              flex-direction: column;
+              gap: 1rem;
+              text-align: center;
+            }
+          }
+        </style>
+
+        <style>
+          .page .page-content p {
+            color: #000000 !important;
+            margin-bottom: 20px;
+            width: 100%;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 15px;
+            font-size: 18px !important;
+            font-family: "Nunito Sans";
+            line-height: 30px;
+          }
+          .page .page-content p.main_info_brou {
+            padding: 20px 0;
+          }
+
+          .page .page-content p.main_info_brou a {
+            font-size: 18px !important;
+            font-family: "Nunito Sans";
+            text-decoration: underline;
+          }
+        </style>
+
+        <script>
+          document
+            .getElementById("search-input")
+            .addEventListener("keyup", function (event) {
+              let searchQuery = event.target.value.toLowerCase();
+              let tableRows = document.querySelectorAll("#table-body tr");
+              let found = false;
+
+              tableRows.forEach(function (row) {
+                let cells = row.querySelectorAll("td");
+                let matched =
+                  cells[0].textContent.toLowerCase().includes(searchQuery) ||
+                  cells[1].textContent.toLowerCase().includes(searchQuery) ||
+                  cells[2].textContent.toLowerCase().includes(searchQuery);
+
+                if (matched) {
+                  found = true;
+                  row.style.display = "";
+                } else {
+                  row.style.display = "none";
+                }
+              });
+
+              document.getElementById("no-results").style.display = found
+                ? "none"
+                : "block";
+            });
+
+          document.addEventListener("DOMContentLoaded", function () {
+            let live_url = window.location.href;
+
+            console.log(live_url);
+
+            let current_url = "http://localhost:3000/antibodies-complete-list/";
+            let current_url2 = "https://www.epicypher.com/resources/posters/";
+            console.log(current_url);
+            let remove_container = document.querySelector("#remove_container");
+
+            if (remove_container) {
+              remove_container.classList.remove("container");
+            }
+          });
+
+          document.addEventListener("DOMContentLoaded", function () {
+            // Get the current URL
+            let currenturl = window.location.pathname;
+
+            // Check if the URL matches the desired endpoint
+            if (
+              currenturl === "/resources/posters/" ||
+              currenturl === "/test-posters/"
+            ) {
+              console.log(currenturl);
+              let rmCont = document.querySelector(".remove-container");
+              // If the element is found, remove the specified classes
+              if (rmCont) {
+                rmCont.classList.remove("container");
+                rmCont.classList.remove("container-small");
+              }
+            }
+          });
+        </script>
+<script src="https://www.google.com/recaptcha/api.js"></script>
+        <script>
+          // Wait for the DOM to be fully loaded
+          document.addEventListener("DOMContentLoaded", function () {
+            // Select all elements with the class 'scrollTo'
+            document
+              .querySelectorAll(".scrollTo")
+              .forEach(function (scrollToElement) {
+                // Add a click event listener to each element
+                scrollToElement.addEventListener("click", function (e) {
+                  // Prevent the default action
+                  e.preventDefault();
+
+                  // Get the target element's selector from the 'data-scroll' attribute
+                  var targetSelector = this.getAttribute("data-scroll");
+                  var targetElement = document.querySelector(targetSelector);
+
+                  // Check if the target element exists
+                  if (targetElement) {
+                    // Scroll smoothly to the target element
+                    targetElement.scrollIntoView({
+                      behavior: "smooth",
+                      block: "start",
+                    });
+                  } else {
+                    console.error("Target not found: " + targetSelector);
+                  }
+                });
+              });
+          });
+
+// This assumes you are using reCAPTCHA v2
+// Assuming you have jQuery
+
+
+
+function getUTMParameter(name) {
+
+  let result = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+
+  return result === null ? '' : decodeURIComponent(result[1]) || '';
+
+}
+
+
+
+document.addEventListener("DOMContentLoaded", function() {
+
+  document.querySelector("input[name='UTM_Campaign__c']").value = getUTMParameter('utm_campaign');
+
+  document.querySelector("input[name='UTM_Content__c']").value = getUTMParameter('utm_content');
+
+  document.querySelector("input[name='UTM_Medium__c']").value = getUTMParameter('utm_medium');
+
+  document.querySelector("input[name='UTM_Source__c']").value = getUTMParameter('utm_source');
+
+
+
+  });
+
+
+
+</script>
+<script src="https://www.google.com/recaptcha/api.js"></script>
+<script>
+          document.addEventListener("DOMContentLoaded", function (event) {
+            function timestamp() {
+              var response = document.getElementById("g-recaptcha-response");
+              if (response == null || response.value.trim() == "") {
+                var captchaSettingsElement =
+                  document.getElementsByName("captcha_settings")[0];
+                if (captchaSettingsElement) {
+                  var elems;
+                  try {
+                    elems = JSON.parse(captchaSettingsElement.value);
+                  } catch (e) {
+                    console.error("Error parsing JSON:", e);
+                    elems = {}; // Initialize elems as an empty object
+                  }
+                  elems["ts"] = new Date().getTime(); // Set timestamp
+                  captchaSettingsElement.value = JSON.stringify(elems);
+                }
+              }
+            }
+            setInterval(timestamp, 500);
+
+            document
+              .getElementById("cont-fm")
+              .addEventListener("submit", function (event) {
+                var recaptchaResponse = grecaptcha.getResponse();
+
+                if (recaptchaResponse === "") {
+                  event.preventDefault(); // Prevent form submission
+                  alert("Please complete the reCAPTCHA");
+                } else {
+                  // reCAPTCHA completed, form can be submitted
+                  // Additional validation can be performed here if needed
+                }
+              });
+          });
+        </script>
