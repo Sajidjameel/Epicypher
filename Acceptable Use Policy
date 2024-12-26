@@ -1,0 +1,55 @@
+<div class="privacy_policy">
+  <header class="privacy_policy__header">
+    <h2>
+      <strong>EPICYPHER, INC.</strong>
+    </h2>
+    <h2>
+      <strong>ACCEPTABLE USE POLICY</strong>
+    </h2>
+  </header>
+
+  <main class="privacy_policy_content">
+    <p>
+      This Acceptable Use Policy (“AUP”) sets forth the restrictions regarding use of the EpiCypher, Inc. (“EpiCypher”)
+      online platform and service (the “Service”) and any use of the Service is subject to this AUP. Use of the Service
+      is governed by a separate agreement entered into between the client (“Client”) and EpiCypher (the “Agreement”);
+      capitalized terms in this AUP have the meaning stated in the Agreement unless otherwise defined herein. This AUP
+      is incorporated into the Agreement by reference.
+    </p>
+    <p>
+      Client agrees not to, and not to allow Authorized Users to, use the Service to:
+    </p>
+    <ul>
+      <li class="privacy_policy_content__item">store, transmit or make available infringing, libelous or otherwise
+        unlawful or tortious material, or to store, transmit or make available material in violation of third-party
+        rights, including, but not limited to privacy rights;</li>
+      <li class="privacy_policy_content__item">store, transmit, or make available viruses or malicious code;</li>
+      <li class="privacy_policy_content__item">interfere with or disrupt the integrity or performance of the Service;
+      </li>
+      <li class="privacy_policy_content__item">attempt to gain unauthorized access to the Service or any related systems
+        or networks;</li>
+      <li class="privacy_policy_content__item">permit direct or indirect access to or use of the Service in a way that
+        violates the Agreement;</li>
+      <li class="privacy_policy_content__item">use the Service to generate or send unsolicited communications,
+        advertising or spam, or otherwise cause EpiCypher to become impaired in its ability to send communications on
+        its own or on its customers’ behalf (e.g., by causing EpiCypher to become registered on any Email DNS blacklist
+        or otherwise be denied services by any other third party communications service provider);</li>
+      <li class="privacy_policy_content__item">use a Project name or post other material containing offensive,
+        infringing, profane or libelous terms on the Service (in addition to other remedies it has under the Agreement,
+        EpiCypher may remove or modify any such names or materials);</li>
+      <li class="privacy_policy_content__item">transact it, or facilitate activities related to, uncover or make
+        available an individual’s identity without express authorization and consent;</li>
+      <li class="privacy_policy_content__item">engage in cryptocurrency mining or similar activities;</li>
+      <li class="privacy_policy_content__item">engage in any threatening, offensive, illegal or similarly objectionable
+        purposes, including but not limited to, promoting hate, violence, or harm to others, or harm to EpiCypher’s
+        reputation.</li>
+    </ul>
+    <p>
+      Violation of this AUP may lead to suspension or termination of Client’s account or legal action. Client may be
+      required to pay for any costs of investigation or remediation relating to its violation of this AUP.
+    </p>
+    <p>
+      EpiCypher may modify this AUP at any time by posting a new version on its website or on the Service.
+    </p>
+  </main>
+</div>
