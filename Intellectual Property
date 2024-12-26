@@ -1,0 +1,386 @@
+<p style="color: #000 !important">Updated: June 26, 2024</p>
+      <div class="service_accordion product-droppdown">
+        <div class="container">
+          <div id="prodAccordion">
+            <div id="ProductDescription" class="Block Panel current">
+              <h3
+                class="sub-title1"
+                style="
+                  padding-bottom: 7px;
+                  margin-top: 2rem;
+                  border-bottom: 2px solid #525051;
+                  font-size: 1.1rem;
+                  color: #000;
+                "
+              >
+                Trademarks
+              </h3>
+              <div
+                class="ProductDescriptionContainer product-droppdown__section-description-specific"
+                style="padding: 0"
+              >
+                <div style="padding-top: 10px" class="product-documents">
+                  <p style="font-size: 1rem !important; color: #000 !important">
+                    The following is a non-exhaustive list of trademarks and
+                    registered trademarks owned by EpiCypher, Inc in the US and
+                    other countries.
+                  </p>
+                  <ul style="margin-bottom: 0">
+                    <li class="privacy_policy_content__item">EpiCypher™</li>
+                    <li class="privacy_policy_content__item">CUTANA™</li>
+                    <li class="privacy_policy_content__item">EpiDyne™</li>
+                    <li class="privacy_policy_content__item">dCypher™</li>
+                    <li class="privacy_policy_content__item">versaNuc™</li>
+                    <li class="privacy_policy_content__item">SNAP-ChIP™</li>
+                    <li class="privacy_policy_content__item">SNAP-CUTANA™</li>
+                    <li class="privacy_policy_content__item">SNAP-CUT&RUN™</li>
+                    <li class="privacy_policy_content__item">SNAP-CUT&Tag™</li>
+                    <li class="privacy_policy_content__item">
+                      SNAP-Certified™
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="prodAccordion">
+            <div id="ProductDescription" class="Block Panel current">
+              <h3
+                class="sub-title1"
+                style="
+                  padding-bottom: 7px;
+                  margin-top: 2rem;
+                  border-bottom: 2px solid #525051;
+                  font-size: 1.1rem;
+                  color: #000;
+                "
+              >
+                Patents
+              </h3>
+              <div
+                class="ProductDescriptionContainer product-droppdown__section-description-specific"
+                style="padding: 0"
+              >
+                <div style="padding-top: 10px" class="product-documents">
+                  <p style="font-size: 1rem !important; color: #000 !important">
+                    This section serves as notice under 35 U.S.C. § 287 (a) that
+                    at least the following EpiCypher, Inc. products are covered
+                    by one or more of following patents or other patent
+                    applications.
+                  </p>
+                  <h3
+                    style="
+                      margin: 1.5rem auto 7px 40px;
+                      font-weight: 700;
+                      font-size: 1rem !important;
+                    "
+                  >
+                    SNAP Spike-in Products
+                  </h3>
+                  <ul>
+                    <li class="privacy_policy_content__item">
+                      US Pat. No. 10732158, 10087485
+                    </li>
+                    <li class="privacy_policy_content__item">
+                      EU Pat. No. 3102721, 2859139
+                    </li>
+                    <li class="privacy_policy_content__item">
+                      JP Pat. No. 6985010, 6293742
+                    </li>
+                    <li class="privacy_policy_content__item">
+                      CN Pat. No. 2859139
+                    </li>
+                  </ul>
+
+                  <h5
+                    style="
+                      margin-left: 40px;
+                      margin-bottom: 10px;
+                      font-size: 16px !important;
+                    "
+                  >
+                    <u>Related Products </u>
+                  </h5>
+
+                  <table>
+                    <tr>
+                      <td>SNAP-CUTANA™ K-MetStat Panel</td>
+
+                      <td>
+                        <a
+                          href="https://www.epicypher.com/products/nucleosomes/snap-cutana-k-metstat-panel"
+                          >19-1002</a
+                        >
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td>SNAP-ChIP™ K-MetStat Panel</td>
+                      <td>
+                        <a
+                          href="https://www.epicypher.com/products/nucleosomes/snap-chip-k-metstat-panel"
+                          > 19-1001 / 19-1100</a
+                        >
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td>SNAP-ChIP™ K-AcylStat Panel</td>
+                      <td>
+                        <a
+                          href="https://www.epicypher.com/products/nucleosomes/snap-chip-k-acylstat-panel"
+                          > 19-3001 / 19-3100</a
+                        >
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td>SNAP-ChIP™ K-OncoStat Panel</td>
+                      <td>
+                        <a
+                          href="https://www.epicypher.com/products/nucleosomes/snap-chip-oncostat-panel"
+                          > 19-2001 / 19-2100</a
+                        >
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td>CUTANA™ ChIC/CUT&RUN Kit</td>
+                      <td>
+                        <a
+                          href="https://www.epicypher.com/products/epigenetics-reagents-and-assays/cutana-chic-cut-and-run-kit"
+                          >14-1048</a
+                        >
+                      </td>
+                    </tr>
+
+                    <!-- <tr>
+                <td>CUTANA™ CUT&Tag Core Reagents Bundle</td>
+                <td>
+                  <a
+                    href="https://www.epicypher.com/products/epigenetics-kits-and-reagents/cutana-cut-tag-core-reagents-bundle"
+                    >14-1101</a
+                  >
+                </td>
+              </tr> -->
+                  </table>
+
+                  <h3
+                    style="
+                      margin: 1.5rem auto 7px 40px;
+                      font-weight: 700;
+                      font-size: 1rem !important;
+                    "
+                  >
+                    CUT&RUN Products
+                  </h3>
+                  <ul>
+                    <li class="privacy_policy_content__item">
+                      US Pat. No. 7790379, 11885814
+
+                    </li>
+                  </ul>
+                  <h5
+                    style="
+                      margin-left: 40px;
+                      margin-bottom: 10px;
+                      font-size: 16px !important;
+                    "
+                  >
+                    <u>Related Products </u>
+                  </h5>
+
+                  <table>
+                    <tr>
+                      <td>CUTANA™ pAG-MNase for ChIC/CUT&RUN</td>
+                      <td>
+                        <a
+                          href="https://www.epicypher.com/products/epigenetics-reagents-and-assays/cutana-pag-mnase-for-chic-cut-and-run-workflows"
+                          >15-1016 / 15-1116</a
+                        >
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td>CUTANA™ ChIC/CUT&RUN Kit</td>
+                      <td>
+                        <a
+                          href="https://www.epicypher.com/products/epigenetics-reagents-and-assays/cutana-chic-cut-and-run-kit"
+                          >14-1048</a
+                        >
+                      </td>
+                    </tr>
+                  </table>
+
+                  <h3
+                    style="
+                      margin: 1.5rem auto 7px 40px;
+                      font-weight: 700;
+                      font-size: 1rem !important;
+                    "
+                  >
+                    CUT&Tag Products
+                  </h3>
+                  <ul>
+                    <li class="privacy_policy_content__item">
+                      US Pat. No. 10689643, 11306307, 11733248
+                    </li>
+                    <li class="privacy_policy_content__item">
+                      EU Pat. No. 3688157, 2999784
+                    </li>
+                  </ul>
+                  <h5
+                    style="
+                      margin-left: 40px;
+                      margin-bottom: 10px;
+                      font-size: 16px !important;
+                    "
+                  >
+                    <u>Related Products </u>
+                  </h5>
+
+                  <table>
+                    <tr>
+                      <td>CUTANA™ pAG-Tn5 for CUT&Tag</td>
+                      <td>
+                        <a
+                          href="https://www.epicypher.com/products/epigenetics-kits-and-reagents/cutana-pag-tn5-for-cut-and-tag"
+                          >15-1017 / 15-1117</a
+                        >
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td>CUTANA™ Uncharged pAG-Tn5 for CUT&Tag</td>
+                      <td>
+                        <a
+                          href="https://www.epicypher.com/products/epigenetics-kits-and-reagents/cutana-cut-tag-assays/cutana-uncharged-pag-tn5-for-cut-tag"
+                          >15-1025</a
+                        >
+                      </td>
+                    </tr>
+<tr>
+                      <td>CUTANA™ Uncharged 6xHis-pAG-Tn5 for CUT&Tag</td>
+                      <td>
+                        <a
+                          href="https://www.epicypher.com/products/epigenetics-kits-and-reagents/cutana-cut-tag-assays/cutana-uncharged-6xhis-pag-tn5-for-cut-tag"
+                          >15-1028</a
+                        >
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>CUTANA™ Fluorescent pAG-Tn5 for CUT&Tag</td>
+                      <td>
+                        <a
+                          href="https://www.epicypher.com/products/epigenetics-kits-and-reagents/cutana-cut-tag-assays/cutana-fluorescent-pag-tn5-for-cut-tag"
+                          >15-1026</a
+                        >
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>CUTANA™ CUT&Tag Kit</td>
+                      <td>
+                        <a
+                          href="https://www.epicypher.com/products/epigenetics-kits-and-reagents/cutana-cut-and-tag-kit"
+                          >14-1102 / 14-1103</a
+                        >
+                      </td>
+                    </tr>
+                    <!-- <tr>
+                <td>CUTANA™ CUT&Tag Core Reagents Bundle</td>
+                <td>
+                  <a
+                    href="https://www.epicypher.com/products/epigenetics-kits-and-reagents/cutana-cut-tag-core-reagents-bundle"
+                    >14-1101</a
+                  >
+                </td>
+              </tr> -->
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <style>
+        .page-content ul {
+          margin-bottom: 1rem;
+        }
+
+        h5 {
+          margin-top: 0px !important;
+        }
+        table {
+          width: 65%;
+          border: none;
+          margin-left: 40px;
+        }
+        th {
+          text-decoration: underline;
+        }
+        tr {
+          display: flex;
+          justify-content: space-between;
+        }
+        td,
+        th {
+          text-align: left;
+          padding: 0px;
+        }
+        th,
+        td,
+        tr {
+          color: #000;
+          font-size: 1rem !important;
+        }
+        .product-tech-info__line-item {
+          font-size: 1rem !important;
+        }
+        /* Tablet  */
+        @media only screen and (max-width: 768px) {
+          /* Force table to not be like tables anymore */
+          table,
+          thead,
+          tbody,
+          th,
+          td,
+          tr {
+            display: block;
+          }
+          th {
+            display: none !important;
+          }
+
+          /* Hide table headers (but not display: none;, for accessibility) */
+          thead tr {
+            position: absolute;
+            top: -9999px;
+            left: -9999px;
+          }
+
+          tr {
+            margin-bottom: 1rem !important;
+          }
+
+          td {
+            /* Behave  like a "row" */
+            border: none;
+            position: relative;
+            /* padding-left: 50%; */
+            display: flex !important;
+            justify-content: flex-start !important;
+          }
+
+          td:before {
+            /* Now like a table header */
+            /* position: absolute; */
+            /* Top/left values mimic padding */
+            top: 6px;
+            left: 6px;
+            min-width: 47%;
+            text-decoration: underline;
+            font-weight: 700;
+            padding-right: 1rem;
+          }
+        }
+      </style>
