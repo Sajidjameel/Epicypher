@@ -1,0 +1,270 @@
+<!--  ----------------------------------------------------------------------  -->
+<!--  NOTE: Please add the following <META> element to your page <HEAD>.      -->
+<!--  If necessary, please modify the charset parameter to specify the        -->
+<!--  character set of your HTML page.                                        -->
+<!--  ----------------------------------------------------------------------  -->
+
+
+<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
+<script src="https://www.google.com/recaptcha/api.js"></script>
+<script>
+  function timestamp() { var response = document.getElementById("g-recaptcha-response"); if (response == null || response.value.trim() == "") { var elems = JSON.parse(document.getElementsByName("captcha_settings")[0].value); elems["ts"] = JSON.stringify(new Date().getTime()); document.getElementsByName("captcha_settings")[0].value = JSON.stringify(elems); } } setInterval(timestamp, 500); 
+</script>
+
+<!--  ----------------------------------------------------------------------  -->
+<!--  NOTE: Please add the following <FORM> element to your page.             -->
+<!--  ----------------------------------------------------------------------  -->
+
+<p style="
+    border: 2px solid darkgray;
+    color: #000 !important;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 60px;
+    padding: 2px 15px;
+    line-height: 1.35;
+  ">
+  Please fill out the form below to request order information and customer service. EpiCypher operates in the Eastern time zone. Other time zones may experience a slight delay in response.
+</p>
+
+<form id="contactForm"
+  action="https://webto.salesforce.com/servlet/servlet.WebToCase?encoding=UTF-8&orgId=00D1N000002dNN1" method="POST">
+
+  <input type=hidden name='captcha_settings' value='{"keyname":"EpiCypher_Contact_Captcha","fallback":"true","orgId":"00D1N000002dNN1","ts":""}'>
+  <input type=hidden name="orgid" value="00D1N000002dNN1">
+  <input type=hidden name="retURL" value="https://www.epicypher.com/contact-us/orders-customer-service/thank-you">
+  <input type=hidden name="recordType" value="0123l000001hbt2">
+  <input type=hidden name="UTM_Campaign__c" value="contact-us">
+  <input type=hidden name="UTM_Content__c" value="Order Support">
+  <input type=hidden name="UTM_Medium__c" value="form">
+  <input type=hidden name="UTM_Source__c" value="website">
+  <!--  ----------------------------------------------------------------------  -->
+  <!--  NOTE: These fields are optional debugging elements. Please uncomment    -->
+  <!--  these lines if you wish to test in debug mode.                          -->
+  <!--  <input type="hidden" name="debug" value=1>                              -->
+  <!--  <input type="hidden" name="debugEmail"                                  -->
+  <!--  value="marketing@epicypher.com">                                        -->
+  <!--  ----------------------------------------------------------------------  -->
+
+  <style>
+    {
+      box-sizing: border-box;
+    }
+
+    /* Set additional styling options for the columns*/
+
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+      margin-bottom: 2rem;
+    }
+
+    .row {
+      padding: 0px 10px;
+      margin-left: 0px;
+      margin-right: 0px;
+    }
+
+    .column-left {
+      float: left;
+      width: 50%;
+      padding-right: 5px;
+    }
+
+    .column-right {
+      float: right;
+      width: 50%;
+      padding-left: 5px
+    }
+
+    label {
+      clear: left;
+      text-align: left;
+      padding-right: 10 px;
+      font-family: 'Nunito Sans', 'Aria', sans-serif;
+
+    }
+
+    input,
+    text,
+    textarea,
+    label {
+      font-family: 'Nunito Sans', 'Arial', sans-serif;
+    }
+
+    form {
+      clear: left;
+      text-align: left;
+      font-family: 'Nunito Sans' 'Arial', sans-serif;
+    }
+
+    input,
+    select,
+    textarea {
+      background-color: #f5f8fa;
+      border-radius: 10px;
+      padding: 5px 0px 5px 10px;
+      border: solid 1px #919390;
+      width: 100% !important;
+    }
+
+    input,
+    label,
+    textarea {
+      display: flex;
+    }
+
+    input.submit {
+      border-radius: 30px;
+      border-color: #309B42;
+      background-color: #309B42;
+      font-size: 18px;
+      font-weight: bold;
+      color: white;
+      text-align: center;
+      clear: left;
+      display: block;
+      margin: auto;
+      width: 100px !important;
+      padding: 5px 10px 5px 10px;
+    }
+
+    @media (max-width: 850px) {
+
+      .row {
+        margin-bottom: 1rem;
+      }
+
+      .column-left,
+      .column-right {
+        float: none;
+        width: auto;
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+        font-size: 18px;
+      }
+
+      label {
+        font-size: 18px !important;
+        line-height: normal;
+        margin: auto;
+      }
+    }
+  </style>
+  <div class="row">
+    <div class="column-left">
+      <label for="Web_First_Name__c">First Name*</label><input id="Web_First_Name__c" maxlength="40"
+        name="Web_First_Name__c" size="20" type="text" required="ture" />
+    </div>
+    <div class="column-right">
+      <label for="Web_Last_Name__c">Last Name*</label><input id="Web_Last_Name__c" maxlength="80"
+        name="Web_Last_Name__c" size="20" type="text" required="true" />
+    </div>
+    <div class="column-left">
+      <label for="company">Company*</label><input id="company" maxlength="40" name="company" size="20" type="text"
+        required="true" />
+    </div>
+    <div class="column-right">
+      <label for="title">Title</label><input id="title" maxlength="40" name="title" size="20" type="text" />
+    </div>
+  </div>
+  <div class="row">
+    <label for="email">Email*</label><input id="email" maxlength="80" name="email" size="20" type="email"
+      required="true" />
+  </div>
+  <div class="row">
+    <label for="description">Message</label><textarea name="description"></textarea>
+  </div>
+  <span style="font-family:Nunito,Arial,sans-serif">By clicking "Submit", you are agreeing to EpiCypher's</span>
+  <a href="https://www.epicypher.com/privacy/" style="font-family: Nunito, Arial, sans-serif;">Privacy Policy.</a>
+
+  <br>
+  <br>
+
+  <div class="g-recaptcha" data-sitekey="6Lf7DFkpAAAAAPOXEvEyOGVBsST826QGRiGS2KB_"></div><br>
+
+  <input type="submit" name="submit" class="submit">
+
+</form>
+
+
+<script>
+  function getUTMParameter(name) {
+    let result = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+    return result === null ? '' : decodeURIComponent(result[1]) || '';
+  }
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelector("input[name='UTM_Campaign__c']").value = getUTMParameter('utm_campaign');
+    document.querySelector("input[name='UTM_Content__c']").value = getUTMParameter('utm_content');
+    document.querySelector("input[name='UTM_Medium__c']").value = getUTMParameter('utm_medium');
+    document.querySelector("input[name='UTM_Source__c']").value = getUTMParameter('utm_source');
+    document.querySelector("input[name='UTM_Term__c']").value = getUTMParameter('utm_term');
+  });
+</script>
+
+<script>
+  const blacklistedDomains = ["rightbliss.beauty", "mail.ru", "bk.ru", "list.ru", "inbox.ru"];
+
+  function isEmailBlacklisted(email) {
+    const domain = email.split('@')[1];
+    return blacklistedDomains.includes(domain);
+  }
+
+  async function sendBlockedAttempt(email) {
+    const userIp = await fetch('https://api.ipify.org?format=json').then(response => response.json()).then(data => data.ip);
+    const blockedAttempt = { email, time: new Date().toISOString(), ip: userIp };
+
+    await fetch('https://us-central1-epi-spam-block.cloudfunctions.net/captureBlockedAttempt', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(blockedAttempt)
+    });
+  }
+
+  document.getElementById('contactForm').addEventListener('submit', async function (event) {
+    const emailInput = document.getElementById('email');
+    const email = emailInput.value;
+
+    if (isEmailBlacklisted(email)) {
+      event.preventDefault();
+      alert("This email domain is not allowed.");
+      await sendBlockedAttempt(email);
+    }
+  });
+</script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const formSubmitButton = document.querySelector("#contactForm .submit");
+    formSubmitButton.setAttribute("disabled", true);
+
+    function validateForm() {
+      const recaptchaResponse = grecaptcha.getResponse();
+      const requiredFields = document.querySelectorAll("#contactForm input[required], #contactForm textarea[required]");
+      const allFieldsValid = Array.from(requiredFields).every(field => field.value.trim() !== "");
+
+      if (recaptchaResponse !== '' && allFieldsValid) {
+        formSubmitButton.removeAttribute("disabled");
+      } else {
+        formSubmitButton.setAttribute("disabled", true);
+      }
+    }
+
+    // Trigger form validation on required fields change
+    const requiredFields = document.querySelectorAll("#contactForm input[required], #contactForm textarea[required]");
+    requiredFields.forEach(field => {
+      field.addEventListener("input", validateForm);
+    });
+
+    // Ensure the reCAPTCHA callback is called when it's completed
+    window.recaptchaCallback = validateForm;
+
+    // Check reCAPTCHA state periodically
+    setInterval(validateForm, 500);
+  });
+</script>
