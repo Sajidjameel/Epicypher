@@ -1,0 +1,575 @@
+<div class="container container-small">
+    <div>
+      <p style="text-align: center; color: black !important">
+        The list of upcoming epigenetics conferences was last updated on
+        June 10, 2024.
+        To stay updated with the latest
+        epigenetic events, <a href="#pardotForm">subscribe below.</a>
+      </p>
+    </div>
+  
+    <table>
+    <tr>
+      <th>Start</th>
+      <th>End</th>
+      <th>Organizer</th>
+      <th>Name</th>
+      <th>Location</th>
+    </tr>
+  
+    <tr>
+      <td>1/10/2025</td>
+      <td>1/15/2025</td>
+      <td>PAG</td>
+      <td><a target="_blank" href="https://www.intlpag.org/2025/?__cf_chl_tk=BosNAtqcFXGEu9ju8lN6AhcKfxfG6FH3_QlmU3XPLmc-1724830500-0.0.1.1-7359">International Plant & Animal Genome</a></td>
+      <td>San Diego, CA</td>
+    </tr>
+    
+    <tr>
+      <td>1/12/2025</td>
+      <td>1/15/2025</td>
+      <td>Keystone</td>
+      <td><a target="_blank" href="https://www.keystonesymposia.org/conferences/conference-listing/meeting?eventid=7129">Precision Oncology: Emerging Technologies & Implementation</a></td>
+      <td>Breckenridge, CO</td>
+    </tr>
+  
+    <tr>
+      <td>1/25/2025</td>
+      <td>1/29/2025</td>
+      <td>SLAS</td>
+      <td><a target="_blank" href="https://www.slas.org/events-calendar/slas2025-international-conference-exhibition/">SLAS 2025 Conference</a></td>
+      <td>San Diego, CA</td>
+    </tr>
+  
+    <tr>
+      <td>1/29/2025</td>
+      <td>1/30/2025</td>
+      <td>Festival of Genomics</td>
+      <td><a target="_blank" href="https://festivalofgenomics.com/london/en/page/home">Festival of Genomics & Biodata London</a></td>
+      <td>ExCeL, London</td>
+    </tr>
+  
+    <tr>
+      <td>2/1/2025</td>
+      <td>2/4/2025</td>
+      <td>AACR</td>
+      <td><a target="_blank" href="https://www.aacr.org/meeting/aacr-special-conference-on-dna-methylation-clonal-hematopoiesis-and-cancer/">AACR Special Conference in Cancer Research: DNA Methylation, Clonal Hematopoiesis, and Cancer</a></td>
+      <td>San Diego, CA</td>
+    </tr>
+  
+    <tr>
+      <td>2/5/2025</td>
+      <td>2/7/2025</td>
+      <td>PMWC</td>
+      <td><a target="_blank" href="https://pmwcintl.com/">PMWC 2025</a></td>
+      <td>Silicon Valley, CA</td>
+    </tr>
+  
+    <tr>
+      <td>2/16/2025</td>
+      <td>2/21/2025</td>
+      <td>GRC</td>
+      <td><a target="_blank" href="https://www.grc.org/quantitative-genetics-and-genomics-conference/2025/">Quantitative Genetics and Genomics</a></td>
+      <td>Lucca, Italy</td>
+    </tr>
+  
+    <tr>
+      <td>2/23/2025</td>
+      <td>2/26/2025</td>
+      <td>AGBT</td>
+      <td><a target="_blank" href="https://www.agbt.org/events/general-meeting/">AGBT Annual Meeting</a></td>
+      <td>Marco Island, FL</td>
+    </tr>
+  
+    <tr>
+      <td>3/3/2025</td>
+      <td>3/6/2025</td>
+      <td>Keystone</td>
+      <td><a target="_blank" href="https://www.keystonesymposia.org/conferences/conference-listing/meeting?eventid=7110">Precision Genome Engineering: Translating the Human Genome to the Clinic</a></td>
+      <td>Killarney, Ireland</td>
+    </tr>
+  
+    <tr>
+      <td>3/12/2025</td>
+      <td>3/14/2025</td>
+      <td>Wellcome Connecting Science</td>
+      <td><a target="_blank" href="https://coursesandconferences.wellcomeconnectingscience.org/event/epigenomics-of-common-diseases-20250312/#:~:text=The%20conference%20will%20run%20from,New%20frontiers%20in%20epigenomic%20technologies">Epigenomics of Common Diseases</a></td>
+      <td>Hinxton, Cambridge</td>
+    </tr>
+  
+    <tr>
+      <td>3/21/2025</td>
+      <td>3/24/2025</td>
+      <td>ABRF</td>
+      <td><a target="_blank" href="https://web.cvent.com/event/924ddc5d-0069-463a-b1e4-3a483680f421/summary">ABRF Annual Meeting</a></td>
+      <td>Las Vegas, NV</td>
+    </tr>
+  
+    <tr>
+      <td>3/30/2025</td>
+      <td>4/2/2025</td>
+      <td>Keystone</td>
+      <td><a target="_blank" href="https://www.keystonesymposia.org/conferences/conference-listing/meeting?eventid=7092">Epigenetics in Development and Disease</a></td>
+      <td>Banff, Canada</td>
+    </tr>
+  
+    <tr>
+      <td>3/30/2025</td>
+      <td>4/4/2025</td>
+      <td>GRC</td>
+      <td><a target="_blank" href="https://www.grc.org/developmental-biology-conference/2025/">Developmental Biology</a></td>
+      <td>Pomona, CA</td>
+    </tr>
+  
+    <tr>
+      <td>3/30/2025</td>
+      <td>4/4/2025</td>
+      <td>GRC</td>
+      <td><a target="_blank" href="https://www.grc.org/stem-cells-and-cancer-conference/2025/">Stem Cells and Cancer</a></td>
+      <td>Ventura, CA</td>
+    </tr>
+  
+    <tr>
+      <td>3/31/2025</td>
+      <td>4/2/2025</td>
+      <td>AGBT Ag</td>
+      <td><a target="_blank" href="https://www.agbt.org/events/agricultural-meeting-overview/">AGBT AG 25</a></td>
+      <td>Orlando, FL</td>
+    </tr>
+  
+    <tr>
+      <td>4/6/2025</td>
+      <td>4/11/2025</td>
+      <td>GRC</td>
+      <td><a target="_blank" href="https://www.grc.org/functional-genomics-of-human-brain-development-and-disease-conference/2025/">Functional Genomics of Human Brain Development and Disease</a></td>
+      <td>Ventura, CA</td>
+    </tr>
+  
+    <tr>
+      <td>4/12/2025</td>
+      <td>4/15/2025</td>
+      <td>ASBMB</td>
+      <td><a target="_blank" href="https://www.asbmb.org/">American Society for Biochemistry and Molecular Biology</a></td>
+      <td>Chicago, IL</td>
+    </tr>
+  
+    <tr>
+      <td>4/25/2025</td>
+      <td>4/30/2025</td>
+      <td>AACR</td>
+      <td><a target="_blank" href="https://www.aacr.org/meeting/aacr-annual-meeting-2025/">Annual Meeting 2025</a></td>
+      <td>Chicago, IL</td>
+    </tr>
+  
+    <tr>
+      <td>4/27/2025</td>
+      <td>4/30/2025</td>
+      <td>Keystone</td>
+      <td><a target="_blank" href="https://www.keystonesymposia.org/conferences/conference-listing/https:/www.keystonesymposia.org/conferences/conference-listing/meeting?eventid=7094?eventid=7094">DNA Replication Gaps, Cancer and Disease</a></td>
+      <td>Daejeon, Korea</td>
+    </tr>
+  
+    <tr>
+      <td>5/11/2025</td>
+      <td>5/14/2025</td>
+      <td>Keystone</td>
+      <td><a target="_blank" href="https://www.keystonesymposia.org/conferences/conference-listing/meeting?eventid=7077">Single Cell Biology: Unique Cells to Tissue Ecosystems</a></td>
+      <td>Whistler, Canada</td>
+    </tr>
+  
+    <tr>
+      <td>5/13/2025</td>
+      <td>5/16/2025</td>
+      <td>EMBL</td>
+      <td><a target="_blank" href="https://www.embl.org/about/info/course-and-conference-office/events/chr25-01/">Chromatin and epigenetics</a></td>
+      <td>Heidelberg, Germany</td>
+    </tr>
+  
+    <tr>
+      <td>5/18/2025</td>
+      <td>5/22/2025</td>
+      <td>FASEB</td>
+      <td><a target="_blank" href="https://events.faseb.org/event/86480400-b66c-4ab8-84c3-df90648c8171/summary">Machines on Genes</a></td>
+      <td>Nashville, TN</td>
+    </tr>
+  
+    <tr>
+      <td>5/18/2025</td>
+      <td>5/23/2025</td>
+      <td>GRC</td>
+      <td><a target="_blank" href="https://www.grc.org/cancer-genetics-and-epigenetics-conference/2025/">Cancer Genetics and Epigenetics</a></td>
+      <td>Lucca, Italy</td>
+    </tr>
+  
+    <tr>
+      <td>6/10/2025</td>
+      <td>6/13/2025</td>
+      <td>EMBO/EMBL</td>
+      <td><a target="_blank" href="https://www.embl.org/about/info/course-and-conference-office/events/ees25-05/">The ageing genome: from mechanisms to disease</a></td>
+      <td>Heidelberg, Germany</td>
+    </tr>
+  
+    <tr>
+      <td>6/15/2025</td>
+      <td>6/18/2025</td>
+      <td>EMBL</td>
+      <td><a target="_blank" href="https://www.embl.org/about/info/course-and-conference-office/events/grg25-01/">Gene regulation: one molecule at a time</a></td>
+      <td>Heidelberg, Germany</td>
+    </tr>
+  
+    <tr>
+      <td>6/15/2025</td>
+      <td>6/20/2025</td>
+      <td>GRC</td>
+      <td><a target="_blank" href="https://www.grc.org/genome-architecture-in-cell-fate-and-disease-conference/2025/">Genome Architecture in Cell Fate and Disease</a></td>
+      <td>Ventura, CA</td>
+    </tr>
+  
+    <tr>
+      <td>6/15/2025</td>
+      <td>6/20/2025</td>
+      <td>EMBO</td>
+      <td><a target="_blank" href="https://www.embl.org/about/info/course-and-conference-office/events/iso25-01/">Imaging-based spatial-omics</a></td>
+      <td>Heidelberg, Germany</td>
+    </tr>
+  
+    <tr>
+      <td>6/16/2025</td>
+      <td>6/19/2025</td>
+      <td>BIO</td>
+      <td><a target="_blank" style="text-decoration: none; color:black;" >BIO 2025 Boston (BIO International Convention)</a></td>
+      <td>Boston, MA</td>
+    </tr>
+  
+    <tr>
+      <td>6/22/2025</td>
+      <td>6/27/2025</td>
+      <td>GRC</td>
+      <td><a target="_blank" href="https://www.grc.org/chromosome-dynamics-conference/2025/">Chromosome Dynamics</a></td>
+      <td>Newry, MN</td>
+    </tr>
+  
+    <tr>
+      <td>7/6/2025</td>
+      <td>7/11/2025</td>
+      <td>GRC</td>
+      <td><a target="_blank" href="https://www.grc.org/human-genetics-and-genomics-conference/2025/">Human Genetics and Genomics</a></td>
+      <td>Portland, MN</td>
+    </tr>
+  
+    <tr>
+      <td>7/13/2025</td>
+      <td>7/18/2025</td>
+      <td>GRC</td>
+      <td><a target="_blank" href="https://www.grc.org/ecological-and-evolutionary-genomics-conference/2025/">Ecological and Evolutionary Genomics</a></td>
+      <td>Lucca, Italy</td>
+    </tr>
+  
+    <tr>
+      <td>7/20/2025</td>
+      <td>7/24/2025</td>
+      <td>FASEB</td>
+      <td><a target="_blank" href="https://events.faseb.org/event/7d836094-4d69-4aba-ba36-e2e6288938a7/summary">Mobile DNA: Mechanisms and Health Impact</a></td>
+      <td>Porto, Portugal</td>
+    </tr>
+  
+    <tr>
+      <td>7/20/2025</td>
+      <td>7/25/2025</td>
+      <td>GRC</td>
+      <td><a target="_blank" href="https://www.grc.org/histone-and-dna-modifications-conference/2025/">Histone and DNA Modifications</a></td>
+      <td>Lucca, Italy</td>
+    </tr>
+  
+    <tr>
+      <td>8/3/2025</td>
+      <td>8/7/2025</td>
+      <td>FASEB</td>
+      <td><a target="_blank" href="https://events.faseb.org/event/ffff10c3-2bec-4983-83c6-687c9751bd53/summary">Molecular Mechanisms of Immune Cells</a></td>
+      <td>Niagara Falls, NY</td>
+    </tr>
+  
+    <tr>
+      <td>8/10/2025</td>
+      <td>8/15/2025</td>
+      <td>GRC</td>
+      <td><a target="_blank" href="https://www.grc.org/epigenetics-conference/2025/">Epigenetic Variation: Mechanisms and Impact across Systems</a></td>
+      <td>Castelldefels, Spain</td>
+    </tr>
+  
+    <tr>
+      <td>8/10/2025</td>
+      <td>8/15/2025</td>
+      <td>GRC</td>
+      <td><a target="_blank" href="https://www.grc.org/single-cell-approaches-in-plant-biology-conference/2025/">Single-Cell Approaches in Plant Biology</a></td>
+      <td>Portland, MN</td>
+    </tr>
+  
+    <tr>
+      <td>10/28/2025</td>
+      <td>10/30/2025</td>
+      <td>EMBO</td>
+      <td><a target="_blank" href="https://www.embl.org/about/info/course-and-conference-office/events/etc25-01/">The epitranscriptome</a></td>
+      <td>Heidelberg, Germany</td>
+    </tr>
+  
+    <tr>
+      <td>11/2/2025</td>
+      <td>11/7/2025</td>
+      <td>EpiCypher</td>
+      <td><a target="_blank" href="" style="color:black; text-decoration: none;">EpiCypher 2025</a></td>
+      <td>Cancun, Mexico</td>
+    </tr>
+  
+    <tr>
+      <td>11/4/2025</td>
+      <td>11/7/2025</td>
+      <td>EMBL</td>
+      <td><a target="_blank" href="https://www.embl.org/about/info/course-and-conference-office/events/mge25-01/">The mobile genome: genetic and physiological impacts of transposable elements</a></td>
+      <td>Heidelberg, Germany</td>
+    </tr>
+  
+    <tr>
+      <td>11/11/2025</td>
+      <td>11/14/2025</td>
+      <td>EMBL</td>
+      <td><a target="_blank" href="https://www.embl.org/about/info/course-and-conference-office/events/can25-01/">Cancer genomics</a></td>
+      <td>Heidelberg, Germany</td>
+    </tr>
+  
+    <tr>
+      <td>11/18/2025</td>
+      <td>11/21/2025</td>
+      <td>EMBO/EMBL</td>
+      <td><a target="_blank" href="https://www.embl.org/about/info/course-and-conference-office/events/ees25-07/">Cell biology of the nucleus</a></td>
+      <td>Heidelberg, Germany</td>
+    </tr>
+  </table>
+    <p style="color: #3b3a48 !important">*This event is hybrid</p>
+    <div class="form-section">
+      <iframe id="pardotForm" src="https://explore.epicypher.com/l/1022653/2024-02-14/8sbnt" height="350" type="text/html"
+        frameborder="0" allowtransparency="true"></iframe>
+    </div>
+  
+    <h2 class="past-conferences">Past Conferences</h2>
+  
+    <p>
+      <a href="https://www.epicypher.com/epigenetics-conferences/2022" target="_blank">2022 Epigenetic Conferences</a>
+    </p>
+    <p>
+      <a href="https://www.epicypher.com/epigenetics-conferences/2023" target="_blank">2023 Epigenetic Conferences</a>
+    </p>
+  <p>
+  <a href="/resources/epigenetics-conferences" target="_blank">2024 Epigenetic Conferences</a>
+  </p>
+    <div>
+      <style>
+        @media only screen and (max-width: 778px) {
+          .form-section {
+            height: 273px !important;
+            margin-bottom: 60px;
+          }
+        }
+  
+        #pardotForm {
+          width: 100vw;
+          position: relative;
+          left: 50%;
+          right: 50%;
+          margin-left: -50vw;
+          margin-right: -50vw;
+        }
+  
+        iframe {
+          max-width: 100vw !important;
+        }
+  
+        .form-section {
+          width: 100vw;
+          height: 252px;
+          background-color: #4698cb;
+          position: relative;
+          left: 50%;
+          right: 50%;
+          margin-left: -50vw;
+          margin-right: -50vw;
+          margin-bottom: 60px;
+        }
+  
+        .past-conferences {
+          text-align: center;
+          font-size: 2.25rem;
+          font-weight: 400;
+          line-height: 45px;
+        }
+  
+        table {
+          margin-right: auto;
+          margin-left: auto;
+          width: 100%;
+          border-top: 1px solid lightgray;
+        }
+  
+        th {
+          color: #3b3a48;
+        }
+  
+        td {
+          color: #3b3a48;
+          font-size: 0.9rem;
+        }
+  
+        td a {
+          text-decoration: underline;
+        }
+  
+        td,
+        th {
+          border: 0.5px solid lightgray;
+          text-align: left;
+          padding: 8px;
+          /* white-space: nowrap; */
+        }
+  
+        tr:nth-child(even) {
+          background-color: #f9f9f9;
+        }
+  
+        td:first-child {
+          border-left: 1px solid lightgray;
+        }
+  
+        /* tr:hover {
+                          background-color: #ffff99;
+                        } */
+  
+        /* Tablet  */
+  
+      
+      <style>
+        .pdf-link {
+          font-size: 14px !important;
+        }
+  
+        .pdf-link a {
+          color: #4698cb;
+        }
+  
+        .pdf-link a:hover {
+          color: #4698cb;
+          text-decoration: underline;
+        }
+  
+        tr td:nth-last-of-type(1) {
+          width: 15%;
+        }
+  
+        tr td:nth-last-of-type(2) {
+          width: 42%;
+        }
+  
+        tr td:nth-last-of-type(3) {
+          width: 13%;
+        }
+  
+        tr td:nth-last-of-type(4) {
+          width: 10%;
+        }
+  
+        tr td:nth-last-of-type(5) {
+          width: 10%;
+        }
+  
+        a {
+          color: #4698cb;
+        }
+  
+        .page-content a,
+        .product-description a,
+        .blog-content a {
+          color: #4698cb;
+        }
+      </style>
+      <style>
+      @media only screen and (max-width: 760px),
+      (min-device-width: 760px) and (max-device-width: 1024px) {
+  
+        /* Force table to not be like tables anymore */
+        table,
+        thead,
+        tbody,
+        th,
+        td,
+        tr {
+          display: block;
+        }
+  
+        th {
+          display: none !important;
+        }
+  
+        /* Hide table headers (but not display: none;, for accessibility) */
+        thead tr {
+          position: absolute;
+          top: -9999px;
+          left: -9999px;
+        }
+  
+        tr {
+          border: 1px solid #ccc;
+        }
+  
+        td {
+          /* Behave  like a "row" */
+          border: none;
+          border-bottom: 1px solid #eee;
+          position: relative;
+          padding-left: 30%;
+          white-space: inherit;
+        }
+  
+        td:before {
+          /* Now like a table header */
+          position: absolute;
+          /* Top/left values mimic padding */
+          top: 6px;
+          left: 6px;
+          width: 45%;
+          padding-right: 10px;
+          white-space: nowrap;
+          font-weight: 700;
+        }
+        tr td:nth-last-of-type(2) ,   
+        tr td:nth-last-of-type(1),
+        tr td:nth-last-of-type(3),
+        tr td:nth-last-of-type(4),
+        tr td:nth-last-of-type(5){
+                width: 100%;
+              }
+        /*
+                        Label the data
+                        */
+        td:nth-of-type(1):before {
+          content: "Start";
+        }
+  
+        td:nth-of-type(2):before {
+          content: "End";
+        }
+  
+        td:nth-of-type(3):before {
+          content: "Organizer";
+        }
+  
+        td:nth-of-type(4):before {
+          content: "Name";
+        }
+  
+        td:nth-of-type(5):before {
+          content: "Location";
+        }
+      }
+      </style>
+  
+    </div>
+  </div>
