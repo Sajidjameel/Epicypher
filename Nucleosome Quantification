@@ -1,0 +1,52 @@
+<div class="Service_page_main">
+  <div class="have_ques">
+    <div class="container">
+      <div class="have_question_left">
+        <p style="color: #000 !important">
+          In order to report the concentration of recombinant nucleosomes,
+          EpiCypher measures the absorbance of the nucleosome at 260nm. The
+          observed signal is attributed to double stranded DNA (dsDNA)
+          absorbance. Using a standard, generally accepted conversion factor of
+          1 Abs = 50 ng - cm/μL for dsDNA, this absorbance is converted to a
+          concentration (ng/μL) using the Beer-Lambert law. As both the DNA and
+          histone octamer components are fully defined in the case of
+          recombinant nucleosomes, the computed concentration of DNA is
+          converted to concentration of nucleosome using the respective
+          molecular weights of these components.
+        </p>
+        <p style="color: #000 !important">
+          Click the button below for a complete list of our available
+          nucleosomes. We also offer
+          <a href="/services/custom-nucleosome-development"
+            >custom nucleosome development services</a
+          >
+          which unlocks access to unprecedented diversity.
+        </p>
+        <div style="margin-top: 3rem" class="about-us__button">
+          <a
+            class="button blog-content-button"
+            href="https://pubmed.ncbi.nlm.nih.gov/32654410/"
+            style="
+              color: white;
+              padding: 9px 16px 9px 18px;
+              border-radius: 16px;
+              font-size: 20px;
+              font-weight: 600;
+              border-radius: 53px;
+            "
+          >
+            Nucleosome Complete List</a
+          >
+        </div>
+      </div>
+      <div class="have_ques_right">
+        <h3>Have Questions?</h3>
+        <p style="color: #000 !important">
+          We're here to help. Click below and a member of our team will get back
+          to you shortly!
+        </p>
+        <a href="/contact-us/request-more-information">Request More info</a>
+      </div>
+    </div>
+  </div>
+</div>
