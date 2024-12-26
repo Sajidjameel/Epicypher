@@ -1,0 +1,652 @@
+<!-- {{#partial "page"}}
+<div class="custom_{{page.title}}">
+  <header class="page-header" style="display: none">
+    {{> components/common/breadcrumbs breadcrumbs}}
+    <h1 class="page-title">{{page.title}}</h1>
+  </header>
+  {{{snippet 'page.id[7].content'}}}
+  <div class="cut_page cut-and-run">
+    <section class="section">
+      <div class="container container-small">
+        <article class="page-content cms-page">
+          {{#replace '%%Syndicate%%' page.content}} {{> components/page/rss}}
+          {{else}} -->
+<div class="cut_tag_banner">
+  <div class="back-img cutana-kit-img" style="padding-left: 60%">
+    <img
+      src="https://cdn11.bigcommerce.com/s-y9o92/images/stencil/original/image-manager/cut-tag-banner.jpg"
+      alt="cut-and-tag-box"
+      style="border: none; max-width: 400px" />
+  </div>
+  <div class="banner-cont">
+    <div class="container" style="padding-top: 2rem">
+      <div class="banner-cont-inner">
+        <h1>CUTANA™ CUT&Tag Kit</h1>
+        <div>
+          <a
+            href="/products/epigenetics-kits-and-reagents/cutana-cut-and-tag-kit"
+            class="main-button button-products"
+            >Order Now</a
+          >
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="have_ques" style="padding-top: 0">
+  <div class="container">
+    <div class="have_ques_left">
+      <h2>Ultra-sensitive. Rapid results. Rigorously tested.</h2>
+      <p style="hyphens: none">
+        Cleavage Under Targets and Tagmentation (CUT&Tag) assays use a fusion of
+        protein A, protein G, and Tn5 (pAG-Tn5) to selectively target
+        antibody-labelled chromatin for high-resolution sequencing analysis.
+        These innovations enable low-cost mapping from small numbers of cells –
+        poising CUT&Tag to enable epigenomic studies of unprecedented breadth
+        and scale.
+      </p>
+      <p style="hyphens: none">
+        EpiCypher is a leading provider of user-friendly CUT&Tag reagents and
+        workflows. The CUTANA™ CUT&Tag Kit is the result of our rigorous
+        optimization efforts and has been intentionally designed for rapid
+        throughput and accessible pricing. Advantages include:
+      </p>
+    </div>
+    <div class="have_ques_right">
+      <h3>Have Questions?</h3>
+      <p>
+        We’re here to help. Click below and a member of our team will get back
+        to you shortly!
+      </p>
+      <a href="/contact-us/orders-customer-service/">Request More Info</a>
+    </div>
+    <div class="have_ques_bottom">
+      <ul>
+        <li>Streamlined two-day protocol with no library prep</li>
+        <li>Exclusive single-tube workflow maximizes yield</li>
+        <li>Reliable profiling using low cell numbers</li>
+        <li>Dramatically reduced assay costs</li>
+        <li>Comprehensive kit goes from cells to sequence-ready DNA</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="tech_generatessec">
+  <div class="generat-inner">
+    <div class="generat-title">
+      <h2>Robust signal in active and repressed chromatin</h2>
+    </div>
+    <div class="generat-img">
+      <img
+        style="max-width: 830px; width: 100%"
+        src="/content/images/cut-and-tag-kit/diverse-targets.png"
+        alt="diverse-targets" />
+    </div>
+    <div class="back kit-back">
+      <div class="generat-con">
+        <p>
+          CUTANA™ CUT&Tag maps histone PTMs at active regulatory elements
+          (H3K4me1) and promoters (H3K4me3), constitutive (H3K9me3) and
+          facultative (H3K27me3) heterochromatin and active gene bodies
+          (H3K36me2/me3) in K562 cells. CUT&Tag is not recommended for
+          chromatin-associated proteins.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="spike_in_experiment">
+  <div class="container">
+    <div class="spikein_experi experi-a">
+      <div class="spikein_experi_inner cf">
+        <div class="spikein_experi_cont">
+          <h2 style="line-height: normal">
+            High-quality chromatin mapping from low cell numbers
+          </h2>
+          <p style="hyphens: none">
+            The CUTANA™ CUT&Tag protocol generates data with high signal over
+            background using as few as 10,000 cells and only 5-8 million
+            sequencing reads.
+          </p>
+          <p style="hyphens: none">
+            These advances are driven by EpiCypher’s one-tube CUT&Tag workflow,
+            which minimizes sample loss and increases throughput. Combined with
+            low sequencing depth requirements, our kit provides substantial cost
+            savings vs. ChIP-seq.
+          </p>
+        </div>
+        <div class="spikein_experi_img">
+          <a
+            class="imglink spotlight"
+            href="/content/images/cut-and-tag-kit/low-input-tracks.png"
+            target="_blank">
+            <img
+              src="/content/images/cut-and-tag-kit/low-input-tracks.png"
+              alt="low-input-tracks" />
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="spikein_experi experi-b">
+      <div class="spikein_experi_inner cf" style="flex-direction: row-reverse">
+        <div class="spikein_experi_cont">
+          <h2 style="line-height: normal">
+            Reliable workflow supported by robust controls
+          </h2>
+          <p>
+            EpiCypher scientists have developed a user-friendly protocol that is
+            highly consistent across assay replicates. The CUTANA™ CUT&Tag Kit
+            comes with all the controls and guidance you need for successful
+            experiments:
+          </p>
+          <ul>
+            <li>Control antibodies</li>
+            <li>Nucleosome spike-in controls</li>
+            <li>Detailed quality control metrics</li>
+            <li>Troubleshooting tips</li>
+          </ul>
+        </div>
+        <div class="spikein_experi_img">
+          <a
+            class="imglink spotlight"
+            href="/content/images/cut-and-tag-kit/low-input-tracks.png"
+            target="_blank">
+            <img
+              src="/content/images/cut-and-tag-kit/reliable-workflow.png"
+              alt="reliable-workflow" />
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="spikein_experi experi-c">
+      <div class="spikein_experi_inner cf">
+        <div class="spikein_experi_cont">
+          <h2 style="padding-top: 2.5rem; line-height: normal">
+            Compatible with diverse sample processing conditions
+          </h2>
+          <p>
+            The CUTANA™ CUT&Tag Kit was used to map H3K4me3 in native (unfixed)
+            nuclei, native cells, and lightly cross-linked nuclei, using
+            protocol adaptations outlined in the manual. Results are consistent
+            across sample preparations, expanding the application of CUT&Tag to
+            additional sample types and targets.
+          </p>
+        </div>
+        <div class="spikein_experi_img">
+          <a
+            class="imglink spotlight"
+            href="/content/images/cut-and-tag-kit/low-input-tracks.png"
+            target="_blank">
+            <img
+              style="width: 85%"
+              src="/content/images/cut-and-tag-kit/processing-conditions.png"
+              alt="processing-conditions" />
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div
+  class="cut_run_kit_buy_button"
+  style="flex-direction: column; align-items: center; padding-top: 4em">
+  <h1 style="text-align: center; margin-bottom: 0">
+    Fast-track your chromatin profiling:
+  </h1>
+  <h1 style="text-align: center; margin-top: 0">
+    Save time and costs with CUTANA™ CUT&Tag Kits
+  </h1>
+  <div>
+    <img
+      style="max-width: 900px; width: 100%"
+      src="/content/images/cut-and-tag-kit/tag-timeline.png"
+      alt="tag-timeline" />
+  </div>
+  <a
+    class="cut_run_kit_button_img"
+    href="/products/epigenetics-kits-and-reagents/cutana-cut-and-tag-kit"
+    >Buy the CUTANA CUT&Tag Kit
+  </a>
+</div>
+
+<div class="tech_generatessec" style="padding-top: 4rem">
+  <div class="generat-inner">
+    <div class="generat-title">
+      <h1 style="margin-bottom: 0">
+        CUTANA™ CUT&Tag Kit – A Look Inside the Box!
+      </h1>
+      <h2 style="font-weight: 400">
+        Everything you need for high-quality chromatin mapping
+      </h2>
+    </div>
+    <div class="generat-img">
+      <img
+        style="max-width: 500px; width: 100%"
+        src="/content/images/cut-and-tag-kit/kit-contents-no-border.png"
+        alt="kit-contents" />
+    </div>
+    <div
+      class="back kit-back"
+      style="
+        height: 389px;
+        /* margin-top: 355px; */
+        background-color: #e5e5e5;
+        color: #000;
+      ">
+      <div class="generat-con" style="padding-top: 215px"></div>
+    </div>
+  </div>
+</div>
+
+<div class="slideshow-wrapper">
+  <div class="slideshow-content" style="width: 55%">
+    <h2 style="color: #4698cb; font-size: 1.7rem; font-weight: 600">
+      The CUTANA™ CUT&Tag Kit Manual
+    </h2>
+    <p>
+      The CUTANA™ CUT&Tag Manual is a complete guide to CUT&Tag experiments. It
+      leverages EpiCypher’s own research & development to help users plan and
+      execute successful CUT&Tag assays. In addition to our user-friendly
+      protocol, we provide key guidance on:
+    </p>
+    <ul>
+      <li>
+        Optimizing assays for new cell types, targets, or low cell numbers
+      </li>
+      <li>How to identify suitable antibodies for CUT&Tag</li>
+      <li>Quality control metrics for before and after sequencing</li>
+      <li>Selecting an appropriate sequencing platform</li>
+      <li>Troubleshooting difficult assays</li>
+      <li>and much more!</li>
+    </ul>
+    <p>
+      The kit also comes with a two-sided protocol quick card to keep at your
+      bench while performing CUT&Tag assays.
+    </p>
+  </div>
+  <div class="slideshow" style="width: 45%">
+    <div class="image-content">
+      <a href=""
+        ><img
+          id="robust-sample-img"
+          class="mySlides"
+          alt="tag-manual-img"
+          src="/content/images/cut-and-tag-kit/cut-and-tag-manual.png"
+      /></a>
+    </div>
+    <a
+      style="margin-right: auto; margin-left: auto"
+      href="/resources/protocols/cutana-cut-and-tag-kit-manual">
+      <button
+        style="
+          background: #4698cb;
+          color: #fff;
+          padding: 5px 36px 5px 38px;
+          border-radius: 53px;
+          font-size: 20px;
+          font-weight: 600;
+          width: fit-content;
+        ">
+        View Manual
+      </button></a
+    >
+    <!-- Extra plusDivs parameter refers to second (1) slideshow (start from 0) -->
+  </div>
+</div>
+
+<div id="related_products" class="related_pro_sec">
+  <div class="container">
+    <div class="related-title">
+      <h2>Related Products</h2>
+    </div>
+    <div class="tab_title">
+      <div class="tabs_content">
+        <div
+          role="tabpanel"
+          aria-hidden="false"
+          class="tab-content has-jsContent is-active"
+          id="tabSnapChIPSpike">
+          <div class="product-listing-grid">
+            <div class="listing-wrapper Snap"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- {{/replace}} {{#if page.feed}}
+          <ul class="page-feed">
+            {{#each page.feed}}
+            <li>
+              <h6><a href="{{url}}" target="_blank">{{title}}</a></h6>
+              <p>{{{content}}}</p>
+            </li>
+            {{/each}}
+          </ul>
+          {{/if}}
+        </article>
+      </div>
+    </section>
+  </div>
+</div>
+{{/partial}} {{> layout/base}} -->
+
+<script>
+  const title = document.querySelector('.page-title');
+  fixRegisterTrademarkSuperScripting(title);
+
+  function fixRegisterTrademarkSuperScripting(title) {
+    titleText = title.innerHTML;
+    if (
+      titleText.includes('®') &&
+      titleText[titleText.indexOf('®') - 1] !== '>'
+    ) {
+      const beforeR = titleText.substr(0, titleText.indexOf('®'));
+      const afterR = titleText.substr(
+        titleText.indexOf('®') + 1,
+        titleText.length - 1
+      );
+      title.innerHTML = beforeR + '<sup>®</sup>' + afterR;
+    }
+  }
+</script>
+
+<script type="text/javascript">
+  $.ajax({
+    type: 'GET',
+    url: '/products/epigenetics-reagents-and-assays/cutana-cut-and-tag-assays/',
+    success: function (msg) {
+      var html = $(msg);
+      var starts = html.find('.product-listing-grid .listing-wrapper').html();
+      $('.related_pro_sec .product-listing-grid .listing-wrapper.Snap').html(
+        starts
+      );
+      $('article').removeClass('product-list-item');
+      $('article').addClass('product-grid-item');
+
+      $('.related_pro_sec .listing-wrapper.Snap').slick({
+        dots: false,
+        arrows: true,
+        infinite: true,
+        variableWidth: true,
+        mobileFirst: true,
+        slidesToShow: 4,
+        slidesToScroll: 1,
+        responsive: [
+          {
+            breakpoint: 8000,
+            settings: {
+              slidesToScroll: 1,
+              slidesToShow: 4,
+            },
+          },
+          {
+            breakpoint: 767,
+            settings: {
+              slidesToScroll: 1,
+              slidesToShow: 3,
+            },
+          },
+          {
+            breakpoint: 479,
+            settings: {
+              slidesToScroll: 1,
+              slidesToShow: 2,
+            },
+          },
+          {
+            breakpoint: 319,
+            settings: {
+              slidesToScroll: 1,
+              slidesToShow: 1,
+            },
+          },
+        ],
+      });
+    },
+  });
+</script>
+
+<script src="/content/spotlight.bundle.js"></script>
+
+<style>
+  .promo-code-offer {
+    max-width: 1170px !important;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    border: 1px solid gray;
+  }
+  .tech_generatessec .generat-inner .generat-con {
+    padding-top: 165px;
+  }
+  .tech_generatessec .generat-inner .back {
+    margin-top: 300px;
+  }
+  .spike_in_experiment .spikein_experi .spikein_experi_inner {
+    display: flex;
+    justify-content: space-between;
+  }
+  .spike_in_experiment
+    .spikein_experi
+    .spikein_experi_inner
+    .spikein_experi_img
+    .imglink
+    img {
+    display: inherit;
+    margin: 0;
+    cursor: auto;
+  }
+  .spike_in_experiment
+    .spikein_experi
+    .spikein_experi_inner
+    .spikein_experi_cont
+    ul
+    li {
+    padding-left: 20px;
+  }
+  .spike_in_experiment
+    .spikein_experi
+    .spikein_experi_inner
+    .spikein_experi_cont {
+    width: 55% !important;
+  }
+  .spike_in_experiment
+    .spikein_experi
+    .spikein_experi_inner
+    .spikein_experi_img {
+    width: 45% !important;
+  }
+
+  .spikein_assays_box .assays_box_inner .box-a-out .assays_box_a.kit,
+  .spikein_assays_box .assays_box_inner .box-b-out .assays_box_b.kit,
+  .spikein_assays_box .assays_box_inner .box-c-out .assays_box_c.kit {
+    min-height: 504px;
+  }
+  .spikein_assays .spikein_assays_inner .back {
+    min-height: 330px;
+  }
+
+  .spike_in_experiment
+    .spikein_experi
+    .spikein_experi_inner
+    .spikein_experi_cont
+    ul {
+    list-style: disc !important;
+  }
+  .spike_in_experiment
+    .spikein_experi
+    .spikein_experi_inner
+    .spikein_experi_cont
+    ul
+    li {
+    padding-left: 0 !important;
+    position: inherit !important;
+  }
+  .unique-button:hover {
+    text-decoration: none !important;
+    background-color: #9e9fa4 !important;
+  }
+  /* Slideshow Wrapper */
+  .slideshow-wrapper {
+    display: flex;
+    width: 95%;
+    max-width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    gap: 2rem;
+    padding: 3rem 0 3rem;
+  }
+  #slideshow-wrapper-reverse {
+    flex-direction: row-reverse;
+    padding-top: 4rem;
+  }
+  /* Slideshow container */
+  .slideshow-container {
+    width: 100%;
+    position: relative;
+    margin: auto;
+  }
+  /* Slideshow Image */
+  .slideshow {
+    width: 100%;
+    margin: auto;
+    /* position: relative; */
+    display: flex;
+    flex-direction: column;
+  }
+  #slideshow-2 {
+    width: fit-content;
+  }
+
+  .slideshow-content ul li {
+    margin-bottom: 0;
+  }
+  #slide-1 {
+    height: 300px;
+  }
+  .image-slides {
+    display: flex;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    align-items: center;
+    align-content: center;
+  }
+  .image-content {
+    display: flex;
+    justify-content: center;
+  }
+  /* Small Desktop */
+  @media (max-width: 991px) {
+    .tech_generatessec .generat-inner .generat-img img {
+      max-width: 600px !important;
+    }
+    /* Image Slides  */
+    .slideshow-wrapper {
+      flex-direction: column;
+    }
+    .spikein_assays {
+      padding: 40px 0;
+    }
+    .spikein_assays .spikein_assays_inner .back {
+      min-height: 250px;
+    }
+    .tech_generatessec {
+      padding-top: 2rem;
+    }
+    .cut-and-run .tech_generatessec .generat-inner .back {
+      margin-top: -180px !important;
+    }
+    .tech_generatessec .generat-inner .back.kit-back {
+      margin-top: -134px;
+    }
+  }
+  /* Tablet  */
+  @media (max-width: 820px) {
+    .spikein_assays .spikein_assays_inner .back {
+      margin-top: 330px !important;
+    }
+    .spikein_assays_box .assays_box_inner .box-a-out,
+    .spikein_assays_box .assays_box_inner .box-b-out,
+    .spikein_assays_box .assays_box_inner .box-c-out {
+      max-width: 90%;
+    }
+    .spikein_assays_box .assays_box_inner .box-a-out .assays_box_a.kit,
+    .spikein_assays_box .assays_box_inner .box-b-out .assays_box_b.kit,
+    .spikein_assays_box .assays_box_inner .box-c-out .assays_box_c.kit {
+      min-height: 485px !important;
+    }
+    .have_ques_bottom {
+      padding-top: 25px;
+    }
+
+    /* Slideshow Wrapper  */
+    .slideshow-wrapper {
+      flex-direction: column;
+      padding-top: 0;
+      width: 90% !important;
+    }
+    .slideshow-content {
+      width: 90% !important;
+    }
+    li {
+      font-size: 15px;
+    }
+    .slideshow {
+      width: 90% !important;
+    }
+  }
+  @media (max-width: 768px) {
+    .tech_generatessec .generat-inner .kit-back .generat-con {
+      padding-top: 185px !important;
+    }
+    .spike_in_experiment .spikein_experi .spikein_experi_inner {
+      flex-direction: column !important;
+      gap: 2rem;
+    }
+    .spike_in_experiment
+      .spikein_experi
+      .spikein_experi_inner
+      .spikein_experi_cont {
+      width: 100% !important;
+      max-width: 100% !important;
+    }
+    .spike_in_experiment
+      .spikein_experi
+      .spikein_experi_inner
+      .spikein_experi_img {
+      width: 100% !important;
+      max-width: 100% !important;
+    }
+  }
+  @media (max-width: 640px) {
+    .spike_in_experiment .spikein_experi .spikein_experi_inner {
+      flex-direction: column !important;
+    }
+    .spike_in_experiment
+      .spikein_experi
+      .spikein_experi_inner
+      .spikein_experi_cont
+      ul {
+      margin-left: 1rem;
+    }
+  }
+  /* Mobile  */
+  @media (max-width: 479px) {
+    .cut_tag_banner .back-img img {
+      opacity: 5 !important;
+    }
+    .banner-cont-inner h1 {
+      width: 140px;
+    }
+  }
+  @media (max-width: 425px) {
+    .tech_generatessec .generat-inner .kit-back .generat-con {
+      padding-top: 160px !important;
+    }
+  }
+</style>
