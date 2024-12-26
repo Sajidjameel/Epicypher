@@ -1,0 +1,103 @@
+</br>
+<p>
+<a  class="un" href="https://www.epicypher.com/resources/protocols/">CUT&RUN and CUT&Tag protocols</a> have transformed the epigenetics field by offering faster, more accessible alternatives to traditional <a  class="un" href="https://www.epicypher.com/resources/blogchromatin-mapping-basics-chipseq/">ChIP-seq</a> chromatin mapping assays. However, as with any new technology, CUT&RUN and CUT&Tag protocols come with a learning curve. User questions about CUT&RUN and CUT&Tag sample prep, antibody validation, assay controls, and data analysis need to be addressed for best results. 
+</p>
+<p>
+At EpiCypher, we’ve spent years identifying and resolving these pain points so we can proactively provide researchers with the tools and guidance to successfully implement CUT&RUN and CUT&Tag. From validated reagents to expert support, we are committed to ensuring that users unlock the full potential of these cutting-edge technologies.
+</p>
+
+<p>
+In 2023, we introduced our <a class="un" href="https://support.epicypher.com/">Tech Support Center</a> to centralize answers to common questions about the CUT&RUN protocol. We have recently expanded the Tech Support Center to cover CUT&Tag-related inquiries, as well as other questions we increasingly see customers asking—like how to make <a  class="un" href="https://support.epicypher.com/docs/facs-cells-cut-and-run/">FACS-isolated cells compatible with CUT&RUN</a>. Below, check out some common pain points our users encounter with CUT&RUN and CUT&Tag technologies, and read the linked Tech Support Center articles for expert-backed guidance. 
+</p>
+
+<p style="text-align: center; padding: 2rem 0">
+  <a class="button blog-content-button" href="https://support.epicypher.com" style="color: white">
+    Visit our Tech Support Center for on-demand CUT&RUN and CUT&Tag guidance!</a>
+</p>
+
+<h2>
+  <strong>Common challenges in CUT&RUN and CUT&Tag assays</strong>
+</h2>
+
+<p>
+CUT&RUN and CUT&Tag protocols are user-friendly, especially compared to more labor-intensive ChIP-seq assays. But no assay is perfect! Some common areas where problems arise include:
+</p>
+<ul>
+<li><strong>Sample prep</strong>: The better the starting cell sample, the better your CUT&RUN and CUT&Tag sequencing data will be. Issues can include confirming cell viability and integrity, optimizing Digitonin concentration, and performing cross-linking correctly.</li>
+
+<li><strong>Antibody selection and validation</strong>: The success of these assays is highly dependent on antibody quality. But what makes a good CUT&RUN or CUT&Tag antibody?</li>
+
+<li><strong>Assay controls</strong>: What controls are required? Applying and interpreting appropriate CUT&RUN and CUT&Tag controls can be difficult, but they are essential for assay success.</li>
+
+<li><strong>Data analysis</strong>: Processing CUT&RUN and CUT&Tag sequencing data, analyzing control metrics, and understanding with background signal are key steps that can require specialized guidance.</li>
+</ul>
+
+
+<h2>
+  <strong>EpiCypher’s Tech Support Center: Your One-Stop Resource for CUT&RUN and CUT&Tag</strong>
+</h2>
+
+<p>
+At EpiCypher, we pride ourselves not only on the quality of our CUTANA™ <a  class="un" href="https://www.epicypher.com/products/epigenetics-reagents-and-assays/cutana-chic-cut-and-run-kit/">CUT&RUN</a> and <a  class="un" href="https://www.epicypher.com/products/epigenetics-kits-and-reagents/cutana-cut-and-tag-kit/">CUT&Tag</a> Kits, but also on the extensive library of resources we’ve designed to help scientists succeed. Our Tech Support Center is an important aspect of this support—read more below to find out how we address common troubleshooting questions, including the recent introduction of support for inquiries related to CUT&Tag!
+</p>
+<h2><strong>CUT&RUN and CUT&Tag Sample Prep Protocols</strong></h2>
+
+<ul>
+<li><strong><a class="un" href="https://support.epicypher.com/docs/confirm-high-quality-sample-prep-cut-and-run">How to confirm high-quality sample prep in CUT&RUN</a></strong>: This article offers detailed instructions on obtaining high-quality cells for CUT&RUN protocols. We provide examples of our recommended quality controls checks performed at initial cell harvest, before ConA bead binding, and after ConA bead binding.</li>
+
+<li><strong><a class="un" href="https://support.epicypher.com/docs/nuclei-extraction-protocol-for-cutana-assays">Nuclei extraction protocol for CUTANA assays</a></strong>:  A focused guide on obtaining nuclei from cells or tissue for use in CUT&RUN or CUT&Tag. This resource also includes advice for nuclei cryopreservation and thawing.</li>
+
+
+<li><strong><a class="un" href="https://support.epicypher.com/docs/facs-cells-cut-and-run">Are FACS-isolated cells compatible with CUT&RUN?</a></strong>: This article discusses the compatibility of FACS (Fluorescence Activated Cell Sorting) isolated samples with CUT&RUN. It covers best practices for integrating the two technologies, including FAQs about cell fixation, intracellular staining, and sample stability.</li>
+
+
+</ul>
+<h2><strong>Choosing and Validating Antibodies</strong></h2>
+
+<ul>
+<li><strong><a class="un" href="https://support.epicypher.com/docs/how-to-validate-histone-ptm-antibodies">How to validate histone PTM antibodies</a></strong>: A comprehensive guide on choosing the right histone PTM antibody, validating it effectively, and identifying common issues like cross-reactivity and high background signal.</li>
+
+<li><strong><a class="un" href="https://support.epicypher.com/docs/can-i-use-my-chip-antibody-for-cut-and-tag">Can I use my ChIP antibody for CUTANA assays?</a></strong>: This article addresses a common question from ChIP-seq users transitioning to CUTANA CUT&RUN and CUT&Tag assays. The short answer is: you can try, but many ChIP-grade antibodies fail to generate high-quality profiles in CUT&RUN.</li>
+
+<li><strong><a class="un" href="https://support.epicypher.com/docs/cut-and-run-validate-a-chromatin-protein-antibody">How to validate antibodies for chromatin proteins, like transcription factors</a></strong>: We outline our process for validating antibodies in CUT&RUN for chromatin-bound proteins. Note that CUT&Tag is NOT recommended for mapping chromatin proteins!</li>
+</ul>
+
+
+
+
+<h2><strong>Using and Interpreting Controls and Success Metrics</strong></h2>
+
+<ul>
+<li><strong><a class="un" href="https://support.epicypher.com/docs/what-are-snap-cutana-spike-ins-cut-and-run">What are SNAP-CUTANA™ Spike-ins? How do they work?</a></strong>: This article explains the concept behind our unique panel of DNA-barcoded nucleosome spike-in controls, and how they can be paired with H3K4me3, H3K27me3, and IgG control antibodies to monitor CUT&RUN and CUT&Tag success. </li>
+
+<li><strong><a class="un" href="https://support.epicypher.com/docs/what-controls-should-i-use-cut-and-run">What control antibodies and spike-ins should I use in CUT&RUN?</a> or <a class="un" href="https://support.epicypher.com/docs/what-controls-should-i-use-cut-and-tag">CUT&Tag</a></strong>: Here we outline our recommendations for control antibodies and spike-ins for each assay. We include these controls in every experiment to ensure high-quality results.</li>
+
+<li><strong><a class="un" href="https://support.epicypher.com/docs/cona-bead-binding-success-cut-and-run">How do I know ConA bead binding was successful?</a></strong>: A comprehensive checklist of ways to assess whether your cells or nuclei are properly bound to ConA beads.</li>
+</ul>
+
+<h2><strong>Data Analysis and Interpretation</strong></h2>
+<ul>
+<li><strong>Sequencing Metrics for <a class="un" href="https://support.epicypher.com/docs/cut-and-run-sequencing-metrics">CUT&RUN</a> and <a class="un" href="https://support.epicypher.com/docs/cut-and-tag-sequencing-metrics">CUT&Tag</a> </strong>Learn how deeply you should sequence your reactions, what are acceptable levels of duplication in each reaction, and more. </li>
+
+<li><strong><a class="un" href="https://support.epicypher.com/v1/docs/analyzing-cut-and-run-cut-and-tag-data">Analyzing CUT&RUN and CUT&Tag Sequencing Data </a></strong>: This article provides a straightforward workflow for handling sequencing data, including peak calling and filtering. For a more detailed bioinformatic pipeline, see our <a class="un" href="https://www.biorxiv.org/content/10.1101/2024.12.03.626419v1">CUT&RUN protocol paper</a>.</li>
+
+<li><strong><a class="un" href="https://support.epicypher.com/docs/normalizing-to-e-coli-spike-in-dna">Normalizing to <i>E. coli </i>Spike-in DNA in CUT&RUN</a></strong>: A detailed guide for the computational normalization of CUT&RUN data using <i>E. coli</i> Spike-in DNA.</li>
+</ul>
+
+<p style="text-align: center; padding: 2rem 0">
+  <a class="button blog-content-button" href="https://www.epicypher.com/products/epigenetics-kits-and-reagents/cutana-chic-cut-run-kit" style="color: white">
+ Get started now with the 24-reaction CUTANA™ CUT&RUN Kit</a>
+</p>
+
+<h2><strong>Jump-start your CUT&RUN and CUT&Tag experiments!</strong></h2>
+<p>EpiCypher’s Technical Support Center is designed to provide you with the resources and guidance you need to successfully execute CUT&RUN and CUT&Tag protocols. Our team continuously updates the Tech Support Center with the latest best practices and insights to help you stay at the forefront of epigenetic research.</p>
+<p>If you still have questions, especially about a topic not currently covered in the Tech Support Center, don’t hesitate to <a class="un" href="https://www.epicypher.com/contact-us/">reach out to our Tech Support team</a>, who are always happy to help!
+</p>
+
+</br>
+
+<style>
+a.un{
+text-decoration:underline;
+}
+</style>
