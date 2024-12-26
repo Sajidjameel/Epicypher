@@ -1,0 +1,442 @@
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+
+<p
+  style="
+    border: 2px solid darkgray;
+    color: #000 !important;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 60px;
+    padding: 2rem 0;
+    padding: 2px 15px;
+    line-height: 1.35;
+  "
+>
+  Please fill out the form below if you want to request a quote for our products, services or need an estimate for bulk/custom orders. EpiCypher operates in the Easter time zone. Other time zones may experience a slight delay in responses.
+</p>
+
+<!--  ----------------------------------------------------------------------  -->
+<!--  NOTE: Please add the following <META> element to your page <HEAD>.      -->
+<!--  If necessary, please modify the charset parameter to specify the        -->
+<!--  character set of your HTML page.                                        -->
+<!--  ----------------------------------------------------------------------  -->
+
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+<!--  NOTE: Please add the following <FORM> element to your page.             -->
+<!--  ----------------------------------------------------------------------  -->
+
+
+<script src="https://www.google.com/recaptcha/api.js"></script>
+<script>
+ function timestamp() { var response = document.getElementById("g-recaptcha-response"); if (response == null || response.value.trim() == "") {var elems = JSON.parse(document.getElementsByName("captcha_settings")[0].value);elems["ts"] = JSON.stringify(new Date().getTime());document.getElementsByName("captcha_settings")[0].value = JSON.stringify(elems); } } setInterval(timestamp, 500); 
+</script>
+
+
+<form
+  id="contactForm"
+  action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8&orgId=00D1N000002dNN1"
+  method="POST"
+>
+
+  <input type=hidden name='captcha_settings' value='{"keyname":"EpiCypher_Contact_Captcha","fallback":"true","orgId":"00D1N000002dNN1","ts":""}'>
+
+  <input type="hidden" name="oid" value="00D1N000002dNN1" />
+  <input
+    type="hidden"
+    name="retURL"
+    value="https://www.epicypher.com/contact-us/request-a-quote/thank-you"
+  />
+  <input
+    type="hidden"
+    name="lead_source"
+    value="Request a Quote - Website"
+  />
+  <input type="hidden" name="pi__score__c" value="50" />
+  <input type=hidden name="UTM_Campaign__c" value="[utmcampaign]">
+  <input type=hidden name="UTM_Content__c" value="[utmcontent]">
+  <input type=hidden name="UTM_Medium__c" value="[utmmedium]">
+  <input type=hidden name="UTM_Source__c" value="[utmsource]">
+  <input type=hidden name="UTM_Term__c" value="[utmsterm]">
+
+  <!--  ----------------------------------------------------------------------  -->
+  <!--  NOTE: These fields are optional debugging elements. Please uncomment    -->
+  <!--  these lines if you wish to test in debug mode.                          -->
+  <!--  <input type="hidden" name="debug" value=1>                              -->
+  <!--  <input type="hidden" name="debugEmail"                                  -->
+  <!--  value="marketing@epicypher.com">                                        -->
+  <!--  ----------------------------------------------------------------------  -->
+
+  <div class="row">
+    <div class="columns-grid">
+      <div class="column">
+        <label for="first_name">First Name*</label>
+        <input
+          id="first_name"
+          maxlength="40"
+          name="first_name"
+          size="20"
+          type="text"
+          required=""
+        />
+      </div>
+      <div class="column">
+        <label for="last_name">Last Name*</label>
+        <input
+          id="last_name"
+          maxlength="80"
+          name="last_name"
+          size="20"
+          type="text"
+          required=""
+        />
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="columns-grid">
+      <div class="column">
+        <label for="company">Company*</label>
+        <input
+          id="company"
+          maxlength="40"
+          name="company"
+          size="20"
+          type="text"
+          required=""
+        />
+      </div>
+      <div class="column">
+        <label for="title">Title*</label>
+        <input
+          id="title"
+          maxlength="40"
+          name="title"
+          size="20"
+          type="text"
+        />
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <label for="email">Email*</label>
+    <input
+      id="email"
+      maxlength="80"
+      name="email"
+      size="20"
+      type="email"
+      required=""
+    />
+  </div>
+
+  <div class="row">
+    <label for="Product_Interest__c">Product Interest*</label>
+    <select
+      id="Product_Interest__c"
+      multiple="multiple"
+      name="Product_Interest__c"
+      title="Product Interest"
+      required=""
+    >
+      <option value="CUT&RUN Assay Products">
+        CUT&RUN Assay Products
+      </option>
+      <option value="CUT&Tag Assay Products">
+        CUT&Tag Assay Products
+      </option>
+      <option value="Certified Antibodies">
+        Certified Antibodies
+      </option>
+      <option value="Bioinformatics Portal">
+        Bioinformatics Portal
+      </option>
+      <option value="Recombinant Nucleosomes and Components">
+        Recombinant Nucleosomes and Components
+      </option>
+      <option value="Chromatin Remodeling Enzymes">
+        Chromatin Remodeling Enzymes
+      </option>
+      <option value="Chromatin Remodeling Substrates">
+        Chromatin Remodeling Substrates
+      </option>
+      <option value="Histone Binding Domains">
+        Histone Binding Domains
+      </option>
+      <option value="NETosis Assays">NETosis Assays</option>
+      <option value="Ubiquitin PTMs">Ubiquitin PTMs</option>
+      <option value="DNA Methylation">DNA Methylation</option>
+      <option value="Other">Other</option>
+    </select>
+  </div>
+
+  <div class="row">
+    <label for="Message__c">Message*</label>
+    <textarea
+      id="Message__c"
+      name="Message__c"
+      title="Message"
+      rows="3"
+      type="text"
+      wrap="soft"
+      required=""
+    ></textarea>
+  </div>
+
+  <p
+    style="
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 15px;
+      font-size: 18px !important;
+    "
+  >
+    By clicking "Submit" you are agreeing to EpiCypher's
+    <a class="priva" href="https://www.epicypher.com/privacy/"
+      >Privacy Policy</a
+    >.
+  </p>
+
+  <div class="g-recaptcha" data-sitekey="6Lf7DFkpAAAAAPOXEvEyOGVBsST826QGRiGS2KB_"></div><br>
+
+  <input type="submit" name="submit" class="submit" />
+</form>
+
+<style>
+  /* Set additional styling options for the columns*/
+  .columns-grid {
+    display: grid;
+    /* width: 50%; */
+    grid-template-columns: repeat(2, 1fr);
+    gap: 4rem;
+  }
+
+  .max-width_wrap {
+    margin: auto;
+  }
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  label {
+    clear: left;
+    text-align: left;
+    padding-right: 10px;
+    font-family: "Nunito Sans", "Arial", sans-serif;
+  }
+
+  input,
+  text,
+  textarea,
+  label,
+  form {
+    font-family: "Nunito Sans", "Arial", sans-serif;
+  }
+  form {
+    clear: left;
+    text-align: left;
+    font-family: "Nunito Sans", "Arial", sans-serif;
+  }
+
+  input,
+  select,
+  textarea {
+    background-color: #f5f8fa;
+    border-radius: 10px;
+    padding: 5px 0px 5px 10px;
+    border: solid 1px #919390;
+    width: 100%;
+  }
+  input,
+  label,
+  textarea {
+    display: flex;
+  }
+
+  [multiple],
+  [type="date"],
+  [type="datetime-local"],
+  [type="email"],
+  [type="month"],
+  [type="number"],
+  [type="password"],
+  [type="search"],
+  [type="tel"],
+  [type="text"],
+  [type="time"],
+  [type="url"],
+  [type="week"],
+  select,
+  textarea {
+    margin-bottom: 1rem;
+    padding: 8px 10px 10px 10px  !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    width: 100% !important;
+  }
+
+  input,
+  select,
+  textarea {
+    width: 100% !important;
+padding: 8px 10px 10px 10px  !important;
+  }
+
+  .row {
+    margin-right: 0;
+    margin-left: 0;
+    clear: both;
+  }
+
+  input.submit {
+    border-radius: 30px;
+    margin: auto;
+    border-radius: 30px;
+    font-size: 18px !important;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    clear: left;
+    display: block;
+    margin: auto;
+    padding: 5px 10px 5px 10px;
+    border-color: #309b42 !important;
+    background-color: #309b42 !important;
+    height: 40px;
+    width: 125px !important;
+  }
+
+  .g-recaptcha {
+    /* margin-left: 55px; */
+    margin-top: 30px;
+    margin-bottom: 15px;
+  }
+
+  .g-recaptcha + p {
+    margin-bottom: 26px;
+  }
+
+  .page .page-content p {
+    color: #000000 !important;
+    margin-bottom: 20px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    font-size: 18px !important;
+  }
+  #Product_Interest__c option {
+    font-size: 18px !important;
+    color: #000000 !important;
+  }
+
+  @media screen and (max-width: 850px) {
+    label {
+      font-size: 18px !important;
+      padding: 0px 0 !important;
+    }
+    .columns-grid {
+      gap: 1rem;
+    }
+  }
+
+  @media screen and (max-width: 576px) {
+    .columns-grid {
+      gap: 1rem;
+      grid-template-columns: repeat(1, 1fr);
+    }
+  }
+</style>
+
+<script src="https://www.google.com/recaptcha/api.js"></script>
+<script>
+  function timestamp() {
+    var response = document.getElementById("g-recaptcha-response");
+    if (response == null || response.value.trim() == "") {
+      var elems = JSON.parse(
+        document.getElementsByName("captcha_settings")[0].value
+      );
+      elems["ts"] = JSON.stringify(new Date().getTime());
+      document.getElementsByName("captcha_settings")[0].value =
+        JSON.stringify(elems);
+    }
+  }
+  setInterval(timestamp, 500);
+
+  document
+    .getElementById("contactForm")
+    .addEventListener("submit", function (event) {
+      var recaptchaResponse = grecaptcha.getResponse();
+
+      if (recaptchaResponse === "") {
+        // reCAPTCHA not completed, prevent form submission
+        event.preventDefault();
+        alert("Please complete the reCAPTCHA");
+      } else {
+        // reCAPTCHA completed, allow form submission
+        // You can also perform additional validation if needed
+      }
+    });
+</script>
+
+<script>
+
+function getUTMParameter(name) {
+
+let result = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+
+return result === null ? '' : decodeURIComponent(result[1]) || '';
+
+}
+
+
+
+document.addEventListener("DOMContentLoaded", function() {
+
+document.querySelector("input[name='UTM_Campaign__c']").value = getUTMParameter('utm_campaign');
+
+document.querySelector("input[name='UTM_Content__c']").value = getUTMParameter('utm_content');
+
+document.querySelector("input[name='UTM_Medium__c']").value = getUTMParameter('utm_medium');
+
+document.querySelector("input[name='UTM_Source__c']").value = getUTMParameter('utm_source');
+
+document.querySelector("input[name='UTM_Term__c']").value = getUTMParameter('utm_term');
+
+});
+
+</script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const formSubmitButton = document.querySelector("#contactForm .submit");
+    formSubmitButton.setAttribute("disabled", true);
+
+    function validateForm() {
+      const recaptchaResponse = grecaptcha.getResponse();
+      const requiredFields = document.querySelectorAll("#contactForm input[required], #contactForm textarea[required]");
+      const allFieldsValid = Array.from(requiredFields).every(field => field.value.trim() !== "");
+
+      if (recaptchaResponse !== '' && allFieldsValid) {
+        formSubmitButton.removeAttribute("disabled");
+      } else {
+        formSubmitButton.setAttribute("disabled", true);
+      }
+    }
+
+    // Trigger form validation on required fields change
+    const requiredFields = document.querySelectorAll("#contactForm input[required], #contactForm textarea[required]");
+    requiredFields.forEach(field => {
+      field.addEventListener("input", validateForm);
+    });
+
+    // Ensure the reCAPTCHA callback is called when it's completed
+    window.recaptchaCallback = validateForm;
+
+    // Check reCAPTCHA state periodically
+    setInterval(validateForm, 500);
+  });
+</script>
